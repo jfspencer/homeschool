@@ -1,0 +1,1214 @@
+[
+  {
+    "word": "I",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "ice",
+    "word_type": "noun"
+  },
+  {
+    "word": "ice",
+    "word_type": "cream noun"
+  },
+  {
+    "word": "idea",
+    "word_type": "noun"
+  },
+  {
+    "word": "if",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "imagine",
+    "word_type": "verb"
+  },
+  {
+    "word": "important",
+    "word_type": "adjective"
+  },
+  {
+    "word": "improve",
+    "word_type": "verb"
+  },
+  {
+    "word": "in",
+    "word_type": "adverb"
+  },
+  {
+    "word": "in",
+    "word_type": "preposition"
+  },
+  {
+    "word": "include",
+    "word_type": "verb"
+  },
+  {
+    "word": "information",
+    "word_type": "noun"
+  },
+  {
+    "word": "interest",
+    "word_type": "noun"
+  },
+  {
+    "word": "interest",
+    "word_type": "verb"
+  },
+  {
+    "word": "interested",
+    "word_type": "adjective"
+  },
+  {
+    "word": "interesting",
+    "word_type": "adjective"
+  },
+  {
+    "word": "internet",
+    "word_type": "noun"
+  },
+  {
+    "word": "interview",
+    "word_type": "noun"
+  },
+  {
+    "word": "interview",
+    "word_type": "verb"
+  },
+  {
+    "word": "into",
+    "word_type": "preposition"
+  },
+  {
+    "word": "introduce",
+    "word_type": "verb"
+  },
+  {
+    "word": "island",
+    "word_type": "noun"
+  },
+  {
+    "word": "it",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "its",
+    "word_type": "determiner"
+  },
+  {
+    "word": "jacket",
+    "word_type": "noun"
+  },
+  {
+    "word": "January",
+    "word_type": "noun"
+  },
+  {
+    "word": "jeans",
+    "word_type": "noun"
+  },
+  {
+    "word": "job",
+    "word_type": "noun"
+  },
+  {
+    "word": "join",
+    "word_type": "verb"
+  },
+  {
+    "word": "journey",
+    "word_type": "noun"
+  },
+  {
+    "word": "juice",
+    "word_type": "noun"
+  },
+  {
+    "word": "July",
+    "word_type": "noun"
+  },
+  {
+    "word": "June",
+    "word_type": "noun"
+  },
+  {
+    "word": "just",
+    "word_type": "adverb"
+  },
+  {
+    "word": "keep",
+    "word_type": "verb"
+  },
+  {
+    "word": "key",
+    "word_type": "adjective"
+  },
+  {
+    "word": "key",
+    "word_type": "noun"
+  },
+  {
+    "word": "kilometre",
+    "word_type": "noun"
+  },
+  {
+    "word": "kind",
+    "word_type": "noun"
+  },
+  {
+    "word": "kitchen",
+    "word_type": "noun"
+  },
+  {
+    "word": "know",
+    "word_type": "verb"
+  },
+  {
+    "word": "land",
+    "word_type": "noun"
+  },
+  {
+    "word": "language",
+    "word_type": "noun"
+  },
+  {
+    "word": "large",
+    "word_type": "adjective"
+  },
+  {
+    "word": "last",
+    "word_type": "determiner"
+  },
+  {
+    "word": "late",
+    "word_type": "adjective"
+  },
+  {
+    "word": "late",
+    "word_type": "adverb"
+  },
+  {
+    "word": "later",
+    "word_type": "adverb"
+  },
+  {
+    "word": "laugh",
+    "word_type": "noun"
+  },
+  {
+    "word": "laugh",
+    "word_type": "verb"
+  },
+  {
+    "word": "learn",
+    "word_type": "verb"
+  },
+  {
+    "word": "leave",
+    "word_type": "verb"
+  },
+  {
+    "word": "left",
+    "word_type": "adjective"
+  },
+  {
+    "word": "left",
+    "word_type": "adverb"
+  },
+  {
+    "word": "left",
+    "word_type": "noun"
+  },
+  {
+    "word": "leg",
+    "word_type": "noun"
+  },
+  {
+    "word": "lesson",
+    "word_type": "noun"
+  },
+  {
+    "word": "let",
+    "word_type": "verb"
+  },
+  {
+    "word": "letter",
+    "word_type": "noun"
+  },
+  {
+    "word": "library",
+    "word_type": "noun"
+  },
+  {
+    "word": "lie",
+    "word_type": "verb"
+  },
+  {
+    "word": "life",
+    "word_type": "noun"
+  },
+  {
+    "word": "light",
+    "word_type": "adjective"
+  },
+  {
+    "word": "light",
+    "word_type": "noun"
+  },
+  {
+    "word": "like",
+    "word_type": "preposition"
+  },
+  {
+    "word": "like",
+    "word_type": "verb"
+  },
+  {
+    "word": "line",
+    "word_type": "noun"
+  },
+  {
+    "word": "lion",
+    "word_type": "noun"
+  },
+  {
+    "word": "list",
+    "word_type": "noun"
+  },
+  {
+    "word": "list",
+    "word_type": "verb"
+  },
+  {
+    "word": "listen",
+    "word_type": "verb"
+  },
+  {
+    "word": "little",
+    "word_type": "adjective"
+  },
+  {
+    "word": "little",
+    "word_type": "determiner"
+  },
+  {
+    "word": "little",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "live",
+    "word_type": "verb"
+  },
+  {
+    "word": "local",
+    "word_type": "adjective"
+  },
+  {
+    "word": "long",
+    "word_type": "adjective"
+  },
+  {
+    "word": "long",
+    "word_type": "adverb"
+  },
+  {
+    "word": "look",
+    "word_type": "verb"
+  },
+  {
+    "word": "lose",
+    "word_type": "verb"
+  },
+  {
+    "word": "lot",
+    "word_type": "adverb"
+  },
+  {
+    "word": "lot",
+    "word_type": "determiner"
+  },
+  {
+    "word": "lot",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "love",
+    "word_type": "noun"
+  },
+  {
+    "word": "love",
+    "word_type": "verb"
+  },
+  {
+    "word": "lunch",
+    "word_type": "noun"
+  },
+  {
+    "word": "machine",
+    "word_type": "noun"
+  },
+  {
+    "word": "magazine",
+    "word_type": "noun"
+  },
+  {
+    "word": "main",
+    "word_type": "adjective"
+  },
+  {
+    "word": "make",
+    "word_type": "verb"
+  },
+  {
+    "word": "man",
+    "word_type": "noun"
+  },
+  {
+    "word": "many",
+    "word_type": "determiner"
+  },
+  {
+    "word": "many",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "map",
+    "word_type": "noun"
+  },
+  {
+    "word": "March",
+    "word_type": "noun"
+  },
+  {
+    "word": "market",
+    "word_type": "noun"
+  },
+  {
+    "word": "married",
+    "word_type": "adjective"
+  },
+  {
+    "word": "match",
+    "word_type": "noun"
+  },
+  {
+    "word": "match",
+    "word_type": "verb"
+  },
+  {
+    "word": "May",
+    "word_type": "noun"
+  },
+  {
+    "word": "maybe",
+    "word_type": "adverb"
+  },
+  {
+    "word": "me",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "meal",
+    "word_type": "noun"
+  },
+  {
+    "word": "mean",
+    "word_type": "verb"
+  },
+  {
+    "word": "meaning",
+    "word_type": "noun"
+  },
+  {
+    "word": "meat",
+    "word_type": "noun"
+  },
+  {
+    "word": "meet",
+    "word_type": "verb"
+  },
+  {
+    "word": "meeting",
+    "word_type": "noun"
+  },
+  {
+    "word": "member",
+    "word_type": "noun"
+  },
+  {
+    "word": "menu",
+    "word_type": "noun"
+  },
+  {
+    "word": "message",
+    "word_type": "noun"
+  },
+  {
+    "word": "metre",
+    "word_type": "noun"
+  },
+  {
+    "word": "midnight",
+    "word_type": "noun"
+  },
+  {
+    "word": "mile",
+    "word_type": "noun"
+  },
+  {
+    "word": "milk",
+    "word_type": "noun"
+  },
+  {
+    "word": "million",
+    "word_type": "number"
+  },
+  {
+    "word": "minute",
+    "word_type": "noun"
+  },
+  {
+    "word": "miss",
+    "word_type": "verb"
+  },
+  {
+    "word": "mistake",
+    "word_type": "noun"
+  },
+  {
+    "word": "model",
+    "word_type": "noun"
+  },
+  {
+    "word": "modern",
+    "word_type": "adjective"
+  },
+  {
+    "word": "moment",
+    "word_type": "noun"
+  },
+  {
+    "word": "Monday",
+    "word_type": "noun"
+  },
+  {
+    "word": "money",
+    "word_type": "noun"
+  },
+  {
+    "word": "month",
+    "word_type": "noun"
+  },
+  {
+    "word": "more",
+    "word_type": "adverb"
+  },
+  {
+    "word": "more",
+    "word_type": "determiner"
+  },
+  {
+    "word": "more",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "morning",
+    "word_type": "noun"
+  },
+  {
+    "word": "most",
+    "word_type": "adverb"
+  },
+  {
+    "word": "most",
+    "word_type": "determiner"
+  },
+  {
+    "word": "most",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "mother",
+    "word_type": "noun"
+  },
+  {
+    "word": "mountain",
+    "word_type": "noun"
+  },
+  {
+    "word": "mouse",
+    "word_type": "noun"
+  },
+  {
+    "word": "mouth",
+    "word_type": "noun"
+  },
+  {
+    "word": "move",
+    "word_type": "verb"
+  },
+  {
+    "word": "movie",
+    "word_type": "noun"
+  },
+  {
+    "word": "much",
+    "word_type": "adverb"
+  },
+  {
+    "word": "much",
+    "word_type": "determiner"
+  },
+  {
+    "word": "much",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "mum",
+    "word_type": "noun"
+  },
+  {
+    "word": "museum",
+    "word_type": "noun"
+  },
+  {
+    "word": "music",
+    "word_type": "noun"
+  },
+  {
+    "word": "must",
+    "word_type": "modal verb"
+  },
+  {
+    "word": "my",
+    "word_type": "determiner"
+  },
+  {
+    "word": "name",
+    "word_type": "noun"
+  },
+  {
+    "word": "name",
+    "word_type": "verb"
+  },
+  {
+    "word": "natural",
+    "word_type": "adjective"
+  },
+  {
+    "word": "near",
+    "word_type": "adjective"
+  },
+  {
+    "word": "near",
+    "word_type": "adverb"
+  },
+  {
+    "word": "near",
+    "word_type": "preposition"
+  },
+  {
+    "word": "need",
+    "word_type": "verb"
+  },
+  {
+    "word": "negative",
+    "word_type": "adjective"
+  },
+  {
+    "word": "neighbour",
+    "word_type": "noun"
+  },
+  {
+    "word": "never",
+    "word_type": "adverb"
+  },
+  {
+    "word": "new",
+    "word_type": "adjective"
+  },
+  {
+    "word": "news",
+    "word_type": "noun"
+  },
+  {
+    "word": "newspaper",
+    "word_type": "noun"
+  },
+  {
+    "word": "next",
+    "word_type": "adjective"
+  },
+  {
+    "word": "next",
+    "word_type": "adverb"
+  },
+  {
+    "word": "next",
+    "word_type": "to preposition"
+  },
+  {
+    "word": "nice",
+    "word_type": "adjective"
+  },
+  {
+    "word": "night",
+    "word_type": "noun"
+  },
+  {
+    "word": "nine",
+    "word_type": "number"
+  },
+  {
+    "word": "nineteen",
+    "word_type": "number"
+  },
+  {
+    "word": "ninety",
+    "word_type": "number"
+  },
+  {
+    "word": "no",
+    "word_type": "determiner"
+  },
+  {
+    "word": "no",
+    "word_type": "exclamation"
+  },
+  {
+    "word": "no",
+    "word_type": "one pronoun"
+  },
+  {
+    "word": "nobody",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "north",
+    "word_type": "adjective"
+  },
+  {
+    "word": "north",
+    "word_type": "adverb"
+  },
+  {
+    "word": "north",
+    "word_type": "noun"
+  },
+  {
+    "word": "nose",
+    "word_type": "noun"
+  },
+  {
+    "word": "not",
+    "word_type": "adverb"
+  },
+  {
+    "word": "note",
+    "word_type": "noun"
+  },
+  {
+    "word": "nothing",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "November",
+    "word_type": "noun"
+  },
+  {
+    "word": "now",
+    "word_type": "adverb"
+  },
+  {
+    "word": "number",
+    "word_type": "noun"
+  },
+  {
+    "word": "nurse",
+    "word_type": "noun"
+  },
+  {
+    "word": "o'clock",
+    "word_type": "adverb"
+  },
+  {
+    "word": "object",
+    "word_type": "noun"
+  },
+  {
+    "word": "October",
+    "word_type": "noun"
+  },
+  {
+    "word": "of",
+    "word_type": "preposition"
+  },
+  {
+    "word": "off",
+    "word_type": "adverb"
+  },
+  {
+    "word": "off",
+    "word_type": "preposition"
+  },
+  {
+    "word": "office",
+    "word_type": "noun"
+  },
+  {
+    "word": "often",
+    "word_type": "adverb"
+  },
+  {
+    "word": "oh",
+    "word_type": "exclamation"
+  },
+  {
+    "word": "OK",
+    "word_type": "adjective"
+  },
+  {
+    "word": "OK",
+    "word_type": "adverb"
+  },
+  {
+    "word": "OK",
+    "word_type": "exclamation"
+  },
+  {
+    "word": "old",
+    "word_type": "adjective"
+  },
+  {
+    "word": "on",
+    "word_type": "adverb"
+  },
+  {
+    "word": "on",
+    "word_type": "preposition"
+  },
+  {
+    "word": "once",
+    "word_type": "adverb"
+  },
+  {
+    "word": "one",
+    "word_type": "determiner"
+  },
+  {
+    "word": "one",
+    "word_type": "number"
+  },
+  {
+    "word": "one",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "onion",
+    "word_type": "noun"
+  },
+  {
+    "word": "online",
+    "word_type": "adjective"
+  },
+  {
+    "word": "online",
+    "word_type": "adverb"
+  },
+  {
+    "word": "only",
+    "word_type": "adjective"
+  },
+  {
+    "word": "only",
+    "word_type": "adverb"
+  },
+  {
+    "word": "open",
+    "word_type": "adjective"
+  },
+  {
+    "word": "open",
+    "word_type": "verb"
+  },
+  {
+    "word": "opinion",
+    "word_type": "noun"
+  },
+  {
+    "word": "opposite",
+    "word_type": "adjective"
+  },
+  {
+    "word": "opposite",
+    "word_type": "adverb"
+  },
+  {
+    "word": "opposite",
+    "word_type": "noun"
+  },
+  {
+    "word": "opposite",
+    "word_type": "preposition"
+  },
+  {
+    "word": "or",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "orange",
+    "word_type": "adjective"
+  },
+  {
+    "word": "orange",
+    "word_type": "noun"
+  },
+  {
+    "word": "order",
+    "word_type": "noun"
+  },
+  {
+    "word": "order",
+    "word_type": "verb"
+  },
+  {
+    "word": "other",
+    "word_type": "adjective"
+  },
+  {
+    "word": "other",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "our",
+    "word_type": "determiner"
+  },
+  {
+    "word": "out",
+    "word_type": "adverb"
+  },
+  {
+    "word": "out",
+    "word_type": "preposition"
+  },
+  {
+    "word": "outside",
+    "word_type": "adverb"
+  },
+  {
+    "word": "over",
+    "word_type": "adverb"
+  },
+  {
+    "word": "over",
+    "word_type": "preposition"
+  },
+  {
+    "word": "own",
+    "word_type": "adjective"
+  },
+  {
+    "word": "own",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "page",
+    "word_type": "noun"
+  },
+  {
+    "word": "paint",
+    "word_type": "noun"
+  },
+  {
+    "word": "paint",
+    "word_type": "verb"
+  },
+  {
+    "word": "painting",
+    "word_type": "noun"
+  },
+  {
+    "word": "pair",
+    "word_type": "noun"
+  },
+  {
+    "word": "paper",
+    "word_type": "noun"
+  },
+  {
+    "word": "paragraph",
+    "word_type": "noun"
+  },
+  {
+    "word": "parent",
+    "word_type": "noun"
+  },
+  {
+    "word": "park",
+    "word_type": "noun"
+  },
+  {
+    "word": "park",
+    "word_type": "verb"
+  },
+  {
+    "word": "part",
+    "word_type": "noun"
+  },
+  {
+    "word": "partner",
+    "word_type": "noun"
+  },
+  {
+    "word": "party",
+    "word_type": "noun"
+  },
+  {
+    "word": "passport",
+    "word_type": "noun"
+  },
+  {
+    "word": "past",
+    "word_type": "adjective"
+  },
+  {
+    "word": "past",
+    "word_type": "noun"
+  },
+  {
+    "word": "past",
+    "word_type": "preposition"
+  },
+  {
+    "word": "pay",
+    "word_type": "verb"
+  },
+  {
+    "word": "pen",
+    "word_type": "noun"
+  },
+  {
+    "word": "pencil",
+    "word_type": "noun"
+  },
+  {
+    "word": "people",
+    "word_type": "noun"
+  },
+  {
+    "word": "pepper",
+    "word_type": "noun"
+  },
+  {
+    "word": "perfect",
+    "word_type": "adjective"
+  },
+  {
+    "word": "period",
+    "word_type": "noun"
+  },
+  {
+    "word": "person",
+    "word_type": "noun"
+  },
+  {
+    "word": "personal",
+    "word_type": "adjective"
+  },
+  {
+    "word": "phone",
+    "word_type": "noun"
+  },
+  {
+    "word": "phone",
+    "word_type": "verb"
+  },
+  {
+    "word": "photo",
+    "word_type": "noun"
+  },
+  {
+    "word": "photograph",
+    "word_type": "noun"
+  },
+  {
+    "word": "phrase",
+    "word_type": "noun"
+  },
+  {
+    "word": "piano",
+    "word_type": "noun"
+  },
+  {
+    "word": "picture",
+    "word_type": "noun"
+  },
+  {
+    "word": "piece",
+    "word_type": "noun"
+  },
+  {
+    "word": "pig",
+    "word_type": "noun"
+  },
+  {
+    "word": "pink",
+    "word_type": "adjective"
+  },
+  {
+    "word": "pink",
+    "word_type": "noun"
+  },
+  {
+    "word": "place",
+    "word_type": "noun"
+  },
+  {
+    "word": "plan",
+    "word_type": "noun"
+  },
+  {
+    "word": "plan",
+    "word_type": "verb"
+  },
+  {
+    "word": "plane",
+    "word_type": "noun"
+  },
+  {
+    "word": "plant",
+    "word_type": "noun"
+  },
+  {
+    "word": "play",
+    "word_type": "noun"
+  },
+  {
+    "word": "play",
+    "word_type": "verb"
+  },
+  {
+    "word": "player",
+    "word_type": "noun"
+  },
+  {
+    "word": "please",
+    "word_type": "exclamation"
+  },
+  {
+    "word": "point",
+    "word_type": "noun"
+  },
+  {
+    "word": "police",
+    "word_type": "noun"
+  },
+  {
+    "word": "policeman",
+    "word_type": "noun"
+  },
+  {
+    "word": "pool",
+    "word_type": "noun"
+  },
+  {
+    "word": "poor",
+    "word_type": "adjective"
+  },
+  {
+    "word": "popular",
+    "word_type": "adjective"
+  },
+  {
+    "word": "positive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "possible",
+    "word_type": "adjective"
+  },
+  {
+    "word": "post",
+    "word_type": "noun"
+  },
+  {
+    "word": "post",
+    "word_type": "verb"
+  },
+  {
+    "word": "potato",
+    "word_type": "noun"
+  },
+  {
+    "word": "pound",
+    "word_type": "noun"
+  },
+  {
+    "word": "practice",
+    "word_type": "noun"
+  },
+  {
+    "word": "practise",
+    "word_type": "verb"
+  },
+  {
+    "word": "prefer",
+    "word_type": "verb"
+  },
+  {
+    "word": "prepare",
+    "word_type": "verb"
+  },
+  {
+    "word": "present",
+    "word_type": "adjective"
+  },
+  {
+    "word": "present",
+    "word_type": "noun"
+  },
+  {
+    "word": "pretty",
+    "word_type": "adjective"
+  },
+  {
+    "word": "pretty",
+    "word_type": "adverb"
+  },
+  {
+    "word": "price",
+    "word_type": "noun"
+  },
+  {
+    "word": "probably",
+    "word_type": "adverb"
+  },
+  {
+    "word": "problem",
+    "word_type": "noun"
+  },
+  {
+    "word": "product",
+    "word_type": "noun"
+  },
+  {
+    "word": "programme",
+    "word_type": "noun"
+  },
+  {
+    "word": "project",
+    "word_type": "noun"
+  },
+  {
+    "word": "purple",
+    "word_type": "adjective"
+  },
+  {
+    "word": "purple",
+    "word_type": "noun"
+  },
+  {
+    "word": "put",
+    "word_type": "verb"
+  }
+]
