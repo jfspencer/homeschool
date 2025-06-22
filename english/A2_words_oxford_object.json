@@ -1,0 +1,3458 @@
+{
+  "ability": {
+    "word": "ability",
+    "word_type": "noun"
+  },
+  "able": {
+    "word": "able",
+    "word_type": "adjective"
+  },
+  "abroad": {
+    "word": "abroad",
+    "word_type": "adverb"
+  },
+  "accept": {
+    "word": "accept",
+    "word_type": "verb"
+  },
+  "accident": {
+    "word": "accident",
+    "word_type": "noun"
+  },
+  "according": {
+    "word": "according",
+    "word_type": "to preposition"
+  },
+  "achieve": {
+    "word": "achieve",
+    "word_type": "verb"
+  },
+  "act": {
+    "word": "act",
+    "word_type": "verb"
+  },
+  "active": {
+    "word": "active",
+    "word_type": "adjective"
+  },
+  "actually": {
+    "word": "actually",
+    "word_type": "adverb"
+  },
+  "adult": {
+    "word": "adult",
+    "word_type": "adjective"
+  },
+  "advantage": {
+    "word": "advantage",
+    "word_type": "noun"
+  },
+  "adventure": {
+    "word": "adventure",
+    "word_type": "noun"
+  },
+  "advertise": {
+    "word": "advertise",
+    "word_type": "verb"
+  },
+  "advertisement": {
+    "word": "advertisement",
+    "word_type": "noun"
+  },
+  "advertising": {
+    "word": "advertising",
+    "word_type": "noun"
+  },
+  "affect": {
+    "word": "affect",
+    "word_type": "verb"
+  },
+  "after": {
+    "word": "after",
+    "word_type": "conjunction"
+  },
+  "against": {
+    "word": "against",
+    "word_type": "preposition"
+  },
+  "ah": {
+    "word": "ah",
+    "word_type": "exclamation"
+  },
+  "airline": {
+    "word": "airline",
+    "word_type": "noun"
+  },
+  "alive": {
+    "word": "alive",
+    "word_type": "adjective"
+  },
+  "all": {
+    "word": "all",
+    "word_type": "right exclamation"
+  },
+  "allow": {
+    "word": "allow",
+    "word_type": "verb"
+  },
+  "almost": {
+    "word": "almost",
+    "word_type": "adverb"
+  },
+  "alone": {
+    "word": "alone",
+    "word_type": "adverb"
+  },
+  "along": {
+    "word": "along",
+    "word_type": "preposition"
+  },
+  "already": {
+    "word": "already",
+    "word_type": "adverb"
+  },
+  "alternative": {
+    "word": "alternative",
+    "word_type": "noun"
+  },
+  "although": {
+    "word": "although",
+    "word_type": "conjunction"
+  },
+  "among": {
+    "word": "among",
+    "word_type": "preposition"
+  },
+  "amount": {
+    "word": "amount",
+    "word_type": "noun"
+  },
+  "ancient": {
+    "word": "ancient",
+    "word_type": "adjective"
+  },
+  "ankle": {
+    "word": "ankle",
+    "word_type": "noun"
+  },
+  "any": {
+    "word": "any",
+    "word_type": "more adverb"
+  },
+  "anybody": {
+    "word": "anybody",
+    "word_type": "pronoun"
+  },
+  "anyway": {
+    "word": "anyway",
+    "word_type": "adverb"
+  },
+  "anywhere": {
+    "word": "anywhere",
+    "word_type": "pronoun"
+  },
+  "app": {
+    "word": "app",
+    "word_type": "noun"
+  },
+  "appear": {
+    "word": "appear",
+    "word_type": "verb"
+  },
+  "appearance": {
+    "word": "appearance",
+    "word_type": "noun"
+  },
+  "apply": {
+    "word": "apply",
+    "word_type": "verb"
+  },
+  "architect": {
+    "word": "architect",
+    "word_type": "noun"
+  },
+  "architecture": {
+    "word": "architecture",
+    "word_type": "noun"
+  },
+  "argue": {
+    "word": "argue",
+    "word_type": "verb"
+  },
+  "argument": {
+    "word": "argument",
+    "word_type": "noun"
+  },
+  "army": {
+    "word": "army",
+    "word_type": "noun"
+  },
+  "arrange": {
+    "word": "arrange",
+    "word_type": "verb"
+  },
+  "arrangement": {
+    "word": "arrangement",
+    "word_type": "noun"
+  },
+  "as": {
+    "word": "as",
+    "word_type": "conjunction"
+  },
+  "asleep": {
+    "word": "asleep",
+    "word_type": "adjective"
+  },
+  "assistant": {
+    "word": "assistant",
+    "word_type": "noun"
+  },
+  "athlete": {
+    "word": "athlete",
+    "word_type": "noun"
+  },
+  "attack": {
+    "word": "attack",
+    "word_type": "verb"
+  },
+  "attend": {
+    "word": "attend",
+    "word_type": "verb"
+  },
+  "attention": {
+    "word": "attention",
+    "word_type": "noun"
+  },
+  "attractive": {
+    "word": "attractive",
+    "word_type": "adjective"
+  },
+  "audience": {
+    "word": "audience",
+    "word_type": "noun"
+  },
+  "author": {
+    "word": "author",
+    "word_type": "noun"
+  },
+  "available": {
+    "word": "available",
+    "word_type": "adjective"
+  },
+  "average": {
+    "word": "average",
+    "word_type": "noun"
+  },
+  "avoid": {
+    "word": "avoid",
+    "word_type": "verb"
+  },
+  "award": {
+    "word": "award",
+    "word_type": "noun"
+  },
+  "awful": {
+    "word": "awful",
+    "word_type": "adjective"
+  },
+  "back": {
+    "word": "back",
+    "word_type": "adjective"
+  },
+  "background": {
+    "word": "background",
+    "word_type": "noun"
+  },
+  "badly": {
+    "word": "badly",
+    "word_type": "adverb"
+  },
+  "bar": {
+    "word": "bar",
+    "word_type": "noun"
+  },
+  "baseball": {
+    "word": "baseball",
+    "word_type": "noun"
+  },
+  "based": {
+    "word": "based",
+    "word_type": "adjective"
+  },
+  "basketball": {
+    "word": "basketball",
+    "word_type": "noun"
+  },
+  "bean": {
+    "word": "bean",
+    "word_type": "noun"
+  },
+  "bear": {
+    "word": "bear",
+    "word_type": "noun"
+  },
+  "beat": {
+    "word": "beat",
+    "word_type": "verb"
+  },
+  "beef": {
+    "word": "beef",
+    "word_type": "noun"
+  },
+  "before": {
+    "word": "before",
+    "word_type": "conjunction"
+  },
+  "behave": {
+    "word": "behave",
+    "word_type": "verb"
+  },
+  "behaviour": {
+    "word": "behaviour",
+    "word_type": "noun"
+  },
+  "belong": {
+    "word": "belong",
+    "word_type": "verb"
+  },
+  "belt": {
+    "word": "belt",
+    "word_type": "noun"
+  },
+  "benefit": {
+    "word": "benefit",
+    "word_type": "noun"
+  },
+  "best": {
+    "word": "best",
+    "word_type": "noun"
+  },
+  "better": {
+    "word": "better",
+    "word_type": "adverb"
+  },
+  "between": {
+    "word": "between",
+    "word_type": "adverb"
+  },
+  "billion": {
+    "word": "billion",
+    "word_type": "number"
+  },
+  "bin": {
+    "word": "bin",
+    "word_type": "noun"
+  },
+  "biology": {
+    "word": "biology",
+    "word_type": "noun"
+  },
+  "birth": {
+    "word": "birth",
+    "word_type": "noun"
+  },
+  "biscuit": {
+    "word": "biscuit",
+    "word_type": "noun"
+  },
+  "bit": {
+    "word": "bit",
+    "word_type": "noun"
+  },
+  "blank": {
+    "word": "blank",
+    "word_type": "noun"
+  },
+  "blood": {
+    "word": "blood",
+    "word_type": "noun"
+  },
+  "blow": {
+    "word": "blow",
+    "word_type": "verb"
+  },
+  "board": {
+    "word": "board",
+    "word_type": "noun"
+  },
+  "boil": {
+    "word": "boil",
+    "word_type": "verb"
+  },
+  "bone": {
+    "word": "bone",
+    "word_type": "noun"
+  },
+  "book": {
+    "word": "book",
+    "word_type": "verb"
+  },
+  "borrow": {
+    "word": "borrow",
+    "word_type": "verb"
+  },
+  "boss": {
+    "word": "boss",
+    "word_type": "noun"
+  },
+  "bottom": {
+    "word": "bottom",
+    "word_type": "noun"
+  },
+  "bowl": {
+    "word": "bowl",
+    "word_type": "noun"
+  },
+  "brain": {
+    "word": "brain",
+    "word_type": "noun"
+  },
+  "bridge": {
+    "word": "bridge",
+    "word_type": "noun"
+  },
+  "bright": {
+    "word": "bright",
+    "word_type": "adjective"
+  },
+  "brilliant": {
+    "word": "brilliant",
+    "word_type": "adjective"
+  },
+  "broken": {
+    "word": "broken",
+    "word_type": "adjective"
+  },
+  "brush": {
+    "word": "brush",
+    "word_type": "verb"
+  },
+  "burn": {
+    "word": "burn",
+    "word_type": "verb"
+  },
+  "businessman": {
+    "word": "businessman",
+    "word_type": "noun"
+  },
+  "button": {
+    "word": "button",
+    "word_type": "noun"
+  },
+  "camp": {
+    "word": "camp",
+    "word_type": "verb"
+  },
+  "camping": {
+    "word": "camping",
+    "word_type": "noun"
+  },
+  "can": {
+    "word": "can",
+    "word_type": "noun"
+  },
+  "care": {
+    "word": "care",
+    "word_type": "verb"
+  },
+  "careful": {
+    "word": "careful",
+    "word_type": "adjective"
+  },
+  "carefully": {
+    "word": "carefully",
+    "word_type": "adverb"
+  },
+  "carpet": {
+    "word": "carpet",
+    "word_type": "noun"
+  },
+  "cartoon": {
+    "word": "cartoon",
+    "word_type": "noun"
+  },
+  "case": {
+    "word": "case",
+    "word_type": "noun"
+  },
+  "cash": {
+    "word": "cash",
+    "word_type": "noun"
+  },
+  "castle": {
+    "word": "castle",
+    "word_type": "noun"
+  },
+  "catch": {
+    "word": "catch",
+    "word_type": "verb"
+  },
+  "cause": {
+    "word": "cause",
+    "word_type": "verb"
+  },
+  "celebrate": {
+    "word": "celebrate",
+    "word_type": "verb"
+  },
+  "celebrity": {
+    "word": "celebrity",
+    "word_type": "noun"
+  },
+  "certain": {
+    "word": "certain",
+    "word_type": "adjective"
+  },
+  "certainly": {
+    "word": "certainly",
+    "word_type": "adverb"
+  },
+  "chance": {
+    "word": "chance",
+    "word_type": "noun"
+  },
+  "character": {
+    "word": "character",
+    "word_type": "noun"
+  },
+  "charity": {
+    "word": "charity",
+    "word_type": "noun"
+  },
+  "chat": {
+    "word": "chat",
+    "word_type": "verb"
+  },
+  "check": {
+    "word": "check",
+    "word_type": "noun"
+  },
+  "chef": {
+    "word": "chef",
+    "word_type": "noun"
+  },
+  "chemistry": {
+    "word": "chemistry",
+    "word_type": "noun"
+  },
+  "chip": {
+    "word": "chip",
+    "word_type": "noun"
+  },
+  "choice": {
+    "word": "choice",
+    "word_type": "noun"
+  },
+  "church": {
+    "word": "church",
+    "word_type": "noun"
+  },
+  "cigarette": {
+    "word": "cigarette",
+    "word_type": "noun"
+  },
+  "circle": {
+    "word": "circle",
+    "word_type": "verb"
+  },
+  "classical": {
+    "word": "classical",
+    "word_type": "adjective"
+  },
+  "clear": {
+    "word": "clear",
+    "word_type": "adjective"
+  },
+  "clearly": {
+    "word": "clearly",
+    "word_type": "adverb"
+  },
+  "clever": {
+    "word": "clever",
+    "word_type": "adjective"
+  },
+  "climate": {
+    "word": "climate",
+    "word_type": "noun"
+  },
+  "close": {
+    "word": "close",
+    "word_type": "adjective"
+  },
+  "closed": {
+    "word": "closed",
+    "word_type": "adjective"
+  },
+  "clothing": {
+    "word": "clothing",
+    "word_type": "noun"
+  },
+  "cloud": {
+    "word": "cloud",
+    "word_type": "noun"
+  },
+  "coach": {
+    "word": "coach",
+    "word_type": "noun"
+  },
+  "coast": {
+    "word": "coast",
+    "word_type": "noun"
+  },
+  "code": {
+    "word": "code",
+    "word_type": "noun"
+  },
+  "colleague": {
+    "word": "colleague",
+    "word_type": "noun"
+  },
+  "collect": {
+    "word": "collect",
+    "word_type": "verb"
+  },
+  "column": {
+    "word": "column",
+    "word_type": "noun"
+  },
+  "comedy": {
+    "word": "comedy",
+    "word_type": "noun"
+  },
+  "comfortable": {
+    "word": "comfortable",
+    "word_type": "adjective"
+  },
+  "comment": {
+    "word": "comment",
+    "word_type": "noun"
+  },
+  "communicate": {
+    "word": "communicate",
+    "word_type": "verb"
+  },
+  "community": {
+    "word": "community",
+    "word_type": "noun"
+  },
+  "compete": {
+    "word": "compete",
+    "word_type": "verb"
+  },
+  "competition": {
+    "word": "competition",
+    "word_type": "noun"
+  },
+  "complain": {
+    "word": "complain",
+    "word_type": "verb"
+  },
+  "completely": {
+    "word": "completely",
+    "word_type": "adverb"
+  },
+  "condition": {
+    "word": "condition",
+    "word_type": "noun"
+  },
+  "conference": {
+    "word": "conference",
+    "word_type": "noun"
+  },
+  "connect": {
+    "word": "connect",
+    "word_type": "verb"
+  },
+  "connected": {
+    "word": "connected",
+    "word_type": "adjective"
+  },
+  "consider": {
+    "word": "consider",
+    "word_type": "verb"
+  },
+  "contain": {
+    "word": "contain",
+    "word_type": "verb"
+  },
+  "context": {
+    "word": "context",
+    "word_type": "noun"
+  },
+  "continent": {
+    "word": "continent",
+    "word_type": "noun"
+  },
+  "continue": {
+    "word": "continue",
+    "word_type": "verb"
+  },
+  "control": {
+    "word": "control",
+    "word_type": "verb"
+  },
+  "cook": {
+    "word": "cook",
+    "word_type": "noun"
+  },
+  "cooker": {
+    "word": "cooker",
+    "word_type": "noun"
+  },
+  "copy": {
+    "word": "copy",
+    "word_type": "verb"
+  },
+  "corner": {
+    "word": "corner",
+    "word_type": "noun"
+  },
+  "correctly": {
+    "word": "correctly",
+    "word_type": "adverb"
+  },
+  "count": {
+    "word": "count",
+    "word_type": "verb"
+  },
+  "couple": {
+    "word": "couple",
+    "word_type": "noun"
+  },
+  "cover": {
+    "word": "cover",
+    "word_type": "verb"
+  },
+  "crazy": {
+    "word": "crazy",
+    "word_type": "adjective"
+  },
+  "creative": {
+    "word": "creative",
+    "word_type": "adjective"
+  },
+  "credit": {
+    "word": "credit",
+    "word_type": "noun"
+  },
+  "crime": {
+    "word": "crime",
+    "word_type": "noun"
+  },
+  "criminal": {
+    "word": "criminal",
+    "word_type": "noun"
+  },
+  "cross": {
+    "word": "cross",
+    "word_type": "verb"
+  },
+  "crowd": {
+    "word": "crowd",
+    "word_type": "noun"
+  },
+  "crowded": {
+    "word": "crowded",
+    "word_type": "adjective"
+  },
+  "cry": {
+    "word": "cry",
+    "word_type": "verb"
+  },
+  "cupboard": {
+    "word": "cupboard",
+    "word_type": "noun"
+  },
+  "curly": {
+    "word": "curly",
+    "word_type": "adjective"
+  },
+  "cycle": {
+    "word": "cycle",
+    "word_type": "verb"
+  },
+  "daily": {
+    "word": "daily",
+    "word_type": "adjective"
+  },
+  "danger": {
+    "word": "danger",
+    "word_type": "noun"
+  },
+  "dark": {
+    "word": "dark",
+    "word_type": "noun"
+  },
+  "data": {
+    "word": "data",
+    "word_type": "noun"
+  },
+  "dead": {
+    "word": "dead",
+    "word_type": "adjective"
+  },
+  "deal": {
+    "word": "deal",
+    "word_type": "verb"
+  },
+  "dear": {
+    "word": "dear",
+    "word_type": "exclamation"
+  },
+  "death": {
+    "word": "death",
+    "word_type": "noun"
+  },
+  "decision": {
+    "word": "decision",
+    "word_type": "noun"
+  },
+  "deep": {
+    "word": "deep",
+    "word_type": "adjective"
+  },
+  "definitely": {
+    "word": "definitely",
+    "word_type": "adverb"
+  },
+  "degree": {
+    "word": "degree",
+    "word_type": "noun"
+  },
+  "dentist": {
+    "word": "dentist",
+    "word_type": "noun"
+  },
+  "department": {
+    "word": "department",
+    "word_type": "noun"
+  },
+  "depend": {
+    "word": "depend",
+    "word_type": "verb"
+  },
+  "desert": {
+    "word": "desert",
+    "word_type": "noun"
+  },
+  "designer": {
+    "word": "designer",
+    "word_type": "noun"
+  },
+  "destroy": {
+    "word": "destroy",
+    "word_type": "verb"
+  },
+  "detective": {
+    "word": "detective",
+    "word_type": "noun"
+  },
+  "develop": {
+    "word": "develop",
+    "word_type": "verb"
+  },
+  "device": {
+    "word": "device",
+    "word_type": "noun"
+  },
+  "diary": {
+    "word": "diary",
+    "word_type": "noun"
+  },
+  "differently": {
+    "word": "differently",
+    "word_type": "adverb"
+  },
+  "digital": {
+    "word": "digital",
+    "word_type": "adjective"
+  },
+  "direct": {
+    "word": "direct",
+    "word_type": "adjective"
+  },
+  "direction": {
+    "word": "direction",
+    "word_type": "noun"
+  },
+  "director": {
+    "word": "director",
+    "word_type": "noun"
+  },
+  "disagree": {
+    "word": "disagree",
+    "word_type": "verb"
+  },
+  "disappear": {
+    "word": "disappear",
+    "word_type": "verb"
+  },
+  "disaster": {
+    "word": "disaster",
+    "word_type": "noun"
+  },
+  "discover": {
+    "word": "discover",
+    "word_type": "verb"
+  },
+  "discovery": {
+    "word": "discovery",
+    "word_type": "noun"
+  },
+  "discussion": {
+    "word": "discussion",
+    "word_type": "noun"
+  },
+  "disease": {
+    "word": "disease",
+    "word_type": "noun"
+  },
+  "distance": {
+    "word": "distance",
+    "word_type": "noun"
+  },
+  "divorced": {
+    "word": "divorced",
+    "word_type": "adjective"
+  },
+  "document": {
+    "word": "document",
+    "word_type": "noun"
+  },
+  "double": {
+    "word": "double",
+    "word_type": "verb"
+  },
+  "download": {
+    "word": "download",
+    "word_type": "verb"
+  },
+  "downstairs": {
+    "word": "downstairs",
+    "word_type": "adjective"
+  },
+  "drama": {
+    "word": "drama",
+    "word_type": "noun"
+  },
+  "drawing": {
+    "word": "drawing",
+    "word_type": "noun"
+  },
+  "dream": {
+    "word": "dream",
+    "word_type": "verb"
+  },
+  "drive": {
+    "word": "drive",
+    "word_type": "noun"
+  },
+  "driving": {
+    "word": "driving",
+    "word_type": "noun"
+  },
+  "drop": {
+    "word": "drop",
+    "word_type": "verb"
+  },
+  "drug": {
+    "word": "drug",
+    "word_type": "noun"
+  },
+  "dry": {
+    "word": "dry",
+    "word_type": "verb"
+  },
+  "earn": {
+    "word": "earn",
+    "word_type": "verb"
+  },
+  "earth": {
+    "word": "earth",
+    "word_type": "noun"
+  },
+  "easily": {
+    "word": "easily",
+    "word_type": "adverb"
+  },
+  "education": {
+    "word": "education",
+    "word_type": "noun"
+  },
+  "effect": {
+    "word": "effect",
+    "word_type": "noun"
+  },
+  "either": {
+    "word": "either",
+    "word_type": "pronoun"
+  },
+  "electric": {
+    "word": "electric",
+    "word_type": "adjective"
+  },
+  "electrical": {
+    "word": "electrical",
+    "word_type": "adjective"
+  },
+  "electricity": {
+    "word": "electricity",
+    "word_type": "noun"
+  },
+  "electronic": {
+    "word": "electronic",
+    "word_type": "adjective"
+  },
+  "employ": {
+    "word": "employ",
+    "word_type": "verb"
+  },
+  "employee": {
+    "word": "employee",
+    "word_type": "noun"
+  },
+  "employer": {
+    "word": "employer",
+    "word_type": "noun"
+  },
+  "empty": {
+    "word": "empty",
+    "word_type": "adjective"
+  },
+  "ending": {
+    "word": "ending",
+    "word_type": "noun"
+  },
+  "energy": {
+    "word": "energy",
+    "word_type": "noun"
+  },
+  "engine": {
+    "word": "engine",
+    "word_type": "noun"
+  },
+  "engineer": {
+    "word": "engineer",
+    "word_type": "noun"
+  },
+  "enormous": {
+    "word": "enormous",
+    "word_type": "adjective"
+  },
+  "enter": {
+    "word": "enter",
+    "word_type": "verb"
+  },
+  "environment": {
+    "word": "environment",
+    "word_type": "noun"
+  },
+  "equipment": {
+    "word": "equipment",
+    "word_type": "noun"
+  },
+  "error": {
+    "word": "error",
+    "word_type": "noun"
+  },
+  "especially": {
+    "word": "especially",
+    "word_type": "adverb"
+  },
+  "essay": {
+    "word": "essay",
+    "word_type": "noun"
+  },
+  "everyday": {
+    "word": "everyday",
+    "word_type": "adjective"
+  },
+  "everywhere": {
+    "word": "everywhere",
+    "word_type": "adverb"
+  },
+  "evidence": {
+    "word": "evidence",
+    "word_type": "noun"
+  },
+  "exact": {
+    "word": "exact",
+    "word_type": "adjective"
+  },
+  "exactly": {
+    "word": "exactly",
+    "word_type": "adverb"
+  },
+  "excellent": {
+    "word": "excellent",
+    "word_type": "adjective"
+  },
+  "except": {
+    "word": "except",
+    "word_type": "preposition"
+  },
+  "exist": {
+    "word": "exist",
+    "word_type": "verb"
+  },
+  "expect": {
+    "word": "expect",
+    "word_type": "verb"
+  },
+  "experience": {
+    "word": "experience",
+    "word_type": "noun"
+  },
+  "experiment": {
+    "word": "experiment",
+    "word_type": "noun"
+  },
+  "expert": {
+    "word": "expert",
+    "word_type": "noun"
+  },
+  "explanation": {
+    "word": "explanation",
+    "word_type": "noun"
+  },
+  "express": {
+    "word": "express",
+    "word_type": "verb"
+  },
+  "expression": {
+    "word": "expression",
+    "word_type": "noun"
+  },
+  "extreme": {
+    "word": "extreme",
+    "word_type": "adjective"
+  },
+  "extremely": {
+    "word": "extremely",
+    "word_type": "adverb"
+  },
+  "factor": {
+    "word": "factor",
+    "word_type": "noun"
+  },
+  "factory": {
+    "word": "factory",
+    "word_type": "noun"
+  },
+  "fail": {
+    "word": "fail",
+    "word_type": "verb"
+  },
+  "fair": {
+    "word": "fair",
+    "word_type": "adjective"
+  },
+  "fall": {
+    "word": "fall",
+    "word_type": "noun"
+  },
+  "fan": {
+    "word": "fan",
+    "word_type": "noun"
+  },
+  "farm": {
+    "word": "farm",
+    "word_type": "verb"
+  },
+  "farming": {
+    "word": "farming",
+    "word_type": "noun"
+  },
+  "fashion": {
+    "word": "fashion",
+    "word_type": "noun"
+  },
+  "fat": {
+    "word": "fat",
+    "word_type": "noun"
+  },
+  "fear": {
+    "word": "fear",
+    "word_type": "noun"
+  },
+  "feature": {
+    "word": "feature",
+    "word_type": "noun"
+  },
+  "feed": {
+    "word": "feed",
+    "word_type": "verb"
+  },
+  "female": {
+    "word": "female",
+    "word_type": "noun"
+  },
+  "fiction": {
+    "word": "fiction",
+    "word_type": "noun"
+  },
+  "field": {
+    "word": "field",
+    "word_type": "noun"
+  },
+  "fight": {
+    "word": "fight",
+    "word_type": "verb"
+  },
+  "figure": {
+    "word": "figure",
+    "word_type": "noun"
+  },
+  "film": {
+    "word": "film",
+    "word_type": "verb"
+  },
+  "final": {
+    "word": "final",
+    "word_type": "noun"
+  },
+  "finally": {
+    "word": "finally",
+    "word_type": "adverb"
+  },
+  "finger": {
+    "word": "finger",
+    "word_type": "noun"
+  },
+  "finish": {
+    "word": "finish",
+    "word_type": "noun"
+  },
+  "first": {
+    "word": "first",
+    "word_type": "noun"
+  },
+  "firstly": {
+    "word": "firstly",
+    "word_type": "adverb"
+  },
+  "fish": {
+    "word": "fish",
+    "word_type": "verb"
+  },
+  "fishing": {
+    "word": "fishing",
+    "word_type": "noun"
+  },
+  "fit": {
+    "word": "fit",
+    "word_type": "verb"
+  },
+  "fix": {
+    "word": "fix",
+    "word_type": "verb"
+  },
+  "flat": {
+    "word": "flat",
+    "word_type": "adjective"
+  },
+  "flu": {
+    "word": "flu",
+    "word_type": "noun"
+  },
+  "fly": {
+    "word": "fly",
+    "word_type": "noun"
+  },
+  "flying": {
+    "word": "flying",
+    "word_type": "noun"
+  },
+  "focus": {
+    "word": "focus",
+    "word_type": "verb"
+  },
+  "following": {
+    "word": "following",
+    "word_type": "adjective"
+  },
+  "foreign": {
+    "word": "foreign",
+    "word_type": "adjective"
+  },
+  "forest": {
+    "word": "forest",
+    "word_type": "noun"
+  },
+  "fork": {
+    "word": "fork",
+    "word_type": "noun"
+  },
+  "formal": {
+    "word": "formal",
+    "word_type": "adjective"
+  },
+  "fortunately": {
+    "word": "fortunately",
+    "word_type": "adverb"
+  },
+  "forward": {
+    "word": "forward",
+    "word_type": "adverb"
+  },
+  "free": {
+    "word": "free",
+    "word_type": "adverb"
+  },
+  "fresh": {
+    "word": "fresh",
+    "word_type": "adjective"
+  },
+  "fridge": {
+    "word": "fridge",
+    "word_type": "noun"
+  },
+  "frog": {
+    "word": "frog",
+    "word_type": "noun"
+  },
+  "fun": {
+    "word": "fun",
+    "word_type": "adjective"
+  },
+  "furniture": {
+    "word": "furniture",
+    "word_type": "noun"
+  },
+  "further": {
+    "word": "further",
+    "word_type": "adjective"
+  },
+  "future": {
+    "word": "future",
+    "word_type": "adjective"
+  },
+  "gallery": {
+    "word": "gallery",
+    "word_type": "noun"
+  },
+  "gap": {
+    "word": "gap",
+    "word_type": "noun"
+  },
+  "gas": {
+    "word": "gas",
+    "word_type": "noun"
+  },
+  "gate": {
+    "word": "gate",
+    "word_type": "noun"
+  },
+  "general": {
+    "word": "general",
+    "word_type": "adjective"
+  },
+  "gift": {
+    "word": "gift",
+    "word_type": "noun"
+  },
+  "goal": {
+    "word": "goal",
+    "word_type": "noun"
+  },
+  "god": {
+    "word": "god",
+    "word_type": "noun"
+  },
+  "gold": {
+    "word": "gold",
+    "word_type": "noun"
+  },
+  "golf": {
+    "word": "golf",
+    "word_type": "noun"
+  },
+  "good": {
+    "word": "good",
+    "word_type": "noun"
+  },
+  "government": {
+    "word": "government",
+    "word_type": "noun"
+  },
+  "grass": {
+    "word": "grass",
+    "word_type": "noun"
+  },
+  "greet": {
+    "word": "greet",
+    "word_type": "verb"
+  },
+  "ground": {
+    "word": "ground",
+    "word_type": "noun"
+  },
+  "guest": {
+    "word": "guest",
+    "word_type": "noun"
+  },
+  "guide": {
+    "word": "guide",
+    "word_type": "verb"
+  },
+  "gun": {
+    "word": "gun",
+    "word_type": "noun"
+  },
+  "guy": {
+    "word": "guy",
+    "word_type": "noun"
+  },
+  "habit": {
+    "word": "habit",
+    "word_type": "noun"
+  },
+  "half": {
+    "word": "half",
+    "word_type": "adverb"
+  },
+  "hall": {
+    "word": "hall",
+    "word_type": "noun"
+  },
+  "happily": {
+    "word": "happily",
+    "word_type": "adverb"
+  },
+  "have": {
+    "word": "have",
+    "word_type": "auxiliary verb"
+  },
+  "headache": {
+    "word": "headache",
+    "word_type": "noun"
+  },
+  "heart": {
+    "word": "heart",
+    "word_type": "noun"
+  },
+  "heat": {
+    "word": "heat",
+    "word_type": "verb"
+  },
+  "heavy": {
+    "word": "heavy",
+    "word_type": "adjective"
+  },
+  "height": {
+    "word": "height",
+    "word_type": "noun"
+  },
+  "helpful": {
+    "word": "helpful",
+    "word_type": "adjective"
+  },
+  "hero": {
+    "word": "hero",
+    "word_type": "noun"
+  },
+  "hers": {
+    "word": "hers",
+    "word_type": "pronoun"
+  },
+  "herself": {
+    "word": "herself",
+    "word_type": "pronoun"
+  },
+  "hide": {
+    "word": "hide",
+    "word_type": "verb"
+  },
+  "high": {
+    "word": "high",
+    "word_type": "adverb"
+  },
+  "hill": {
+    "word": "hill",
+    "word_type": "noun"
+  },
+  "himself": {
+    "word": "himself",
+    "word_type": "pronoun"
+  },
+  "his": {
+    "word": "his",
+    "word_type": "pronoun"
+  },
+  "hit": {
+    "word": "hit",
+    "word_type": "verb"
+  },
+  "hockey": {
+    "word": "hockey",
+    "word_type": "noun"
+  },
+  "hold": {
+    "word": "hold",
+    "word_type": "verb"
+  },
+  "hole": {
+    "word": "hole",
+    "word_type": "noun"
+  },
+  "home": {
+    "word": "home",
+    "word_type": "adjective"
+  },
+  "hope": {
+    "word": "hope",
+    "word_type": "noun"
+  },
+  "huge": {
+    "word": "huge",
+    "word_type": "adjective"
+  },
+  "human": {
+    "word": "human",
+    "word_type": "noun"
+  },
+  "hurt": {
+    "word": "hurt",
+    "word_type": "verb"
+  },
+  "ideal": {
+    "word": "ideal",
+    "word_type": "adjective"
+  },
+  "identify": {
+    "word": "identify",
+    "word_type": "verb"
+  },
+  "ill": {
+    "word": "ill",
+    "word_type": "adjective"
+  },
+  "illness": {
+    "word": "illness",
+    "word_type": "noun"
+  },
+  "image": {
+    "word": "image",
+    "word_type": "noun"
+  },
+  "immediately": {
+    "word": "immediately",
+    "word_type": "adverb"
+  },
+  "impossible": {
+    "word": "impossible",
+    "word_type": "adjective"
+  },
+  "included": {
+    "word": "included",
+    "word_type": "adjective"
+  },
+  "including": {
+    "word": "including",
+    "word_type": "preposition"
+  },
+  "increase": {
+    "word": "increase",
+    "word_type": "verb"
+  },
+  "incredible": {
+    "word": "incredible",
+    "word_type": "adjective"
+  },
+  "independent": {
+    "word": "independent",
+    "word_type": "adjective"
+  },
+  "individual": {
+    "word": "individual",
+    "word_type": "noun"
+  },
+  "industry": {
+    "word": "industry",
+    "word_type": "noun"
+  },
+  "informal": {
+    "word": "informal",
+    "word_type": "adjective"
+  },
+  "injury": {
+    "word": "injury",
+    "word_type": "noun"
+  },
+  "insect": {
+    "word": "insect",
+    "word_type": "noun"
+  },
+  "inside": {
+    "word": "inside",
+    "word_type": "preposition"
+  },
+  "instead": {
+    "word": "instead",
+    "word_type": "adverb"
+  },
+  "instruction": {
+    "word": "instruction",
+    "word_type": "noun"
+  },
+  "instructor": {
+    "word": "instructor",
+    "word_type": "noun"
+  },
+  "instrument": {
+    "word": "instrument",
+    "word_type": "noun"
+  },
+  "intelligent": {
+    "word": "intelligent",
+    "word_type": "adjective"
+  },
+  "international": {
+    "word": "international",
+    "word_type": "adjective"
+  },
+  "introduction": {
+    "word": "introduction",
+    "word_type": "noun"
+  },
+  "invent": {
+    "word": "invent",
+    "word_type": "verb"
+  },
+  "invention": {
+    "word": "invention",
+    "word_type": "noun"
+  },
+  "invitation": {
+    "word": "invitation",
+    "word_type": "noun"
+  },
+  "invite": {
+    "word": "invite",
+    "word_type": "verb"
+  },
+  "involve": {
+    "word": "involve",
+    "word_type": "verb"
+  },
+  "item": {
+    "word": "item",
+    "word_type": "noun"
+  },
+  "itself": {
+    "word": "itself",
+    "word_type": "pronoun"
+  },
+  "jam": {
+    "word": "jam",
+    "word_type": "noun"
+  },
+  "jazz": {
+    "word": "jazz",
+    "word_type": "noun"
+  },
+  "jewellery": {
+    "word": "jewellery",
+    "word_type": "noun"
+  },
+  "joke": {
+    "word": "joke",
+    "word_type": "verb"
+  },
+  "journalist": {
+    "word": "journalist",
+    "word_type": "noun"
+  },
+  "jump": {
+    "word": "jump",
+    "word_type": "verb"
+  },
+  "kid": {
+    "word": "kid",
+    "word_type": "noun"
+  },
+  "kill": {
+    "word": "kill",
+    "word_type": "verb"
+  },
+  "king": {
+    "word": "king",
+    "word_type": "noun"
+  },
+  "knee": {
+    "word": "knee",
+    "word_type": "noun"
+  },
+  "knife": {
+    "word": "knife",
+    "word_type": "noun"
+  },
+  "knock": {
+    "word": "knock",
+    "word_type": "verb"
+  },
+  "knowledge": {
+    "word": "knowledge",
+    "word_type": "noun"
+  },
+  "lab": {
+    "word": "lab",
+    "word_type": "noun"
+  },
+  "lady": {
+    "word": "lady",
+    "word_type": "noun"
+  },
+  "lake": {
+    "word": "lake",
+    "word_type": "noun"
+  },
+  "lamp": {
+    "word": "lamp",
+    "word_type": "noun"
+  },
+  "land": {
+    "word": "land",
+    "word_type": "verb"
+  },
+  "laptop": {
+    "word": "laptop",
+    "word_type": "noun"
+  },
+  "last": {
+    "word": "last",
+    "word_type": "verb"
+  },
+  "later": {
+    "word": "later",
+    "word_type": "adjective"
+  },
+  "laughter": {
+    "word": "laughter",
+    "word_type": "noun"
+  },
+  "law": {
+    "word": "law",
+    "word_type": "noun"
+  },
+  "lawyer": {
+    "word": "lawyer",
+    "word_type": "noun"
+  },
+  "lazy": {
+    "word": "lazy",
+    "word_type": "adjective"
+  },
+  "lead": {
+    "word": "lead",
+    "word_type": "verb"
+  },
+  "leader": {
+    "word": "leader",
+    "word_type": "noun"
+  },
+  "learning": {
+    "word": "learning",
+    "word_type": "noun"
+  },
+  "least": {
+    "word": "least",
+    "word_type": "pronoun"
+  },
+  "lecture": {
+    "word": "lecture",
+    "word_type": "verb"
+  },
+  "lemon": {
+    "word": "lemon",
+    "word_type": "noun"
+  },
+  "lend": {
+    "word": "lend",
+    "word_type": "verb"
+  },
+  "less": {
+    "word": "less",
+    "word_type": "pronoun"
+  },
+  "level": {
+    "word": "level",
+    "word_type": "noun"
+  },
+  "lifestyle": {
+    "word": "lifestyle",
+    "word_type": "noun"
+  },
+  "lift": {
+    "word": "lift",
+    "word_type": "verb"
+  },
+  "light": {
+    "word": "light",
+    "word_type": "verb"
+  },
+  "likely": {
+    "word": "likely",
+    "word_type": "adjective"
+  },
+  "link": {
+    "word": "link",
+    "word_type": "verb"
+  },
+  "listener": {
+    "word": "listener",
+    "word_type": "noun"
+  },
+  "little": {
+    "word": "little",
+    "word_type": "adverb"
+  },
+  "lock": {
+    "word": "lock",
+    "word_type": "verb"
+  },
+  "look": {
+    "word": "look",
+    "word_type": "noun"
+  },
+  "lorry": {
+    "word": "lorry",
+    "word_type": "noun"
+  },
+  "lost": {
+    "word": "lost",
+    "word_type": "adjective"
+  },
+  "loud": {
+    "word": "loud",
+    "word_type": "adverb"
+  },
+  "loudly": {
+    "word": "loudly",
+    "word_type": "adverb"
+  },
+  "lovely": {
+    "word": "lovely",
+    "word_type": "adjective"
+  },
+  "low": {
+    "word": "low",
+    "word_type": "adverb"
+  },
+  "luck": {
+    "word": "luck",
+    "word_type": "noun"
+  },
+  "lucky": {
+    "word": "lucky",
+    "word_type": "adjective"
+  },
+  "mail": {
+    "word": "mail",
+    "word_type": "verb"
+  },
+  "major": {
+    "word": "major",
+    "word_type": "adjective"
+  },
+  "male": {
+    "word": "male",
+    "word_type": "noun"
+  },
+  "manage": {
+    "word": "manage",
+    "word_type": "verb"
+  },
+  "manager": {
+    "word": "manager",
+    "word_type": "noun"
+  },
+  "manner": {
+    "word": "manner",
+    "word_type": "noun"
+  },
+  "mark": {
+    "word": "mark",
+    "word_type": "verb"
+  },
+  "marry": {
+    "word": "marry",
+    "word_type": "verb"
+  },
+  "material": {
+    "word": "material",
+    "word_type": "noun"
+  },
+  "mathematics": {
+    "word": "mathematics",
+    "word_type": "noun"
+  },
+  "maths": {
+    "word": "maths",
+    "word_type": "noun"
+  },
+  "matter": {
+    "word": "matter",
+    "word_type": "verb"
+  },
+  "may": {
+    "word": "may",
+    "word_type": "modal verb"
+  },
+  "media": {
+    "word": "media",
+    "word_type": "noun"
+  },
+  "medical": {
+    "word": "medical",
+    "word_type": "adjective"
+  },
+  "medicine": {
+    "word": "medicine",
+    "word_type": "noun"
+  },
+  "memory": {
+    "word": "memory",
+    "word_type": "noun"
+  },
+  "mention": {
+    "word": "mention",
+    "word_type": "verb"
+  },
+  "metal": {
+    "word": "metal",
+    "word_type": "noun"
+  },
+  "method": {
+    "word": "method",
+    "word_type": "noun"
+  },
+  "middle": {
+    "word": "middle",
+    "word_type": "noun"
+  },
+  "might": {
+    "word": "might",
+    "word_type": "modal verb"
+  },
+  "mind": {
+    "word": "mind",
+    "word_type": "verb"
+  },
+  "mine": {
+    "word": "mine",
+    "word_type": "pronoun"
+  },
+  "mirror": {
+    "word": "mirror",
+    "word_type": "noun"
+  },
+  "missing": {
+    "word": "missing",
+    "word_type": "adjective"
+  },
+  "mobile": {
+    "word": "mobile",
+    "word_type": "noun"
+  },
+  "monkey": {
+    "word": "monkey",
+    "word_type": "noun"
+  },
+  "moon": {
+    "word": "moon",
+    "word_type": "noun"
+  },
+  "mostly": {
+    "word": "mostly",
+    "word_type": "adverb"
+  },
+  "motorcycle": {
+    "word": "motorcycle",
+    "word_type": "noun"
+  },
+  "movement": {
+    "word": "movement",
+    "word_type": "noun"
+  },
+  "musical": {
+    "word": "musical",
+    "word_type": "adjective"
+  },
+  "musician": {
+    "word": "musician",
+    "word_type": "noun"
+  },
+  "myself": {
+    "word": "myself",
+    "word_type": "pronoun"
+  },
+  "narrow": {
+    "word": "narrow",
+    "word_type": "adjective"
+  },
+  "national": {
+    "word": "national",
+    "word_type": "adjective"
+  },
+  "nature": {
+    "word": "nature",
+    "word_type": "noun"
+  },
+  "nearly": {
+    "word": "nearly",
+    "word_type": "adverb"
+  },
+  "necessary": {
+    "word": "necessary",
+    "word_type": "adjective"
+  },
+  "neck": {
+    "word": "neck",
+    "word_type": "noun"
+  },
+  "need": {
+    "word": "need",
+    "word_type": "noun"
+  },
+  "neither": {
+    "word": "neither",
+    "word_type": "pronoun"
+  },
+  "nervous": {
+    "word": "nervous",
+    "word_type": "adjective"
+  },
+  "network": {
+    "word": "network",
+    "word_type": "noun"
+  },
+  "noise": {
+    "word": "noise",
+    "word_type": "noun"
+  },
+  "noisy": {
+    "word": "noisy",
+    "word_type": "adjective"
+  },
+  "none": {
+    "word": "none",
+    "word_type": "pronoun"
+  },
+  "normal": {
+    "word": "normal",
+    "word_type": "adjective"
+  },
+  "normally": {
+    "word": "normally",
+    "word_type": "adverb"
+  },
+  "notice": {
+    "word": "notice",
+    "word_type": "verb"
+  },
+  "novel": {
+    "word": "novel",
+    "word_type": "noun"
+  },
+  "nowhere": {
+    "word": "nowhere",
+    "word_type": "adverb"
+  },
+  "number": {
+    "word": "number",
+    "word_type": "verb"
+  },
+  "nut": {
+    "word": "nut",
+    "word_type": "noun"
+  },
+  "ocean": {
+    "word": "ocean",
+    "word_type": "noun"
+  },
+  "offer": {
+    "word": "offer",
+    "word_type": "verb"
+  },
+  "officer": {
+    "word": "officer",
+    "word_type": "noun"
+  },
+  "oil": {
+    "word": "oil",
+    "word_type": "noun"
+  },
+  "onto": {
+    "word": "onto",
+    "word_type": "preposition"
+  },
+  "opportunity": {
+    "word": "opportunity",
+    "word_type": "noun"
+  },
+  "option": {
+    "word": "option",
+    "word_type": "noun"
+  },
+  "ordinary": {
+    "word": "ordinary",
+    "word_type": "adjective"
+  },
+  "organization": {
+    "word": "organization",
+    "word_type": "noun"
+  },
+  "organize": {
+    "word": "organize",
+    "word_type": "verb"
+  },
+  "original": {
+    "word": "original",
+    "word_type": "adjective"
+  },
+  "ourselves": {
+    "word": "ourselves",
+    "word_type": "pronoun"
+  },
+  "outside": {
+    "word": "outside",
+    "word_type": "preposition"
+  },
+  "oven": {
+    "word": "oven",
+    "word_type": "noun"
+  },
+  "own": {
+    "word": "own",
+    "word_type": "verb"
+  },
+  "owner": {
+    "word": "owner",
+    "word_type": "noun"
+  },
+  "pack": {
+    "word": "pack",
+    "word_type": "verb"
+  },
+  "pain": {
+    "word": "pain",
+    "word_type": "noun"
+  },
+  "painter": {
+    "word": "painter",
+    "word_type": "noun"
+  },
+  "palace": {
+    "word": "palace",
+    "word_type": "noun"
+  },
+  "pants": {
+    "word": "pants",
+    "word_type": "noun"
+  },
+  "parking": {
+    "word": "parking",
+    "word_type": "noun"
+  },
+  "particular": {
+    "word": "particular",
+    "word_type": "adjective"
+  },
+  "pass": {
+    "word": "pass",
+    "word_type": "verb"
+  },
+  "passenger": {
+    "word": "passenger",
+    "word_type": "noun"
+  },
+  "past": {
+    "word": "past",
+    "word_type": "adverb"
+  },
+  "patient": {
+    "word": "patient",
+    "word_type": "noun"
+  },
+  "pattern": {
+    "word": "pattern",
+    "word_type": "noun"
+  },
+  "pay": {
+    "word": "pay",
+    "word_type": "noun"
+  },
+  "peace": {
+    "word": "peace",
+    "word_type": "noun"
+  },
+  "penny": {
+    "word": "penny",
+    "word_type": "noun"
+  },
+  "per": {
+    "word": "per",
+    "word_type": "cent noun"
+  },
+  "perform": {
+    "word": "perform",
+    "word_type": "verb"
+  },
+  "perhaps": {
+    "word": "perhaps",
+    "word_type": "adverb"
+  },
+  "permission": {
+    "word": "permission",
+    "word_type": "noun"
+  },
+  "personality": {
+    "word": "personality",
+    "word_type": "noun"
+  },
+  "pet": {
+    "word": "pet",
+    "word_type": "noun"
+  },
+  "petrol": {
+    "word": "petrol",
+    "word_type": "noun"
+  },
+  "photograph": {
+    "word": "photograph",
+    "word_type": "verb"
+  },
+  "physical": {
+    "word": "physical",
+    "word_type": "adjective"
+  },
+  "physics": {
+    "word": "physics",
+    "word_type": "noun"
+  },
+  "pick": {
+    "word": "pick",
+    "word_type": "verb"
+  },
+  "pilot": {
+    "word": "pilot",
+    "word_type": "noun"
+  },
+  "planet": {
+    "word": "planet",
+    "word_type": "noun"
+  },
+  "plant": {
+    "word": "plant",
+    "word_type": "verb"
+  },
+  "plastic": {
+    "word": "plastic",
+    "word_type": "noun"
+  },
+  "plate": {
+    "word": "plate",
+    "word_type": "noun"
+  },
+  "platform": {
+    "word": "platform",
+    "word_type": "noun"
+  },
+  "please": {
+    "word": "please",
+    "word_type": "verb"
+  },
+  "pleased": {
+    "word": "pleased",
+    "word_type": "adjective"
+  },
+  "pocket": {
+    "word": "pocket",
+    "word_type": "noun"
+  },
+  "polite": {
+    "word": "polite",
+    "word_type": "adjective"
+  },
+  "pollution": {
+    "word": "pollution",
+    "word_type": "noun"
+  },
+  "pop": {
+    "word": "pop",
+    "word_type": "noun"
+  },
+  "population": {
+    "word": "population",
+    "word_type": "noun"
+  },
+  "position": {
+    "word": "position",
+    "word_type": "noun"
+  },
+  "possession": {
+    "word": "possession",
+    "word_type": "noun"
+  },
+  "possibility": {
+    "word": "possibility",
+    "word_type": "noun"
+  },
+  "poster": {
+    "word": "poster",
+    "word_type": "noun"
+  },
+  "power": {
+    "word": "power",
+    "word_type": "noun"
+  },
+  "predict": {
+    "word": "predict",
+    "word_type": "verb"
+  },
+  "present": {
+    "word": "present",
+    "word_type": "verb"
+  },
+  "president": {
+    "word": "president",
+    "word_type": "noun"
+  },
+  "prevent": {
+    "word": "prevent",
+    "word_type": "verb"
+  },
+  "print": {
+    "word": "print",
+    "word_type": "verb"
+  },
+  "printer": {
+    "word": "printer",
+    "word_type": "noun"
+  },
+  "prison": {
+    "word": "prison",
+    "word_type": "noun"
+  },
+  "prize": {
+    "word": "prize",
+    "word_type": "noun"
+  },
+  "process": {
+    "word": "process",
+    "word_type": "noun"
+  },
+  "produce": {
+    "word": "produce",
+    "word_type": "verb"
+  },
+  "professional": {
+    "word": "professional",
+    "word_type": "adjective"
+  },
+  "professor": {
+    "word": "professor",
+    "word_type": "noun"
+  },
+  "profile": {
+    "word": "profile",
+    "word_type": "noun"
+  },
+  "program": {
+    "word": "program",
+    "word_type": "noun"
+  },
+  "progress": {
+    "word": "progress",
+    "word_type": "noun"
+  },
+  "promise": {
+    "word": "promise",
+    "word_type": "verb"
+  },
+  "pronounce": {
+    "word": "pronounce",
+    "word_type": "verb"
+  },
+  "protect": {
+    "word": "protect",
+    "word_type": "verb"
+  },
+  "provide": {
+    "word": "provide",
+    "word_type": "verb"
+  },
+  "pub": {
+    "word": "pub",
+    "word_type": "noun"
+  },
+  "public": {
+    "word": "public",
+    "word_type": "noun"
+  },
+  "publish": {
+    "word": "publish",
+    "word_type": "verb"
+  },
+  "pull": {
+    "word": "pull",
+    "word_type": "verb"
+  },
+  "purpose": {
+    "word": "purpose",
+    "word_type": "noun"
+  },
+  "push": {
+    "word": "push",
+    "word_type": "verb"
+  },
+  "quality": {
+    "word": "quality",
+    "word_type": "noun"
+  },
+  "quantity": {
+    "word": "quantity",
+    "word_type": "noun"
+  },
+  "queen": {
+    "word": "queen",
+    "word_type": "noun"
+  },
+  "question": {
+    "word": "question",
+    "word_type": "verb"
+  },
+  "quietly": {
+    "word": "quietly",
+    "word_type": "adverb"
+  },
+  "race": {
+    "word": "race",
+    "word_type": "verb"
+  },
+  "railway": {
+    "word": "railway",
+    "word_type": "noun"
+  },
+  "raise": {
+    "word": "raise",
+    "word_type": "verb"
+  },
+  "rate": {
+    "word": "rate",
+    "word_type": "noun"
+  },
+  "rather": {
+    "word": "rather",
+    "word_type": "adverb"
+  },
+  "reach": {
+    "word": "reach",
+    "word_type": "verb"
+  },
+  "react": {
+    "word": "react",
+    "word_type": "verb"
+  },
+  "realize": {
+    "word": "realize",
+    "word_type": "verb"
+  },
+  "receive": {
+    "word": "receive",
+    "word_type": "verb"
+  },
+  "recent": {
+    "word": "recent",
+    "word_type": "adjective"
+  },
+  "recently": {
+    "word": "recently",
+    "word_type": "adverb"
+  },
+  "reception": {
+    "word": "reception",
+    "word_type": "noun"
+  },
+  "recipe": {
+    "word": "recipe",
+    "word_type": "noun"
+  },
+  "recognize": {
+    "word": "recognize",
+    "word_type": "verb"
+  },
+  "recommend": {
+    "word": "recommend",
+    "word_type": "verb"
+  },
+  "record": {
+    "word": "record",
+    "word_type": "verb"
+  },
+  "recording": {
+    "word": "recording",
+    "word_type": "noun"
+  },
+  "recycle": {
+    "word": "recycle",
+    "word_type": "verb"
+  },
+  "reduce": {
+    "word": "reduce",
+    "word_type": "verb"
+  },
+  "refer": {
+    "word": "refer",
+    "word_type": "verb"
+  },
+  "refuse": {
+    "word": "refuse",
+    "word_type": "verb"
+  },
+  "region": {
+    "word": "region",
+    "word_type": "noun"
+  },
+  "regular": {
+    "word": "regular",
+    "word_type": "adjective"
+  },
+  "relationship": {
+    "word": "relationship",
+    "word_type": "noun"
+  },
+  "remove": {
+    "word": "remove",
+    "word_type": "verb"
+  },
+  "repair": {
+    "word": "repair",
+    "word_type": "verb"
+  },
+  "replace": {
+    "word": "replace",
+    "word_type": "verb"
+  },
+  "reply": {
+    "word": "reply",
+    "word_type": "verb"
+  },
+  "report": {
+    "word": "report",
+    "word_type": "verb"
+  },
+  "reporter": {
+    "word": "reporter",
+    "word_type": "noun"
+  },
+  "request": {
+    "word": "request",
+    "word_type": "noun"
+  },
+  "research": {
+    "word": "research",
+    "word_type": "verb"
+  },
+  "researcher": {
+    "word": "researcher",
+    "word_type": "noun"
+  },
+  "respond": {
+    "word": "respond",
+    "word_type": "verb"
+  },
+  "response": {
+    "word": "response",
+    "word_type": "noun"
+  },
+  "rest": {
+    "word": "rest",
+    "word_type": "verb"
+  },
+  "review": {
+    "word": "review",
+    "word_type": "verb"
+  },
+  "ride": {
+    "word": "ride",
+    "word_type": "noun"
+  },
+  "ring": {
+    "word": "ring",
+    "word_type": "verb"
+  },
+  "rise": {
+    "word": "rise",
+    "word_type": "verb"
+  },
+  "rock": {
+    "word": "rock",
+    "word_type": "noun"
+  },
+  "role": {
+    "word": "role",
+    "word_type": "noun"
+  },
+  "roof": {
+    "word": "roof",
+    "word_type": "noun"
+  },
+  "round": {
+    "word": "round",
+    "word_type": "preposition"
+  },
+  "route": {
+    "word": "route",
+    "word_type": "noun"
+  },
+  "rubbish": {
+    "word": "rubbish",
+    "word_type": "noun"
+  },
+  "rude": {
+    "word": "rude",
+    "word_type": "adjective"
+  },
+  "run": {
+    "word": "run",
+    "word_type": "noun"
+  },
+  "runner": {
+    "word": "runner",
+    "word_type": "noun"
+  },
+  "running": {
+    "word": "running",
+    "word_type": "noun"
+  },
+  "sadly": {
+    "word": "sadly",
+    "word_type": "adverb"
+  },
+  "safe": {
+    "word": "safe",
+    "word_type": "adjective"
+  },
+  "sail": {
+    "word": "sail",
+    "word_type": "verb"
+  },
+  "sailing": {
+    "word": "sailing",
+    "word_type": "noun"
+  },
+  "salary": {
+    "word": "salary",
+    "word_type": "noun"
+  },
+  "sale": {
+    "word": "sale",
+    "word_type": "noun"
+  },
+  "sauce": {
+    "word": "sauce",
+    "word_type": "noun"
+  },
+  "save": {
+    "word": "save",
+    "word_type": "verb"
+  },
+  "scared": {
+    "word": "scared",
+    "word_type": "adjective"
+  },
+  "scary": {
+    "word": "scary",
+    "word_type": "adjective"
+  },
+  "scene": {
+    "word": "scene",
+    "word_type": "noun"
+  },
+  "schedule": {
+    "word": "schedule",
+    "word_type": "noun"
+  },
+  "score": {
+    "word": "score",
+    "word_type": "verb"
+  },
+  "screen": {
+    "word": "screen",
+    "word_type": "noun"
+  },
+  "search": {
+    "word": "search",
+    "word_type": "verb"
+  },
+  "season": {
+    "word": "season",
+    "word_type": "noun"
+  },
+  "seat": {
+    "word": "seat",
+    "word_type": "noun"
+  },
+  "second": {
+    "word": "second",
+    "word_type": "adverb"
+  },
+  "secondly": {
+    "word": "secondly",
+    "word_type": "adverb"
+  },
+  "secret": {
+    "word": "secret",
+    "word_type": "noun"
+  },
+  "secretary": {
+    "word": "secretary",
+    "word_type": "noun"
+  },
+  "seem": {
+    "word": "seem",
+    "word_type": "linking verb"
+  },
+  "sense": {
+    "word": "sense",
+    "word_type": "noun"
+  },
+  "separate": {
+    "word": "separate",
+    "word_type": "adjective"
+  },
+  "series": {
+    "word": "series",
+    "word_type": "noun"
+  },
+  "serious": {
+    "word": "serious",
+    "word_type": "adjective"
+  },
+  "serve": {
+    "word": "serve",
+    "word_type": "verb"
+  },
+  "service": {
+    "word": "service",
+    "word_type": "noun"
+  },
+  "several": {
+    "word": "several",
+    "word_type": "pronoun"
+  },
+  "shake": {
+    "word": "shake",
+    "word_type": "verb"
+  },
+  "shall": {
+    "word": "shall",
+    "word_type": "modal verb"
+  },
+  "shape": {
+    "word": "shape",
+    "word_type": "noun"
+  },
+  "sheet": {
+    "word": "sheet",
+    "word_type": "noun"
+  },
+  "ship": {
+    "word": "ship",
+    "word_type": "noun"
+  },
+  "shoulder": {
+    "word": "shoulder",
+    "word_type": "noun"
+  },
+  "shout": {
+    "word": "shout",
+    "word_type": "verb"
+  },
+  "shut": {
+    "word": "shut",
+    "word_type": "verb"
+  },
+  "side": {
+    "word": "side",
+    "word_type": "noun"
+  },
+  "sign": {
+    "word": "sign",
+    "word_type": "verb"
+  },
+  "silver": {
+    "word": "silver",
+    "word_type": "noun"
+  },
+  "simple": {
+    "word": "simple",
+    "word_type": "adjective"
+  },
+  "since": {
+    "word": "since",
+    "word_type": "preposition"
+  },
+  "singing": {
+    "word": "singing",
+    "word_type": "noun"
+  },
+  "single": {
+    "word": "single",
+    "word_type": "noun"
+  },
+  "sir": {
+    "word": "sir",
+    "word_type": "noun"
+  },
+  "site": {
+    "word": "site",
+    "word_type": "noun"
+  },
+  "size": {
+    "word": "size",
+    "word_type": "noun"
+  },
+  "ski": {
+    "word": "ski",
+    "word_type": "verb"
+  },
+  "skiing": {
+    "word": "skiing",
+    "word_type": "noun"
+  },
+  "skin": {
+    "word": "skin",
+    "word_type": "noun"
+  },
+  "sky": {
+    "word": "sky",
+    "word_type": "noun"
+  },
+  "sleep": {
+    "word": "sleep",
+    "word_type": "noun"
+  },
+  "slowly": {
+    "word": "slowly",
+    "word_type": "adverb"
+  },
+  "smartphone": {
+    "word": "smartphone",
+    "word_type": "noun"
+  },
+  "smell": {
+    "word": "smell",
+    "word_type": "verb"
+  },
+  "smile": {
+    "word": "smile",
+    "word_type": "verb"
+  },
+  "smoke": {
+    "word": "smoke",
+    "word_type": "verb"
+  },
+  "smoking": {
+    "word": "smoking",
+    "word_type": "noun"
+  },
+  "soap": {
+    "word": "soap",
+    "word_type": "noun"
+  },
+  "soccer": {
+    "word": "soccer",
+    "word_type": "noun"
+  },
+  "social": {
+    "word": "social",
+    "word_type": "adjective"
+  },
+  "society": {
+    "word": "society",
+    "word_type": "noun"
+  },
+  "sock": {
+    "word": "sock",
+    "word_type": "noun"
+  },
+  "soft": {
+    "word": "soft",
+    "word_type": "adjective"
+  },
+  "soldier": {
+    "word": "soldier",
+    "word_type": "noun"
+  },
+  "solution": {
+    "word": "solution",
+    "word_type": "noun"
+  },
+  "solve": {
+    "word": "solve",
+    "word_type": "verb"
+  },
+  "somewhere": {
+    "word": "somewhere",
+    "word_type": "pronoun"
+  },
+  "sort": {
+    "word": "sort",
+    "word_type": "noun"
+  },
+  "source": {
+    "word": "source",
+    "word_type": "noun"
+  },
+  "speaker": {
+    "word": "speaker",
+    "word_type": "noun"
+  },
+  "specific": {
+    "word": "specific",
+    "word_type": "adjective"
+  },
+  "speech": {
+    "word": "speech",
+    "word_type": "noun"
+  },
+  "speed": {
+    "word": "speed",
+    "word_type": "noun"
+  },
+  "spider": {
+    "word": "spider",
+    "word_type": "noun"
+  },
+  "spoon": {
+    "word": "spoon",
+    "word_type": "noun"
+  },
+  "square": {
+    "word": "square",
+    "word_type": "noun"
+  },
+  "stage": {
+    "word": "stage",
+    "word_type": "noun"
+  },
+  "stair": {
+    "word": "stair",
+    "word_type": "noun"
+  },
+  "stamp": {
+    "word": "stamp",
+    "word_type": "noun"
+  },
+  "star": {
+    "word": "star",
+    "word_type": "verb"
+  },
+  "start": {
+    "word": "start",
+    "word_type": "noun"
+  },
+  "state": {
+    "word": "state",
+    "word_type": "noun"
+  },
+  "stay": {
+    "word": "stay",
+    "word_type": "noun"
+  },
+  "steal": {
+    "word": "steal",
+    "word_type": "verb"
+  },
+  "step": {
+    "word": "step",
+    "word_type": "noun"
+  },
+  "stomach": {
+    "word": "stomach",
+    "word_type": "noun"
+  },
+  "stone": {
+    "word": "stone",
+    "word_type": "noun"
+  },
+  "store": {
+    "word": "store",
+    "word_type": "noun"
+  },
+  "storm": {
+    "word": "storm",
+    "word_type": "noun"
+  },
+  "straight": {
+    "word": "straight",
+    "word_type": "adverb"
+  },
+  "strange": {
+    "word": "strange",
+    "word_type": "adjective"
+  },
+  "strategy": {
+    "word": "strategy",
+    "word_type": "noun"
+  },
+  "stress": {
+    "word": "stress",
+    "word_type": "verb"
+  },
+  "structure": {
+    "word": "structure",
+    "word_type": "noun"
+  },
+  "stupid": {
+    "word": "stupid",
+    "word_type": "adjective"
+  },
+  "succeed": {
+    "word": "succeed",
+    "word_type": "verb"
+  },
+  "successful": {
+    "word": "successful",
+    "word_type": "adjective"
+  },
+  "such": {
+    "word": "such",
+    "word_type": "pronoun"
+  },
+  "suddenly": {
+    "word": "suddenly",
+    "word_type": "adverb"
+  },
+  "suggest": {
+    "word": "suggest",
+    "word_type": "verb"
+  },
+  "suggestion": {
+    "word": "suggestion",
+    "word_type": "noun"
+  },
+  "suit": {
+    "word": "suit",
+    "word_type": "noun"
+  },
+  "support": {
+    "word": "support",
+    "word_type": "verb"
+  },
+  "suppose": {
+    "word": "suppose",
+    "word_type": "verb"
+  },
+  "sure": {
+    "word": "sure",
+    "word_type": "adverb"
+  },
+  "surprise": {
+    "word": "surprise",
+    "word_type": "verb"
+  },
+  "surprised": {
+    "word": "surprised",
+    "word_type": "adjective"
+  },
+  "surprising": {
+    "word": "surprising",
+    "word_type": "adjective"
+  },
+  "survey": {
+    "word": "survey",
+    "word_type": "noun"
+  },
+  "sweet": {
+    "word": "sweet",
+    "word_type": "noun"
+  },
+  "symbol": {
+    "word": "symbol",
+    "word_type": "noun"
+  },
+  "system": {
+    "word": "system",
+    "word_type": "noun"
+  },
+  "tablet": {
+    "word": "tablet",
+    "word_type": "noun"
+  },
+  "talk": {
+    "word": "talk",
+    "word_type": "noun"
+  },
+  "target": {
+    "word": "target",
+    "word_type": "noun"
+  },
+  "task": {
+    "word": "task",
+    "word_type": "noun"
+  },
+  "taste": {
+    "word": "taste",
+    "word_type": "verb"
+  },
+  "teaching": {
+    "word": "teaching",
+    "word_type": "noun"
+  },
+  "technology": {
+    "word": "technology",
+    "word_type": "noun"
+  },
+  "teenage": {
+    "word": "teenage",
+    "word_type": "adjective"
+  },
+  "temperature": {
+    "word": "temperature",
+    "word_type": "noun"
+  },
+  "term": {
+    "word": "term",
+    "word_type": "noun"
+  },
+  "text": {
+    "word": "text",
+    "word_type": "verb"
+  },
+  "themselves": {
+    "word": "themselves",
+    "word_type": "pronoun"
+  },
+  "thick": {
+    "word": "thick",
+    "word_type": "adjective"
+  },
+  "thief": {
+    "word": "thief",
+    "word_type": "noun"
+  },
+  "thin": {
+    "word": "thin",
+    "word_type": "adjective"
+  },
+  "thinking": {
+    "word": "thinking",
+    "word_type": "noun"
+  },
+  "third": {
+    "word": "third",
+    "word_type": "noun"
+  },
+  "thought": {
+    "word": "thought",
+    "word_type": "noun"
+  },
+  "throw": {
+    "word": "throw",
+    "word_type": "verb"
+  },
+  "tidy": {
+    "word": "tidy",
+    "word_type": "verb"
+  },
+  "tie": {
+    "word": "tie",
+    "word_type": "verb"
+  },
+  "tip": {
+    "word": "tip",
+    "word_type": "noun"
+  },
+  "tool": {
+    "word": "tool",
+    "word_type": "noun"
+  },
+  "top": {
+    "word": "top",
+    "word_type": "noun"
+  },
+  "touch": {
+    "word": "touch",
+    "word_type": "verb"
+  },
+  "tour": {
+    "word": "tour",
+    "word_type": "noun"
+  },
+  "tourism": {
+    "word": "tourism",
+    "word_type": "noun"
+  },
+  "towards": {
+    "word": "towards",
+    "word_type": "preposition"
+  },
+  "towel": {
+    "word": "towel",
+    "word_type": "noun"
+  },
+  "tower": {
+    "word": "tower",
+    "word_type": "noun"
+  },
+  "toy": {
+    "word": "toy",
+    "word_type": "noun"
+  },
+  "track": {
+    "word": "track",
+    "word_type": "noun"
+  },
+  "tradition": {
+    "word": "tradition",
+    "word_type": "noun"
+  },
+  "traditional": {
+    "word": "traditional",
+    "word_type": "adjective"
+  },
+  "train": {
+    "word": "train",
+    "word_type": "verb"
+  },
+  "trainer": {
+    "word": "trainer",
+    "word_type": "noun"
+  },
+  "training": {
+    "word": "training",
+    "word_type": "noun"
+  },
+  "transport": {
+    "word": "transport",
+    "word_type": "noun"
+  },
+  "traveller": {
+    "word": "traveller",
+    "word_type": "noun"
+  },
+  "trouble": {
+    "word": "trouble",
+    "word_type": "noun"
+  },
+  "truck": {
+    "word": "truck",
+    "word_type": "noun"
+  },
+  "twin": {
+    "word": "twin",
+    "word_type": "noun"
+  },
+  "typical": {
+    "word": "typical",
+    "word_type": "adjective"
+  },
+  "underground": {
+    "word": "underground",
+    "word_type": "adverb"
+  },
+  "understanding": {
+    "word": "understanding",
+    "word_type": "noun"
+  },
+  "unfortunately": {
+    "word": "unfortunately",
+    "word_type": "adverb"
+  },
+  "unhappy": {
+    "word": "unhappy",
+    "word_type": "adjective"
+  },
+  "uniform": {
+    "word": "uniform",
+    "word_type": "noun"
+  },
+  "unit": {
+    "word": "unit",
+    "word_type": "noun"
+  },
+  "united": {
+    "word": "united",
+    "word_type": "adjective"
+  },
+  "unusual": {
+    "word": "unusual",
+    "word_type": "adjective"
+  },
+  "upstairs": {
+    "word": "upstairs",
+    "word_type": "adjective"
+  },
+  "use": {
+    "word": "use",
+    "word_type": "noun"
+  },
+  "used": {
+    "word": "used",
+    "word_type": "to modal verb"
+  },
+  "user": {
+    "word": "user",
+    "word_type": "noun"
+  },
+  "usual": {
+    "word": "usual",
+    "word_type": "adjective"
+  },
+  "valley": {
+    "word": "valley",
+    "word_type": "noun"
+  },
+  "van": {
+    "word": "van",
+    "word_type": "noun"
+  },
+  "variety": {
+    "word": "variety",
+    "word_type": "noun"
+  },
+  "vehicle": {
+    "word": "vehicle",
+    "word_type": "noun"
+  },
+  "view": {
+    "word": "view",
+    "word_type": "noun"
+  },
+  "virus": {
+    "word": "virus",
+    "word_type": "noun"
+  },
+  "voice": {
+    "word": "voice",
+    "word_type": "noun"
+  },
+  "wait": {
+    "word": "wait",
+    "word_type": "noun"
+  },
+  "war": {
+    "word": "war",
+    "word_type": "noun"
+  },
+  "wash": {
+    "word": "wash",
+    "word_type": "noun"
+  },
+  "washing": {
+    "word": "washing",
+    "word_type": "noun"
+  },
+  "wave": {
+    "word": "wave",
+    "word_type": "noun"
+  },
+  "weak": {
+    "word": "weak",
+    "word_type": "adjective"
+  },
+  "web": {
+    "word": "web",
+    "word_type": "noun"
+  },
+  "wedding": {
+    "word": "wedding",
+    "word_type": "noun"
+  },
+  "weight": {
+    "word": "weight",
+    "word_type": "noun"
+  },
+  "welcome": {
+    "word": "welcome",
+    "word_type": "noun"
+  },
+  "wet": {
+    "word": "wet",
+    "word_type": "adjective"
+  },
+  "wheel": {
+    "word": "wheel",
+    "word_type": "noun"
+  },
+  "while": {
+    "word": "while",
+    "word_type": "conjunction"
+  },
+  "whole": {
+    "word": "whole",
+    "word_type": "adjective"
+  },
+  "whose": {
+    "word": "whose",
+    "word_type": "pronoun"
+  },
+  "wide": {
+    "word": "wide",
+    "word_type": "adjective"
+  },
+  "wild": {
+    "word": "wild",
+    "word_type": "adjective"
+  },
+  "wind": {
+    "word": "wind",
+    "word_type": "noun"
+  },
+  "winner": {
+    "word": "winner",
+    "word_type": "noun"
+  },
+  "wish": {
+    "word": "wish",
+    "word_type": "verb"
+  },
+  "wood": {
+    "word": "wood",
+    "word_type": "noun"
+  },
+  "wooden": {
+    "word": "wooden",
+    "word_type": "adjective"
+  },
+  "working": {
+    "word": "working",
+    "word_type": "adjective"
+  },
+  "worried": {
+    "word": "worried",
+    "word_type": "adjective"
+  },
+  "worry": {
+    "word": "worry",
+    "word_type": "verb"
+  },
+  "worse": {
+    "word": "worse",
+    "word_type": "adjective"
+  },
+  "worst": {
+    "word": "worst",
+    "word_type": "adjective"
+  },
+  "wow": {
+    "word": "wow",
+    "word_type": "exclamation"
+  },
+  "yet": {
+    "word": "yet",
+    "word_type": "adverb"
+  },
+  "yours": {
+    "word": "yours",
+    "word_type": "pronoun"
+  },
+  "zero": {
+    "word": "zero",
+    "word_type": "number"
+  }
+}

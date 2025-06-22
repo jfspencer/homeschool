@@ -12,8 +12,8 @@ interface WordsObject {
 }
 
 // Read the JSON file
-const inputFile = path.join(__dirname, 'english', 'A1_words_Q_Z_oxford.json');
-const outputFile = path.join(__dirname, 'english', 'A1_words_Q_Z_oxford_converted.json');
+const inputFile = path.join(__dirname, 'english', 'A1_words_oxford_array.json');
+const outputFile = path.join(__dirname, 'english', 'A1_words_oxford_object.json');
 
 try {
   // Read and parse the JSON file
