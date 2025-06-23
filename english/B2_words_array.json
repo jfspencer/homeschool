@@ -1,0 +1,3198 @@
+[
+  {
+    "word": "abandon",
+    "word_type": "verb"
+  },
+  {
+    "word": "absolute",
+    "word_type": "adjective"
+  },
+  {
+    "word": "academic",
+    "word_type": "noun"
+  },
+  {
+    "word": "acceptable",
+    "word_type": "adjective"
+  },
+  {
+    "word": "accompany",
+    "word_type": "verb"
+  },
+  {
+    "word": "account",
+    "word_type": "verb"
+  },
+  {
+    "word": "accurate",
+    "word_type": "adjective"
+  },
+  {
+    "word": "accuse",
+    "word_type": "verb"
+  },
+  {
+    "word": "acknowledge",
+    "word_type": "verb"
+  },
+  {
+    "word": "acquire",
+    "word_type": "verb"
+  },
+  {
+    "word": "actual",
+    "word_type": "adjective"
+  },
+  {
+    "word": "adapt",
+    "word_type": "verb"
+  },
+  {
+    "word": "additional",
+    "word_type": "adjective"
+  },
+  {
+    "word": "administration",
+    "word_type": "noun"
+  },
+  {
+    "word": "adopt",
+    "word_type": "verb"
+  },
+  {
+    "word": "advance",
+    "word_type": "adjective"
+  },
+  {
+    "word": "advance",
+    "word_type": "noun"
+  },
+  {
+    "word": "advance",
+    "word_type": "verb"
+  },
+  {
+    "word": "affair",
+    "word_type": "noun"
+  },
+  {
+    "word": "afterwards",
+    "word_type": "adverb"
+  },
+  {
+    "word": "agency",
+    "word_type": "noun"
+  },
+  {
+    "word": "agenda",
+    "word_type": "noun"
+  },
+  {
+    "word": "aggressive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "aid",
+    "word_type": "noun"
+  },
+  {
+    "word": "aid",
+    "word_type": "verb"
+  },
+  {
+    "word": "aircraft",
+    "word_type": "noun"
+  },
+  {
+    "word": "alarm",
+    "word_type": "verb"
+  },
+  {
+    "word": "alter",
+    "word_type": "verb"
+  },
+  {
+    "word": "amount",
+    "word_type": "verb"
+  },
+  {
+    "word": "anger",
+    "word_type": "noun"
+  },
+  {
+    "word": "angle",
+    "word_type": "noun"
+  },
+  {
+    "word": "anniversary",
+    "word_type": "noun"
+  },
+  {
+    "word": "annual",
+    "word_type": "adjective"
+  },
+  {
+    "word": "anxious",
+    "word_type": "adjective"
+  },
+  {
+    "word": "apparent",
+    "word_type": "adjective"
+  },
+  {
+    "word": "apparently",
+    "word_type": "adverb"
+  },
+  {
+    "word": "appeal",
+    "word_type": "noun"
+  },
+  {
+    "word": "appeal",
+    "word_type": "verb"
+  },
+  {
+    "word": "approach",
+    "word_type": "noun"
+  },
+  {
+    "word": "approach",
+    "word_type": "verb"
+  },
+  {
+    "word": "appropriate",
+    "word_type": "adjective"
+  },
+  {
+    "word": "approval",
+    "word_type": "noun"
+  },
+  {
+    "word": "approve",
+    "word_type": "verb"
+  },
+  {
+    "word": "arise",
+    "word_type": "verb"
+  },
+  {
+    "word": "armed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "arms",
+    "word_type": "noun"
+  },
+  {
+    "word": "artificial",
+    "word_type": "adjective"
+  },
+  {
+    "word": "artistic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "ashamed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "aspect",
+    "word_type": "noun"
+  },
+  {
+    "word": "assess",
+    "word_type": "verb"
+  },
+  {
+    "word": "assessment",
+    "word_type": "noun"
+  },
+  {
+    "word": "associate",
+    "word_type": "verb"
+  },
+  {
+    "word": "associated",
+    "word_type": "adjective"
+  },
+  {
+    "word": "association",
+    "word_type": "noun"
+  },
+  {
+    "word": "assume",
+    "word_type": "verb"
+  },
+  {
+    "word": "attempt",
+    "word_type": "noun"
+  },
+  {
+    "word": "attempt",
+    "word_type": "verb"
+  },
+  {
+    "word": "bacteria",
+    "word_type": "noun"
+  },
+  {
+    "word": "bar",
+    "word_type": "verb"
+  },
+  {
+    "word": "barrier",
+    "word_type": "noun"
+  },
+  {
+    "word": "basically",
+    "word_type": "adverb"
+  },
+  {
+    "word": "battle",
+    "word_type": "verb"
+  },
+  {
+    "word": "bear",
+    "word_type": "verb"
+  },
+  {
+    "word": "beat",
+    "word_type": "noun"
+  },
+  {
+    "word": "beg",
+    "word_type": "verb"
+  },
+  {
+    "word": "being",
+    "word_type": "noun"
+  },
+  {
+    "word": "bent",
+    "word_type": "adjective"
+  },
+  {
+    "word": "bet",
+    "word_type": "noun"
+  },
+  {
+    "word": "bet",
+    "word_type": "verb"
+  },
+  {
+    "word": "beyond",
+    "word_type": "adverb"
+  },
+  {
+    "word": "beyond",
+    "word_type": "preposition"
+  },
+  {
+    "word": "bitter",
+    "word_type": "adjective"
+  },
+  {
+    "word": "blame",
+    "word_type": "noun"
+  },
+  {
+    "word": "blame",
+    "word_type": "verb"
+  },
+  {
+    "word": "blind",
+    "word_type": "adjective"
+  },
+  {
+    "word": "bond",
+    "word_type": "noun"
+  },
+  {
+    "word": "border",
+    "word_type": "verb"
+  },
+  {
+    "word": "breast",
+    "word_type": "noun"
+  },
+  {
+    "word": "brief",
+    "word_type": "adjective"
+  },
+  {
+    "word": "broad",
+    "word_type": "adjective"
+  },
+  {
+    "word": "broadcast",
+    "word_type": "noun"
+  },
+  {
+    "word": "broadcast",
+    "word_type": "verb"
+  },
+  {
+    "word": "budget",
+    "word_type": "noun"
+  },
+  {
+    "word": "bullet",
+    "word_type": "noun"
+  },
+  {
+    "word": "bunch",
+    "word_type": "noun"
+  },
+  {
+    "word": "burn",
+    "word_type": "noun"
+  },
+  {
+    "word": "bush",
+    "word_type": "noun"
+  },
+  {
+    "word": "cable",
+    "word_type": "noun"
+  },
+  {
+    "word": "calculate",
+    "word_type": "verb"
+  },
+  {
+    "word": "cancel",
+    "word_type": "verb"
+  },
+  {
+    "word": "cancer",
+    "word_type": "noun"
+  },
+  {
+    "word": "capable",
+    "word_type": "adjective"
+  },
+  {
+    "word": "capacity",
+    "word_type": "noun"
+  },
+  {
+    "word": "capture",
+    "word_type": "noun"
+  },
+  {
+    "word": "capture",
+    "word_type": "verb"
+  },
+  {
+    "word": "cast",
+    "word_type": "noun"
+  },
+  {
+    "word": "cast",
+    "word_type": "verb"
+  },
+  {
+    "word": "catch",
+    "word_type": "noun"
+  },
+  {
+    "word": "cell",
+    "word_type": "noun"
+  },
+  {
+    "word": "chain",
+    "word_type": "verb"
+  },
+  {
+    "word": "chairman",
+    "word_type": "noun"
+  },
+  {
+    "word": "challenge",
+    "word_type": "verb"
+  },
+  {
+    "word": "characteristic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "characteristic",
+    "word_type": "noun"
+  },
+  {
+    "word": "chief",
+    "word_type": "adjective"
+  },
+  {
+    "word": "chief",
+    "word_type": "noun"
+  },
+  {
+    "word": "circumstance",
+    "word_type": "noun"
+  },
+  {
+    "word": "cite",
+    "word_type": "verb"
+  },
+  {
+    "word": "citizen",
+    "word_type": "noun"
+  },
+  {
+    "word": "civil",
+    "word_type": "adjective"
+  },
+  {
+    "word": "classic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "classic",
+    "word_type": "noun"
+  },
+  {
+    "word": "closely",
+    "word_type": "adverb"
+  },
+  {
+    "word": "collapse",
+    "word_type": "noun"
+  },
+  {
+    "word": "collapse",
+    "word_type": "verb"
+  },
+  {
+    "word": "combination",
+    "word_type": "noun"
+  },
+  {
+    "word": "comfort",
+    "word_type": "noun"
+  },
+  {
+    "word": "comfort",
+    "word_type": "verb"
+  },
+  {
+    "word": "command",
+    "word_type": "noun"
+  },
+  {
+    "word": "command",
+    "word_type": "verb"
+  },
+  {
+    "word": "commission",
+    "word_type": "noun"
+  },
+  {
+    "word": "commission",
+    "word_type": "verb"
+  },
+  {
+    "word": "commitment",
+    "word_type": "noun"
+  },
+  {
+    "word": "committee",
+    "word_type": "noun"
+  },
+  {
+    "word": "commonly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "complex",
+    "word_type": "noun"
+  },
+  {
+    "word": "complicated",
+    "word_type": "adjective"
+  },
+  {
+    "word": "component",
+    "word_type": "noun"
+  },
+  {
+    "word": "concentration",
+    "word_type": "noun"
+  },
+  {
+    "word": "concept",
+    "word_type": "noun"
+  },
+  {
+    "word": "concern",
+    "word_type": "noun"
+  },
+  {
+    "word": "concern",
+    "word_type": "verb"
+  },
+  {
+    "word": "concerned",
+    "word_type": "adjective"
+  },
+  {
+    "word": "conduct",
+    "word_type": "noun"
+  },
+  {
+    "word": "conduct",
+    "word_type": "verb"
+  },
+  {
+    "word": "confidence",
+    "word_type": "noun"
+  },
+  {
+    "word": "conflict",
+    "word_type": "noun"
+  },
+  {
+    "word": "conflict",
+    "word_type": "verb"
+  },
+  {
+    "word": "confusing",
+    "word_type": "adjective"
+  },
+  {
+    "word": "conscious",
+    "word_type": "adjective"
+  },
+  {
+    "word": "conservative",
+    "word_type": "adjective"
+  },
+  {
+    "word": "conservative",
+    "word_type": "noun"
+  },
+  {
+    "word": "consideration",
+    "word_type": "noun"
+  },
+  {
+    "word": "consistent",
+    "word_type": "adjective"
+  },
+  {
+    "word": "constant",
+    "word_type": "adjective"
+  },
+  {
+    "word": "constantly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "construct",
+    "word_type": "verb"
+  },
+  {
+    "word": "construction",
+    "word_type": "noun"
+  },
+  {
+    "word": "contemporary",
+    "word_type": "adjective"
+  },
+  {
+    "word": "contest",
+    "word_type": "noun"
+  },
+  {
+    "word": "contest",
+    "word_type": "verb"
+  },
+  {
+    "word": "contract",
+    "word_type": "noun"
+  },
+  {
+    "word": "contract",
+    "word_type": "verb"
+  },
+  {
+    "word": "contribute",
+    "word_type": "verb"
+  },
+  {
+    "word": "contribution",
+    "word_type": "noun"
+  },
+  {
+    "word": "convert",
+    "word_type": "verb"
+  },
+  {
+    "word": "convinced",
+    "word_type": "adjective"
+  },
+  {
+    "word": "core",
+    "word_type": "adjective"
+  },
+  {
+    "word": "core",
+    "word_type": "noun"
+  },
+  {
+    "word": "corporate",
+    "word_type": "adjective"
+  },
+  {
+    "word": "council",
+    "word_type": "noun"
+  },
+  {
+    "word": "county",
+    "word_type": "noun"
+  },
+  {
+    "word": "courage",
+    "word_type": "noun"
+  },
+  {
+    "word": "crash",
+    "word_type": "noun"
+  },
+  {
+    "word": "crash",
+    "word_type": "verb"
+  },
+  {
+    "word": "creation",
+    "word_type": "noun"
+  },
+  {
+    "word": "creature",
+    "word_type": "noun"
+  },
+  {
+    "word": "credit",
+    "word_type": "verb"
+  },
+  {
+    "word": "crew",
+    "word_type": "noun"
+  },
+  {
+    "word": "crisis",
+    "word_type": "noun"
+  },
+  {
+    "word": "criterion",
+    "word_type": "noun"
+  },
+  {
+    "word": "critic",
+    "word_type": "noun"
+  },
+  {
+    "word": "critical",
+    "word_type": "adjective"
+  },
+  {
+    "word": "criticism",
+    "word_type": "noun"
+  },
+  {
+    "word": "criticize",
+    "word_type": "verb"
+  },
+  {
+    "word": "crop",
+    "word_type": "noun"
+  },
+  {
+    "word": "crucial",
+    "word_type": "adjective"
+  },
+  {
+    "word": "cry",
+    "word_type": "noun"
+  },
+  {
+    "word": "cure",
+    "word_type": "noun"
+  },
+  {
+    "word": "cure",
+    "word_type": "verb"
+  },
+  {
+    "word": "current",
+    "word_type": "noun"
+  },
+  {
+    "word": "curve",
+    "word_type": "noun"
+  },
+  {
+    "word": "curve",
+    "word_type": "verb"
+  },
+  {
+    "word": "curved",
+    "word_type": "adjective"
+  },
+  {
+    "word": "debate",
+    "word_type": "noun"
+  },
+  {
+    "word": "debate",
+    "word_type": "verb"
+  },
+  {
+    "word": "debt",
+    "word_type": "noun"
+  },
+  {
+    "word": "decent",
+    "word_type": "adjective"
+  },
+  {
+    "word": "declare",
+    "word_type": "verb"
+  },
+  {
+    "word": "decline",
+    "word_type": "noun"
+  },
+  {
+    "word": "decline",
+    "word_type": "verb"
+  },
+  {
+    "word": "decoration",
+    "word_type": "noun"
+  },
+  {
+    "word": "decrease",
+    "word_type": "noun"
+  },
+  {
+    "word": "decrease",
+    "word_type": "verb"
+  },
+  {
+    "word": "deeply",
+    "word_type": "adverb"
+  },
+  {
+    "word": "defeat",
+    "word_type": "noun"
+  },
+  {
+    "word": "defeat",
+    "word_type": "verb"
+  },
+  {
+    "word": "defence",
+    "word_type": "noun"
+  },
+  {
+    "word": "defend",
+    "word_type": "verb"
+  },
+  {
+    "word": "delay",
+    "word_type": "noun"
+  },
+  {
+    "word": "delay",
+    "word_type": "verb"
+  },
+  {
+    "word": "deliberate",
+    "word_type": "adjective"
+  },
+  {
+    "word": "deliberately",
+    "word_type": "adverb"
+  },
+  {
+    "word": "delight",
+    "word_type": "noun"
+  },
+  {
+    "word": "delight",
+    "word_type": "verb"
+  },
+  {
+    "word": "delighted",
+    "word_type": "adjective"
+  },
+  {
+    "word": "delivery",
+    "word_type": "noun"
+  },
+  {
+    "word": "demand",
+    "word_type": "noun"
+  },
+  {
+    "word": "demand",
+    "word_type": "verb"
+  },
+  {
+    "word": "demonstrate",
+    "word_type": "verb"
+  },
+  {
+    "word": "deny",
+    "word_type": "verb"
+  },
+  {
+    "word": "depressed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "depressing",
+    "word_type": "adjective"
+  },
+  {
+    "word": "depth",
+    "word_type": "noun"
+  },
+  {
+    "word": "desert",
+    "word_type": "verb"
+  },
+  {
+    "word": "deserve",
+    "word_type": "verb"
+  },
+  {
+    "word": "desire",
+    "word_type": "noun"
+  },
+  {
+    "word": "desire",
+    "word_type": "verb"
+  },
+  {
+    "word": "desperate",
+    "word_type": "adjective"
+  },
+  {
+    "word": "detailed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "detect",
+    "word_type": "verb"
+  },
+  {
+    "word": "dig",
+    "word_type": "verb"
+  },
+  {
+    "word": "disc",
+    "word_type": "noun"
+  },
+  {
+    "word": "discipline",
+    "word_type": "noun"
+  },
+  {
+    "word": "discount",
+    "word_type": "verb"
+  },
+  {
+    "word": "dishonest",
+    "word_type": "adjective"
+  },
+  {
+    "word": "disk",
+    "word_type": "noun"
+  },
+  {
+    "word": "dismiss",
+    "word_type": "verb"
+  },
+  {
+    "word": "display",
+    "word_type": "noun"
+  },
+  {
+    "word": "display",
+    "word_type": "verb"
+  },
+  {
+    "word": "distribute",
+    "word_type": "verb"
+  },
+  {
+    "word": "distribution",
+    "word_type": "noun"
+  },
+  {
+    "word": "district",
+    "word_type": "noun"
+  },
+  {
+    "word": "divide",
+    "word_type": "noun"
+  },
+  {
+    "word": "division",
+    "word_type": "noun"
+  },
+  {
+    "word": "document",
+    "word_type": "verb"
+  },
+  {
+    "word": "domestic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "dominate",
+    "word_type": "verb"
+  },
+  {
+    "word": "downwards",
+    "word_type": "adverb"
+  },
+  {
+    "word": "dozen",
+    "word_type": "determiner"
+  },
+  {
+    "word": "dozen",
+    "word_type": "noun"
+  },
+  {
+    "word": "draft",
+    "word_type": "noun"
+  },
+  {
+    "word": "draft",
+    "word_type": "verb"
+  },
+  {
+    "word": "drag",
+    "word_type": "verb"
+  },
+  {
+    "word": "dramatic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "edit",
+    "word_type": "verb"
+  },
+  {
+    "word": "edition",
+    "word_type": "noun"
+  },
+  {
+    "word": "efficient",
+    "word_type": "adjective"
+  },
+  {
+    "word": "elderly",
+    "word_type": "adjective"
+  },
+  {
+    "word": "elect",
+    "word_type": "verb"
+  },
+  {
+    "word": "elsewhere",
+    "word_type": "adverb"
+  },
+  {
+    "word": "emerge",
+    "word_type": "verb"
+  },
+  {
+    "word": "emotional",
+    "word_type": "adjective"
+  },
+  {
+    "word": "emphasis",
+    "word_type": "noun"
+  },
+  {
+    "word": "emphasize",
+    "word_type": "verb"
+  },
+  {
+    "word": "enable",
+    "word_type": "verb"
+  },
+  {
+    "word": "encounter",
+    "word_type": "noun"
+  },
+  {
+    "word": "encounter",
+    "word_type": "verb"
+  },
+  {
+    "word": "engage",
+    "word_type": "verb"
+  },
+  {
+    "word": "enhance",
+    "word_type": "verb"
+  },
+  {
+    "word": "enquiry",
+    "word_type": "noun"
+  },
+  {
+    "word": "ensure",
+    "word_type": "verb"
+  },
+  {
+    "word": "enthusiasm",
+    "word_type": "noun"
+  },
+  {
+    "word": "enthusiastic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "entire",
+    "word_type": "adjective"
+  },
+  {
+    "word": "entirely",
+    "word_type": "adverb"
+  },
+  {
+    "word": "equal",
+    "word_type": "noun"
+  },
+  {
+    "word": "establish",
+    "word_type": "verb"
+  },
+  {
+    "word": "estate",
+    "word_type": "noun"
+  },
+  {
+    "word": "estimate",
+    "word_type": "noun"
+  },
+  {
+    "word": "estimate",
+    "word_type": "verb"
+  },
+  {
+    "word": "ethical",
+    "word_type": "adjective"
+  },
+  {
+    "word": "evaluate",
+    "word_type": "verb"
+  },
+  {
+    "word": "evil",
+    "word_type": "adjective"
+  },
+  {
+    "word": "evil",
+    "word_type": "noun"
+  },
+  {
+    "word": "examination",
+    "word_type": "noun"
+  },
+  {
+    "word": "excuse",
+    "word_type": "noun"
+  },
+  {
+    "word": "excuse",
+    "word_type": "verb"
+  },
+  {
+    "word": "executive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "executive",
+    "word_type": "noun"
+  },
+  {
+    "word": "existence",
+    "word_type": "noun"
+  },
+  {
+    "word": "expectation",
+    "word_type": "noun"
+  },
+  {
+    "word": "expense",
+    "word_type": "noun"
+  },
+  {
+    "word": "exploration",
+    "word_type": "noun"
+  },
+  {
+    "word": "expose",
+    "word_type": "verb"
+  },
+  {
+    "word": "extend",
+    "word_type": "verb"
+  },
+  {
+    "word": "extent",
+    "word_type": "noun"
+  },
+  {
+    "word": "external",
+    "word_type": "adjective"
+  },
+  {
+    "word": "extraordinary",
+    "word_type": "adjective"
+  },
+  {
+    "word": "extreme",
+    "word_type": "noun"
+  },
+  {
+    "word": "facility",
+    "word_type": "noun"
+  },
+  {
+    "word": "failure",
+    "word_type": "noun"
+  },
+  {
+    "word": "faith",
+    "word_type": "noun"
+  },
+  {
+    "word": "fault",
+    "word_type": "noun"
+  },
+  {
+    "word": "favour",
+    "word_type": "verb"
+  },
+  {
+    "word": "feather",
+    "word_type": "noun"
+  },
+  {
+    "word": "fee",
+    "word_type": "noun"
+  },
+  {
+    "word": "feed",
+    "word_type": "noun"
+  },
+  {
+    "word": "feedback",
+    "word_type": "noun"
+  },
+  {
+    "word": "fellow",
+    "word_type": "adjective"
+  },
+  {
+    "word": "figure",
+    "word_type": "verb"
+  },
+  {
+    "word": "file",
+    "word_type": "verb"
+  },
+  {
+    "word": "finance",
+    "word_type": "noun"
+  },
+  {
+    "word": "finance",
+    "word_type": "verb"
+  },
+  {
+    "word": "finding",
+    "word_type": "noun"
+  },
+  {
+    "word": "firm",
+    "word_type": "noun"
+  },
+  {
+    "word": "fix",
+    "word_type": "noun"
+  },
+  {
+    "word": "flame",
+    "word_type": "noun"
+  },
+  {
+    "word": "flash",
+    "word_type": "noun"
+  },
+  {
+    "word": "flash",
+    "word_type": "verb"
+  },
+  {
+    "word": "flexible",
+    "word_type": "adjective"
+  },
+  {
+    "word": "float",
+    "word_type": "verb"
+  },
+  {
+    "word": "fold",
+    "word_type": "noun"
+  },
+  {
+    "word": "folding",
+    "word_type": "adjective"
+  },
+  {
+    "word": "following",
+    "word_type": "preposition"
+  },
+  {
+    "word": "forgive",
+    "word_type": "verb"
+  },
+  {
+    "word": "former",
+    "word_type": "adjective"
+  },
+  {
+    "word": "fortune",
+    "word_type": "noun"
+  },
+  {
+    "word": "forward",
+    "word_type": "adjective"
+  },
+  {
+    "word": "found",
+    "word_type": "verb"
+  },
+  {
+    "word": "freedom",
+    "word_type": "noun"
+  },
+  {
+    "word": "frequency",
+    "word_type": "noun"
+  },
+  {
+    "word": "fuel",
+    "word_type": "verb"
+  },
+  {
+    "word": "fully",
+    "word_type": "adverb"
+  },
+  {
+    "word": "function",
+    "word_type": "verb"
+  },
+  {
+    "word": "fund",
+    "word_type": "noun"
+  },
+  {
+    "word": "fund",
+    "word_type": "verb"
+  },
+  {
+    "word": "fundamental",
+    "word_type": "adjective"
+  },
+  {
+    "word": "funding",
+    "word_type": "noun"
+  },
+  {
+    "word": "furthermore",
+    "word_type": "adverb"
+  },
+  {
+    "word": "gain",
+    "word_type": "noun"
+  },
+  {
+    "word": "gain",
+    "word_type": "verb"
+  },
+  {
+    "word": "gang",
+    "word_type": "noun"
+  },
+  {
+    "word": "generate",
+    "word_type": "verb"
+  },
+  {
+    "word": "genre",
+    "word_type": "noun"
+  },
+  {
+    "word": "govern",
+    "word_type": "verb"
+  },
+  {
+    "word": "grab",
+    "word_type": "verb"
+  },
+  {
+    "word": "grade",
+    "word_type": "verb"
+  },
+  {
+    "word": "gradually",
+    "word_type": "adverb"
+  },
+  {
+    "word": "grand",
+    "word_type": "adjective"
+  },
+  {
+    "word": "grant",
+    "word_type": "noun"
+  },
+  {
+    "word": "grant",
+    "word_type": "verb"
+  },
+  {
+    "word": "guarantee",
+    "word_type": "noun"
+  },
+  {
+    "word": "guarantee",
+    "word_type": "verb"
+  },
+  {
+    "word": "handle",
+    "word_type": "noun"
+  },
+  {
+    "word": "handle",
+    "word_type": "verb"
+  },
+  {
+    "word": "harm",
+    "word_type": "noun"
+  },
+  {
+    "word": "harm",
+    "word_type": "verb"
+  },
+  {
+    "word": "harmful",
+    "word_type": "adjective"
+  },
+  {
+    "word": "hearing",
+    "word_type": "noun"
+  },
+  {
+    "word": "heaven",
+    "word_type": "noun"
+  },
+  {
+    "word": "heel",
+    "word_type": "noun"
+  },
+  {
+    "word": "hell",
+    "word_type": "noun"
+  },
+  {
+    "word": "hesitate",
+    "word_type": "verb"
+  },
+  {
+    "word": "hire",
+    "word_type": "noun"
+  },
+  {
+    "word": "hold",
+    "word_type": "noun"
+  },
+  {
+    "word": "hollow",
+    "word_type": "adjective"
+  },
+  {
+    "word": "holy",
+    "word_type": "adjective"
+  },
+  {
+    "word": "honour",
+    "word_type": "noun"
+  },
+  {
+    "word": "honour",
+    "word_type": "verb"
+  },
+  {
+    "word": "host",
+    "word_type": "verb"
+  },
+  {
+    "word": "household",
+    "word_type": "noun"
+  },
+  {
+    "word": "housing",
+    "word_type": "noun"
+  },
+  {
+    "word": "humorous",
+    "word_type": "adjective"
+  },
+  {
+    "word": "humour",
+    "word_type": "noun"
+  },
+  {
+    "word": "hunt",
+    "word_type": "noun"
+  },
+  {
+    "word": "hunting",
+    "word_type": "noun"
+  },
+  {
+    "word": "hurt",
+    "word_type": "noun"
+  },
+  {
+    "word": "ideal",
+    "word_type": "noun"
+  },
+  {
+    "word": "illustrate",
+    "word_type": "verb"
+  },
+  {
+    "word": "illustration",
+    "word_type": "noun"
+  },
+  {
+    "word": "imagination",
+    "word_type": "noun"
+  },
+  {
+    "word": "impatient",
+    "word_type": "adjective"
+  },
+  {
+    "word": "imply",
+    "word_type": "verb"
+  },
+  {
+    "word": "impose",
+    "word_type": "verb"
+  },
+  {
+    "word": "impress",
+    "word_type": "verb"
+  },
+  {
+    "word": "impressed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "inch",
+    "word_type": "noun"
+  },
+  {
+    "word": "incident",
+    "word_type": "noun"
+  },
+  {
+    "word": "income",
+    "word_type": "noun"
+  },
+  {
+    "word": "increasingly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "industrial",
+    "word_type": "adjective"
+  },
+  {
+    "word": "infection",
+    "word_type": "noun"
+  },
+  {
+    "word": "inform",
+    "word_type": "verb"
+  },
+  {
+    "word": "initial",
+    "word_type": "adjective"
+  },
+  {
+    "word": "initially",
+    "word_type": "adverb"
+  },
+  {
+    "word": "initiative",
+    "word_type": "noun"
+  },
+  {
+    "word": "inner",
+    "word_type": "adjective"
+  },
+  {
+    "word": "inquiry",
+    "word_type": "noun"
+  },
+  {
+    "word": "insight",
+    "word_type": "noun"
+  },
+  {
+    "word": "insist",
+    "word_type": "verb"
+  },
+  {
+    "word": "inspire",
+    "word_type": "verb"
+  },
+  {
+    "word": "install",
+    "word_type": "verb"
+  },
+  {
+    "word": "instance",
+    "word_type": "noun"
+  },
+  {
+    "word": "institute",
+    "word_type": "noun"
+  },
+  {
+    "word": "institution",
+    "word_type": "noun"
+  },
+  {
+    "word": "insurance",
+    "word_type": "noun"
+  },
+  {
+    "word": "intended",
+    "word_type": "adjective"
+  },
+  {
+    "word": "intense",
+    "word_type": "adjective"
+  },
+  {
+    "word": "internal",
+    "word_type": "adjective"
+  },
+  {
+    "word": "interpret",
+    "word_type": "verb"
+  },
+  {
+    "word": "interrupt",
+    "word_type": "verb"
+  },
+  {
+    "word": "investigation",
+    "word_type": "noun"
+  },
+  {
+    "word": "investment",
+    "word_type": "noun"
+  },
+  {
+    "word": "issue",
+    "word_type": "verb"
+  },
+  {
+    "word": "joy",
+    "word_type": "noun"
+  },
+  {
+    "word": "judgement",
+    "word_type": "noun"
+  },
+  {
+    "word": "junior",
+    "word_type": "adjective"
+  },
+  {
+    "word": "justice",
+    "word_type": "noun"
+  },
+  {
+    "word": "justify",
+    "word_type": "verb"
+  },
+  {
+    "word": "labour",
+    "word_type": "noun"
+  },
+  {
+    "word": "landscape",
+    "word_type": "noun"
+  },
+  {
+    "word": "largely",
+    "word_type": "adverb"
+  },
+  {
+    "word": "latest",
+    "word_type": "noun"
+  },
+  {
+    "word": "launch",
+    "word_type": "noun"
+  },
+  {
+    "word": "launch",
+    "word_type": "verb"
+  },
+  {
+    "word": "leadership",
+    "word_type": "noun"
+  },
+  {
+    "word": "league",
+    "word_type": "noun"
+  },
+  {
+    "word": "lean",
+    "word_type": "verb"
+  },
+  {
+    "word": "level",
+    "word_type": "verb"
+  },
+  {
+    "word": "licence",
+    "word_type": "noun"
+  },
+  {
+    "word": "limited",
+    "word_type": "adjective"
+  },
+  {
+    "word": "lively",
+    "word_type": "adjective"
+  },
+  {
+    "word": "load",
+    "word_type": "noun"
+  },
+  {
+    "word": "load",
+    "word_type": "verb"
+  },
+  {
+    "word": "loan",
+    "word_type": "noun"
+  },
+  {
+    "word": "logical",
+    "word_type": "adjective"
+  },
+  {
+    "word": "long-term",
+    "word_type": "adjective"
+  },
+  {
+    "word": "long-term",
+    "word_type": "adverb"
+  },
+  {
+    "word": "loose",
+    "word_type": "adjective"
+  },
+  {
+    "word": "lord",
+    "word_type": "noun"
+  },
+  {
+    "word": "low",
+    "word_type": "noun"
+  },
+  {
+    "word": "lower",
+    "word_type": "verb"
+  },
+  {
+    "word": "lung",
+    "word_type": "noun"
+  },
+  {
+    "word": "maintain",
+    "word_type": "verb"
+  },
+  {
+    "word": "majority",
+    "word_type": "noun"
+  },
+  {
+    "word": "mass",
+    "word_type": "adjective"
+  },
+  {
+    "word": "mass",
+    "word_type": "noun"
+  },
+  {
+    "word": "massive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "master",
+    "word_type": "noun"
+  },
+  {
+    "word": "master",
+    "word_type": "verb"
+  },
+  {
+    "word": "matching",
+    "word_type": "adjective"
+  },
+  {
+    "word": "material",
+    "word_type": "adjective"
+  },
+  {
+    "word": "maximum",
+    "word_type": "adjective"
+  },
+  {
+    "word": "maximum",
+    "word_type": "noun"
+  },
+  {
+    "word": "means",
+    "word_type": "noun"
+  },
+  {
+    "word": "measurement",
+    "word_type": "noun"
+  },
+  {
+    "word": "medium",
+    "word_type": "noun"
+  },
+  {
+    "word": "melt",
+    "word_type": "verb"
+  },
+  {
+    "word": "military",
+    "word_type": "adjective"
+  },
+  {
+    "word": "military",
+    "word_type": "noun"
+  },
+  {
+    "word": "mineral",
+    "word_type": "noun"
+  },
+  {
+    "word": "minimum",
+    "word_type": "adjective"
+  },
+  {
+    "word": "minimum",
+    "word_type": "noun"
+  },
+  {
+    "word": "minister",
+    "word_type": "noun"
+  },
+  {
+    "word": "minor",
+    "word_type": "adjective"
+  },
+  {
+    "word": "minority",
+    "word_type": "noun"
+  },
+  {
+    "word": "mission",
+    "word_type": "noun"
+  },
+  {
+    "word": "mixed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "modify",
+    "word_type": "verb"
+  },
+  {
+    "word": "monitor",
+    "word_type": "noun"
+  },
+  {
+    "word": "monitor",
+    "word_type": "verb"
+  },
+  {
+    "word": "moral",
+    "word_type": "adjective"
+  },
+  {
+    "word": "moral",
+    "word_type": "noun"
+  },
+  {
+    "word": "motor",
+    "word_type": "adjective"
+  },
+  {
+    "word": "motor",
+    "word_type": "noun"
+  },
+  {
+    "word": "mount",
+    "word_type": "verb"
+  },
+  {
+    "word": "multiple",
+    "word_type": "adjective"
+  },
+  {
+    "word": "multiply",
+    "word_type": "verb"
+  },
+  {
+    "word": "mysterious",
+    "word_type": "adjective"
+  },
+  {
+    "word": "narrow",
+    "word_type": "verb"
+  },
+  {
+    "word": "national",
+    "word_type": "noun"
+  },
+  {
+    "word": "neat",
+    "word_type": "adjective"
+  },
+  {
+    "word": "nerve",
+    "word_type": "noun"
+  },
+  {
+    "word": "nevertheless",
+    "word_type": "adverb"
+  },
+  {
+    "word": "nightmare",
+    "word_type": "noun"
+  },
+  {
+    "word": "notion",
+    "word_type": "noun"
+  },
+  {
+    "word": "numerous",
+    "word_type": "adjective"
+  },
+  {
+    "word": "obey",
+    "word_type": "verb"
+  },
+  {
+    "word": "objective",
+    "word_type": "adjective"
+  },
+  {
+    "word": "objective",
+    "word_type": "noun"
+  },
+  {
+    "word": "obligation",
+    "word_type": "noun"
+  },
+  {
+    "word": "observation",
+    "word_type": "noun"
+  },
+  {
+    "word": "observe",
+    "word_type": "verb"
+  },
+  {
+    "word": "obtain",
+    "word_type": "verb"
+  },
+  {
+    "word": "occasionally",
+    "word_type": "adverb"
+  },
+  {
+    "word": "offence",
+    "word_type": "noun"
+  },
+  {
+    "word": "offend",
+    "word_type": "verb"
+  },
+  {
+    "word": "offensive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "official",
+    "word_type": "noun"
+  },
+  {
+    "word": "opening",
+    "word_type": "noun"
+  },
+  {
+    "word": "operate",
+    "word_type": "verb"
+  },
+  {
+    "word": "opponent",
+    "word_type": "noun"
+  },
+  {
+    "word": "oppose",
+    "word_type": "verb"
+  },
+  {
+    "word": "opposed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "opposition",
+    "word_type": "noun"
+  },
+  {
+    "word": "organ",
+    "word_type": "noun"
+  },
+  {
+    "word": "origin",
+    "word_type": "noun"
+  },
+  {
+    "word": "otherwise",
+    "word_type": "adverb"
+  },
+  {
+    "word": "outcome",
+    "word_type": "noun"
+  },
+  {
+    "word": "outer",
+    "word_type": "adjective"
+  },
+  {
+    "word": "outline",
+    "word_type": "noun"
+  },
+  {
+    "word": "outline",
+    "word_type": "verb"
+  },
+  {
+    "word": "overall",
+    "word_type": "adjective"
+  },
+  {
+    "word": "overall",
+    "word_type": "adverb"
+  },
+  {
+    "word": "owe",
+    "word_type": "verb"
+  },
+  {
+    "word": "pace",
+    "word_type": "noun"
+  },
+  {
+    "word": "pace",
+    "word_type": "verb"
+  },
+  {
+    "word": "package",
+    "word_type": "verb"
+  },
+  {
+    "word": "panel",
+    "word_type": "noun"
+  },
+  {
+    "word": "parliament",
+    "word_type": "noun"
+  },
+  {
+    "word": "participant",
+    "word_type": "noun"
+  },
+  {
+    "word": "partly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "passage",
+    "word_type": "noun"
+  },
+  {
+    "word": "patient",
+    "word_type": "adjective"
+  },
+  {
+    "word": "pension",
+    "word_type": "noun"
+  },
+  {
+    "word": "permanent",
+    "word_type": "adjective"
+  },
+  {
+    "word": "permit",
+    "word_type": "noun"
+  },
+  {
+    "word": "permit",
+    "word_type": "verb"
+  },
+  {
+    "word": "perspective",
+    "word_type": "noun"
+  },
+  {
+    "word": "phase",
+    "word_type": "noun"
+  },
+  {
+    "word": "phenomenon",
+    "word_type": "noun"
+  },
+  {
+    "word": "philosophy",
+    "word_type": "noun"
+  },
+  {
+    "word": "pick",
+    "word_type": "noun"
+  },
+  {
+    "word": "pile",
+    "word_type": "noun"
+  },
+  {
+    "word": "pile",
+    "word_type": "verb"
+  },
+  {
+    "word": "pitch",
+    "word_type": "noun"
+  },
+  {
+    "word": "plain",
+    "word_type": "adjective"
+  },
+  {
+    "word": "plot",
+    "word_type": "verb"
+  },
+  {
+    "word": "plus",
+    "word_type": "adjective"
+  },
+  {
+    "word": "plus",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "plus",
+    "word_type": "noun"
+  },
+  {
+    "word": "pointed",
+    "word_type": "adjective"
+  },
+  {
+    "word": "popularity",
+    "word_type": "noun"
+  },
+  {
+    "word": "pose",
+    "word_type": "verb"
+  },
+  {
+    "word": "position",
+    "word_type": "verb"
+  },
+  {
+    "word": "possess",
+    "word_type": "verb"
+  },
+  {
+    "word": "potential",
+    "word_type": "adjective"
+  },
+  {
+    "word": "potential",
+    "word_type": "noun"
+  },
+  {
+    "word": "power",
+    "word_type": "verb"
+  },
+  {
+    "word": "praise",
+    "word_type": "noun"
+  },
+  {
+    "word": "praise",
+    "word_type": "verb"
+  },
+  {
+    "word": "pregnant",
+    "word_type": "adjective"
+  },
+  {
+    "word": "preparation",
+    "word_type": "noun"
+  },
+  {
+    "word": "presence",
+    "word_type": "noun"
+  },
+  {
+    "word": "preserve",
+    "word_type": "verb"
+  },
+  {
+    "word": "prime",
+    "word_type": "adjective"
+  },
+  {
+    "word": "principle",
+    "word_type": "noun"
+  },
+  {
+    "word": "print",
+    "word_type": "noun"
+  },
+  {
+    "word": "priority",
+    "word_type": "noun"
+  },
+  {
+    "word": "privacy",
+    "word_type": "noun"
+  },
+  {
+    "word": "procedure",
+    "word_type": "noun"
+  },
+  {
+    "word": "process",
+    "word_type": "verb"
+  },
+  {
+    "word": "produce",
+    "word_type": "noun"
+  },
+  {
+    "word": "professional",
+    "word_type": "noun"
+  },
+  {
+    "word": "progress",
+    "word_type": "verb"
+  },
+  {
+    "word": "proof",
+    "word_type": "noun"
+  },
+  {
+    "word": "proposal",
+    "word_type": "noun"
+  },
+  {
+    "word": "propose",
+    "word_type": "verb"
+  },
+  {
+    "word": "prospect",
+    "word_type": "noun"
+  },
+  {
+    "word": "protection",
+    "word_type": "noun"
+  },
+  {
+    "word": "psychologist",
+    "word_type": "noun"
+  },
+  {
+    "word": "psychology",
+    "word_type": "noun"
+  },
+  {
+    "word": "publication",
+    "word_type": "noun"
+  },
+  {
+    "word": "pupil",
+    "word_type": "noun"
+  },
+  {
+    "word": "purchase",
+    "word_type": "noun"
+  },
+  {
+    "word": "purchase",
+    "word_type": "verb"
+  },
+  {
+    "word": "pure",
+    "word_type": "adjective"
+  },
+  {
+    "word": "pursue",
+    "word_type": "verb"
+  },
+  {
+    "word": "range",
+    "word_type": "verb"
+  },
+  {
+    "word": "rank",
+    "word_type": "noun"
+  },
+  {
+    "word": "rank",
+    "word_type": "verb"
+  },
+  {
+    "word": "rapid",
+    "word_type": "adjective"
+  },
+  {
+    "word": "rapidly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "rate",
+    "word_type": "verb"
+  },
+  {
+    "word": "raw",
+    "word_type": "adjective"
+  },
+  {
+    "word": "reach",
+    "word_type": "noun"
+  },
+  {
+    "word": "realistic",
+    "word_type": "adjective"
+  },
+  {
+    "word": "reasonable",
+    "word_type": "adjective"
+  },
+  {
+    "word": "recall",
+    "word_type": "verb"
+  },
+  {
+    "word": "recover",
+    "word_type": "verb"
+  },
+  {
+    "word": "reduction",
+    "word_type": "noun"
+  },
+  {
+    "word": "regard",
+    "word_type": "noun"
+  },
+  {
+    "word": "regard",
+    "word_type": "verb"
+  },
+  {
+    "word": "regional",
+    "word_type": "adjective"
+  },
+  {
+    "word": "register",
+    "word_type": "noun"
+  },
+  {
+    "word": "register",
+    "word_type": "verb"
+  },
+  {
+    "word": "regret",
+    "word_type": "noun"
+  },
+  {
+    "word": "regret",
+    "word_type": "verb"
+  },
+  {
+    "word": "regulation",
+    "word_type": "noun"
+  },
+  {
+    "word": "relatively",
+    "word_type": "adverb"
+  },
+  {
+    "word": "relevant",
+    "word_type": "adjective"
+  },
+  {
+    "word": "relief",
+    "word_type": "noun"
+  },
+  {
+    "word": "rely",
+    "word_type": "verb"
+  },
+  {
+    "word": "remark",
+    "word_type": "noun"
+  },
+  {
+    "word": "remark",
+    "word_type": "verb"
+  },
+  {
+    "word": "representative",
+    "word_type": "adjective"
+  },
+  {
+    "word": "representative",
+    "word_type": "noun"
+  },
+  {
+    "word": "reputation",
+    "word_type": "noun"
+  },
+  {
+    "word": "requirement",
+    "word_type": "noun"
+  },
+  {
+    "word": "rescue",
+    "word_type": "noun"
+  },
+  {
+    "word": "rescue",
+    "word_type": "verb"
+  },
+  {
+    "word": "reserve",
+    "word_type": "noun"
+  },
+  {
+    "word": "reserve",
+    "word_type": "verb"
+  },
+  {
+    "word": "resident",
+    "word_type": "adjective"
+  },
+  {
+    "word": "resident",
+    "word_type": "noun"
+  },
+  {
+    "word": "resist",
+    "word_type": "verb"
+  },
+  {
+    "word": "resolve",
+    "word_type": "verb"
+  },
+  {
+    "word": "resort",
+    "word_type": "noun"
+  },
+  {
+    "word": "retain",
+    "word_type": "verb"
+  },
+  {
+    "word": "reveal",
+    "word_type": "verb"
+  },
+  {
+    "word": "revolution",
+    "word_type": "noun"
+  },
+  {
+    "word": "reward",
+    "word_type": "noun"
+  },
+  {
+    "word": "reward",
+    "word_type": "verb"
+  },
+  {
+    "word": "rhythm",
+    "word_type": "noun"
+  },
+  {
+    "word": "rid",
+    "word_type": "verb"
+  },
+  {
+    "word": "root",
+    "word_type": "noun"
+  },
+  {
+    "word": "round",
+    "word_type": "noun"
+  },
+  {
+    "word": "rub",
+    "word_type": "verb"
+  },
+  {
+    "word": "rubber",
+    "word_type": "adjective"
+  },
+  {
+    "word": "rubber",
+    "word_type": "noun"
+  },
+  {
+    "word": "rural",
+    "word_type": "adjective"
+  },
+  {
+    "word": "rush",
+    "word_type": "noun"
+  },
+  {
+    "word": "rush",
+    "word_type": "verb"
+  },
+  {
+    "word": "sample",
+    "word_type": "verb"
+  },
+  {
+    "word": "satellite",
+    "word_type": "noun"
+  },
+  {
+    "word": "satisfied",
+    "word_type": "adjective"
+  },
+  {
+    "word": "satisfy",
+    "word_type": "verb"
+  },
+  {
+    "word": "saving",
+    "word_type": "noun"
+  },
+  {
+    "word": "scale",
+    "word_type": "noun"
+  },
+  {
+    "word": "schedule",
+    "word_type": "verb"
+  },
+  {
+    "word": "scheme",
+    "word_type": "noun"
+  },
+  {
+    "word": "scream",
+    "word_type": "noun"
+  },
+  {
+    "word": "scream",
+    "word_type": "verb"
+  },
+  {
+    "word": "screen",
+    "word_type": "verb"
+  },
+  {
+    "word": "seat",
+    "word_type": "verb"
+  },
+  {
+    "word": "sector",
+    "word_type": "noun"
+  },
+  {
+    "word": "secure",
+    "word_type": "adjective"
+  },
+  {
+    "word": "secure",
+    "word_type": "verb"
+  },
+  {
+    "word": "seek",
+    "word_type": "verb"
+  },
+  {
+    "word": "select",
+    "word_type": "verb"
+  },
+  {
+    "word": "selection",
+    "word_type": "noun"
+  },
+  {
+    "word": "self",
+    "word_type": "noun"
+  },
+  {
+    "word": "senior",
+    "word_type": "adjective"
+  },
+  {
+    "word": "sense",
+    "word_type": "verb"
+  },
+  {
+    "word": "sensitive",
+    "word_type": "adjective"
+  },
+  {
+    "word": "sequence",
+    "word_type": "noun"
+  },
+  {
+    "word": "session",
+    "word_type": "noun"
+  },
+  {
+    "word": "settle",
+    "word_type": "verb"
+  },
+  {
+    "word": "severe",
+    "word_type": "adjective"
+  },
+  {
+    "word": "shade",
+    "word_type": "noun"
+  },
+  {
+    "word": "shadow",
+    "word_type": "noun"
+  },
+  {
+    "word": "shallow",
+    "word_type": "adjective"
+  },
+  {
+    "word": "shame",
+    "word_type": "noun"
+  },
+  {
+    "word": "shape",
+    "word_type": "verb"
+  },
+  {
+    "word": "shelter",
+    "word_type": "noun"
+  },
+  {
+    "word": "shelter",
+    "word_type": "verb"
+  },
+  {
+    "word": "shift",
+    "word_type": "verb"
+  },
+  {
+    "word": "ship",
+    "word_type": "verb"
+  },
+  {
+    "word": "shock",
+    "word_type": "noun"
+  },
+  {
+    "word": "shock",
+    "word_type": "verb"
+  },
+  {
+    "word": "shocked",
+    "word_type": "adjective"
+  },
+  {
+    "word": "shooting",
+    "word_type": "noun"
+  },
+  {
+    "word": "shot",
+    "word_type": "noun"
+  },
+  {
+    "word": "significant",
+    "word_type": "adjective"
+  },
+  {
+    "word": "significantly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "silence",
+    "word_type": "noun"
+  },
+  {
+    "word": "silk",
+    "word_type": "noun"
+  },
+  {
+    "word": "sincere",
+    "word_type": "adjective"
+  },
+  {
+    "word": "slave",
+    "word_type": "noun"
+  },
+  {
+    "word": "slide",
+    "word_type": "noun"
+  },
+  {
+    "word": "slide",
+    "word_type": "verb"
+  },
+  {
+    "word": "slight",
+    "word_type": "adjective"
+  },
+  {
+    "word": "slip",
+    "word_type": "verb"
+  },
+  {
+    "word": "slope",
+    "word_type": "noun"
+  },
+  {
+    "word": "slope",
+    "word_type": "verb"
+  },
+  {
+    "word": "solar",
+    "word_type": "adjective"
+  },
+  {
+    "word": "somewhat",
+    "word_type": "adverb"
+  },
+  {
+    "word": "soul",
+    "word_type": "noun"
+  },
+  {
+    "word": "specialist",
+    "word_type": "adjective"
+  },
+  {
+    "word": "specialist",
+    "word_type": "noun"
+  },
+  {
+    "word": "species",
+    "word_type": "noun"
+  },
+  {
+    "word": "speed",
+    "word_type": "verb"
+  },
+  {
+    "word": "spiritual",
+    "word_type": "adjective"
+  },
+  {
+    "word": "split",
+    "word_type": "noun"
+  },
+  {
+    "word": "split",
+    "word_type": "verb"
+  },
+  {
+    "word": "sponsor",
+    "word_type": "noun"
+  },
+  {
+    "word": "sponsor",
+    "word_type": "verb"
+  },
+  {
+    "word": "spot",
+    "word_type": "verb"
+  },
+  {
+    "word": "spread",
+    "word_type": "noun"
+  },
+  {
+    "word": "stable",
+    "word_type": "adjective"
+  },
+  {
+    "word": "stage",
+    "word_type": "verb"
+  },
+  {
+    "word": "stare",
+    "word_type": "verb"
+  },
+  {
+    "word": "status",
+    "word_type": "noun"
+  },
+  {
+    "word": "steady",
+    "word_type": "adjective"
+  },
+  {
+    "word": "steel",
+    "word_type": "noun"
+  },
+  {
+    "word": "steep",
+    "word_type": "adjective"
+  },
+  {
+    "word": "step",
+    "word_type": "verb"
+  },
+  {
+    "word": "sticky",
+    "word_type": "adjective"
+  },
+  {
+    "word": "stiff",
+    "word_type": "adjective"
+  },
+  {
+    "word": "stock",
+    "word_type": "noun"
+  },
+  {
+    "word": "stream",
+    "word_type": "noun"
+  },
+  {
+    "word": "stretch",
+    "word_type": "noun"
+  },
+  {
+    "word": "stretch",
+    "word_type": "verb"
+  },
+  {
+    "word": "strict",
+    "word_type": "adjective"
+  },
+  {
+    "word": "strike",
+    "word_type": "noun"
+  },
+  {
+    "word": "strike",
+    "word_type": "verb"
+  },
+  {
+    "word": "structure",
+    "word_type": "verb"
+  },
+  {
+    "word": "struggle",
+    "word_type": "noun"
+  },
+  {
+    "word": "struggle",
+    "word_type": "verb"
+  },
+  {
+    "word": "stuff",
+    "word_type": "verb"
+  },
+  {
+    "word": "submit",
+    "word_type": "verb"
+  },
+  {
+    "word": "sum",
+    "word_type": "noun"
+  },
+  {
+    "word": "sum",
+    "word_type": "verb"
+  },
+  {
+    "word": "surgery",
+    "word_type": "noun"
+  },
+  {
+    "word": "surround",
+    "word_type": "verb"
+  },
+  {
+    "word": "surrounding",
+    "word_type": "adjective"
+  },
+  {
+    "word": "survey",
+    "word_type": "verb"
+  },
+  {
+    "word": "suspect",
+    "word_type": "noun"
+  },
+  {
+    "word": "suspect",
+    "word_type": "verb"
+  },
+  {
+    "word": "swear",
+    "word_type": "verb"
+  },
+  {
+    "word": "sweep",
+    "word_type": "verb"
+  },
+  {
+    "word": "switch",
+    "word_type": "noun"
+  },
+  {
+    "word": "sympathy",
+    "word_type": "noun"
+  },
+  {
+    "word": "tale",
+    "word_type": "noun"
+  },
+  {
+    "word": "tank",
+    "word_type": "noun"
+  },
+  {
+    "word": "target",
+    "word_type": "verb"
+  },
+  {
+    "word": "tear",
+    "word_type": "noun"
+  },
+  {
+    "word": "tear",
+    "word_type": "verb"
+  },
+  {
+    "word": "temporary",
+    "word_type": "adjective"
+  },
+  {
+    "word": "term",
+    "word_type": "verb"
+  },
+  {
+    "word": "therapy",
+    "word_type": "noun"
+  },
+  {
+    "word": "threat",
+    "word_type": "noun"
+  },
+  {
+    "word": "threaten",
+    "word_type": "verb"
+  },
+  {
+    "word": "thus",
+    "word_type": "adverb"
+  },
+  {
+    "word": "tone",
+    "word_type": "noun"
+  },
+  {
+    "word": "tough",
+    "word_type": "adjective"
+  },
+  {
+    "word": "track",
+    "word_type": "verb"
+  },
+  {
+    "word": "transfer",
+    "word_type": "noun"
+  },
+  {
+    "word": "transfer",
+    "word_type": "verb"
+  },
+  {
+    "word": "transform",
+    "word_type": "verb"
+  },
+  {
+    "word": "transition",
+    "word_type": "noun"
+  },
+  {
+    "word": "trial",
+    "word_type": "noun"
+  },
+  {
+    "word": "tropical",
+    "word_type": "adjective"
+  },
+  {
+    "word": "trouble",
+    "word_type": "verb"
+  },
+  {
+    "word": "truly",
+    "word_type": "adverb"
+  },
+  {
+    "word": "trust",
+    "word_type": "noun"
+  },
+  {
+    "word": "trust",
+    "word_type": "verb"
+  },
+  {
+    "word": "tune",
+    "word_type": "noun"
+  },
+  {
+    "word": "tunnel",
+    "word_type": "noun"
+  },
+  {
+    "word": "ultimately",
+    "word_type": "adverb"
+  },
+  {
+    "word": "unconscious",
+    "word_type": "adjective"
+  },
+  {
+    "word": "unexpected",
+    "word_type": "adjective"
+  },
+  {
+    "word": "unique",
+    "word_type": "adjective"
+  },
+  {
+    "word": "universe",
+    "word_type": "noun"
+  },
+  {
+    "word": "unknown",
+    "word_type": "adjective"
+  },
+  {
+    "word": "upper",
+    "word_type": "adjective"
+  },
+  {
+    "word": "upwards",
+    "word_type": "adverb"
+  },
+  {
+    "word": "urban",
+    "word_type": "adjective"
+  },
+  {
+    "word": "urge",
+    "word_type": "verb"
+  },
+  {
+    "word": "value",
+    "word_type": "verb"
+  },
+  {
+    "word": "vary",
+    "word_type": "verb"
+  },
+  {
+    "word": "vast",
+    "word_type": "adjective"
+  },
+  {
+    "word": "venue",
+    "word_type": "noun"
+  },
+  {
+    "word": "via",
+    "word_type": "preposition"
+  },
+  {
+    "word": "victory",
+    "word_type": "noun"
+  },
+  {
+    "word": "violence",
+    "word_type": "noun"
+  },
+  {
+    "word": "virtual",
+    "word_type": "adjective"
+  },
+  {
+    "word": "vision",
+    "word_type": "noun"
+  },
+  {
+    "word": "visual",
+    "word_type": "adjective"
+  },
+  {
+    "word": "vital",
+    "word_type": "adjective"
+  },
+  {
+    "word": "vitamin",
+    "word_type": "noun"
+  },
+  {
+    "word": "volume",
+    "word_type": "noun"
+  },
+  {
+    "word": "wage",
+    "word_type": "noun"
+  },
+  {
+    "word": "weakness",
+    "word_type": "noun"
+  },
+  {
+    "word": "wealth",
+    "word_type": "noun"
+  },
+  {
+    "word": "wealthy",
+    "word_type": "adjective"
+  },
+  {
+    "word": "whereas",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "wherever",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "whisper",
+    "word_type": "noun"
+  },
+  {
+    "word": "whisper",
+    "word_type": "verb"
+  },
+  {
+    "word": "whom",
+    "word_type": "pronoun"
+  },
+  {
+    "word": "widely",
+    "word_type": "adverb"
+  },
+  {
+    "word": "wildlife",
+    "word_type": "noun"
+  },
+  {
+    "word": "willing",
+    "word_type": "adjective"
+  },
+  {
+    "word": "wind",
+    "word_type": "verb"
+  },
+  {
+    "word": "wire",
+    "word_type": "noun"
+  },
+  {
+    "word": "wise",
+    "word_type": "adjective"
+  },
+  {
+    "word": "witness",
+    "word_type": "noun"
+  },
+  {
+    "word": "witness",
+    "word_type": "verb"
+  },
+  {
+    "word": "worse",
+    "word_type": "noun"
+  },
+  {
+    "word": "worst",
+    "word_type": "noun"
+  },
+  {
+    "word": "worth",
+    "word_type": "noun"
+  },
+  {
+    "word": "wound",
+    "word_type": "noun"
+  },
+  {
+    "word": "wound",
+    "word_type": "verb"
+  },
+  {
+    "word": "wrap",
+    "word_type": "verb"
+  },
+  {
+    "word": "yet",
+    "word_type": "conjunction"
+  },
+  {
+    "word": "zone",
+    "word_type": "noun"
+  }
+]

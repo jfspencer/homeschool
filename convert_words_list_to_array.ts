@@ -9,7 +9,7 @@ interface WordEntry {
 }
 
 // Read the word list file
-const wordListContent: string = readFileSync('./english/A2_words_oxford.md', 'utf-8');
+const wordListContent: string = readFileSync('./english/C1_words.md', 'utf-8');
 
 // Split into lines and process each line
 const lines: string[] = wordListContent.trim().split('\n');
@@ -37,7 +37,7 @@ for (const line of lines) {
 
 // Convert to JSON and write to a new file
 const jsonOutput: string = JSON.stringify(wordsArray, null, 2);
-writeFileSync('english/A2_words_oxford_converted.json', jsonOutput);
+writeFileSync('english/C1_words_array.json', jsonOutput);
 
 console.log(`Successfully converted ${wordsArray.length} words to JSON format.`);
-console.log('Output saved to: english/A2_words_oxford_converted.json'); 
+console.log('Output saved to: english/B2_words_array.json'); 

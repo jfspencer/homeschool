@@ -1,687 +1,453 @@
 {
   "summary": {
-    "totalA1Words": 889,
-    "totalA2Words": 990,
-    "duplicateCount": 74,
-    "uniqueA1Words": 815,
-    "uniqueA2Words": 916
+    "totalFile1Words": 889,
+    "totalFile2Words": 902,
+    "duplicateCount": 49,
+    "uniqueFile1Words": 840,
+    "uniqueFile2Words": 853
   },
   "duplicates": [
     {
-      "word": "adult",
-      "a1_types": [
+      "word": "age",
+      "file1_types": [
         "noun"
       ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "after",
-      "a1_types": [
-        "preposition"
-      ],
-      "a2_types": [
-        "adverb",
-        "conjunction"
-      ]
-    },
-    {
-      "word": "all",
-      "a1_types": [
-        "determiner, pronoun"
-      ],
-      "a2_types": [
-        "adverb",
-        "right adjective",
-        "right adverb",
-        "right exclamation"
-      ]
-    },
-    {
-      "word": "any",
-      "a1_types": [
-        "determiner, pronoun"
-      ],
-      "a2_types": [
-        "adverb",
-        "more adverb"
-      ]
-    },
-    {
-      "word": "as",
-      "a1_types": [
-        "preposition"
-      ],
-      "a2_types": [
-        "adverb",
-        "conjunction"
-      ]
-    },
-    {
-      "word": "back",
-      "a1_types": [
-        "adverb, noun"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "before",
-      "a1_types": [
-        "preposition"
-      ],
-      "a2_types": [
-        "adverb",
-        "conjunction"
-      ]
-    },
-    {
-      "word": "best",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "adverb",
-        "noun"
+      "file2_types": [
+        "verb"
       ]
     },
     {
       "word": "better",
-      "a1_types": [
+      "file1_types": [
         "adjective"
       ],
-      "a2_types": [
-        "adverb"
+      "file2_types": [
+        "noun"
       ]
     },
     {
-      "word": "between",
-      "a1_types": [
+      "word": "by",
+      "file1_types": [
         "preposition"
       ],
-      "a2_types": [
+      "file2_types": [
         "adverb"
       ]
     },
     {
-      "word": "book",
-      "a1_types": [
+      "word": "centre",
+      "file1_types": [
         "noun"
       ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "can",
-      "a1_types": [
-        "modal verb"
+      "word": "cheap",
+      "file1_types": [
+        "adjective"
       ],
-      "a2_types": [
-        "noun"
+      "file2_types": [
+        "adverb"
       ]
     },
     {
-      "word": "check",
-      "a1_types": [
+      "word": "climb",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
       "word": "close",
-      "a1_types": [
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "cook",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "dark",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "dear",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "exclamation"
-      ]
-    },
-    {
-      "word": "downstairs",
-      "a1_types": [
-        "adverb"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "drive",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "fall",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "farm",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "fat",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "film",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "final",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "finish",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "first",
-      "a1_types": [
-        "adverb, determiner, ordinal number"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "fish",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "flat",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "fly",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "free",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
+      "file2_types": [
         "adverb"
       ]
     },
     {
-      "word": "fun",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "future",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "good",
-      "a1_types": [
+      "word": "cool",
+      "file1_types": [
         "adjective"
       ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "half",
-      "a1_types": [
-        "determiner, noun, pronoun"
-      ],
-      "a2_types": [
-        "adverb"
-      ]
-    },
-    {
-      "word": "have",
-      "a1_types": [
-        "verb, modal verb"
-      ],
-      "a2_types": [
-        "auxiliary verb"
-      ]
-    },
-    {
-      "word": "high",
-      "a1_types": [
-        "adjective"
-      ],
-      "a2_types": [
-        "adverb"
-      ]
-    },
-    {
-      "word": "his",
-      "a1_types": [
-        "determiner"
-      ],
-      "a2_types": [
-        "pronoun"
-      ]
-    },
-    {
-      "word": "home",
-      "a1_types": [
-        "adverb, noun"
-      ],
-      "a2_types": [
-        "adjective"
-      ]
-    },
-    {
-      "word": "hope",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "land",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "last",
-      "a1_types": [
-        "determiner"
+      "word": "cream",
+      "file1_types": [
+        "noun"
       ],
-      "a2_types": [
+      "file2_types": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "cut",
+      "file1_types": [
+        "verb"
+      ],
+      "file2_types": [
+        "noun"
+      ]
+    },
+    {
+      "word": "extra",
+      "file1_types": [
+        "adjective"
+      ],
+      "file2_types": [
         "adverb",
+        "noun"
+      ]
+    },
+    {
+      "word": "face",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "far",
+      "file1_types": [
+        "adverb"
+      ],
+      "file2_types": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "fire",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "go",
+      "file1_types": [
+        "verb"
+      ],
+      "file2_types": [
+        "noun"
+      ]
+    },
+    {
+      "word": "hand",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "hate",
+      "file1_types": [
+        "verb"
+      ],
+      "file2_types": [
+        "noun"
+      ]
+    },
+    {
+      "word": "head",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "key",
+      "file1_types": [
+        "adjective, noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "kind",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "adjective"
+      ]
+    },
+    {
+      "word": "lie",
+      "file1_types": [
+        "verb"
+      ],
+      "file2_types": [
         "noun",
         "verb"
       ]
     },
     {
-      "word": "later",
-      "a1_types": [
-        "adverb"
+      "word": "like",
+      "file1_types": [
+        "preposition, verb"
       ],
-      "a2_types": [
+      "file2_types": [
+        "noun"
+      ]
+    },
+    {
+      "word": "live",
+      "file1_types": [
+        "verb"
+      ],
+      "file2_types": [
+        "adjective",
+        "adverb"
+      ]
+    },
+    {
+      "word": "local",
+      "file1_types": [
         "adjective"
+      ],
+      "file2_types": [
+        "noun"
       ]
     },
     {
-      "word": "light",
-      "a1_types": [
-        "adjective, noun"
+      "word": "market",
+      "file1_types": [
+        "noun"
       ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "little",
-      "a1_types": [
-        "adjective, determiner, pronoun"
-      ],
-      "a2_types": [
-        "adverb"
-      ]
-    },
-    {
-      "word": "look",
-      "a1_types": [
+      "word": "move",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
       "word": "need",
-      "a1_types": [
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
+        "modal verb"
+      ]
+    },
+    {
+      "word": "next",
+      "file1_types": [
+        "adjective, adverb, preposition"
+      ],
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "number",
-      "a1_types": [
+      "word": "note",
+      "file1_types": [
         "noun"
       ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "outside",
-      "a1_types": [
+      "word": "now",
+      "file1_types": [
         "adverb"
       ],
-      "a2_types": [
-        "adjective",
-        "noun",
-        "preposition"
+      "file2_types": [
+        "conjunction"
       ]
     },
     {
-      "word": "own",
-      "a1_types": [
-        "adjective, pronoun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "past",
-      "a1_types": [
-        "adjective, noun, preposition"
-      ],
-      "a2_types": [
+      "word": "once",
+      "file1_types": [
         "adverb"
+      ],
+      "file2_types": [
+        "conjunction"
       ]
     },
     {
-      "word": "pay",
-      "a1_types": [
+      "word": "place",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "point",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "repeat",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "photograph",
-      "a1_types": [
+      "word": "result",
+      "file1_types": [
         "noun"
       ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "plant",
-      "a1_types": [
+      "word": "rule",
+      "file1_types": [
         "noun"
       ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "please",
-      "a1_types": [
-        "exclamation"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "present",
-      "a1_types": [
-        "adjective, noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "question",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "report",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "ride",
-      "a1_types": [
+      "word": "share",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "run",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "second",
-      "a1_types": [
-        "determiner, noun, ordinal number"
-      ],
-      "a2_types": [
-        "adverb"
-      ]
-    },
-    {
-      "word": "sleep",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "star",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "start",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "stay",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "sure",
-      "a1_types": [
+      "word": "slow",
+      "file1_types": [
         "adjective"
       ],
-      "a2_types": [
-        "adverb"
-      ]
-    },
-    {
-      "word": "talk",
-      "a1_types": [
-        "verb"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "text",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
+      "file2_types": [
         "verb"
       ]
     },
     {
-      "word": "third",
-      "a1_types": [
-        "ordinal number"
-      ],
-      "a2_types": [
-        "noun"
-      ]
-    },
-    {
-      "word": "train",
-      "a1_types": [
-        "noun"
-      ],
-      "a2_types": [
-        "verb"
-      ]
-    },
-    {
-      "word": "upstairs",
-      "a1_types": [
+      "word": "still",
+      "file1_types": [
         "adverb"
       ],
-      "a2_types": [
+      "file2_types": [
         "adjective"
       ]
     },
     {
-      "word": "use",
-      "a1_types": [
+      "word": "swim",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "wait",
-      "a1_types": [
-        "verb"
+      "word": "that",
+      "file1_types": [
+        "conjunction, determiner, pronoun"
       ],
-      "a2_types": [
+      "file2_types": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "this",
+      "file1_types": [
+        "determiner, pronoun"
+      ],
+      "file2_types": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "type",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "warm",
+      "file1_types": [
+        "adjective"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "water",
+      "file1_types": [
+        "noun"
+      ],
+      "file2_types": [
+        "verb"
+      ]
+    },
+    {
+      "word": "will",
+      "file1_types": [
+        "modal verb"
+      ],
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "wash",
-      "a1_types": [
+      "word": "win",
+      "file1_types": [
         "verb"
       ],
-      "a2_types": [
+      "file2_types": [
         "noun"
       ]
     },
     {
-      "word": "welcome",
-      "a1_types": [
-        "adjective, noun, exclamation"
+      "word": "wrong",
+      "file1_types": [
+        "adjective"
       ],
-      "a2_types": [
+      "file2_types": [
+        "adverb"
+      ]
+    },
+    {
+      "word": "young",
+      "file1_types": [
+        "adjective"
+      ],
+      "file2_types": [
         "noun"
       ]
     }
