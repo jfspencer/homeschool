@@ -328,10 +328,6 @@
     "word_type": "noun"
   },
   {
-    "word": "burn",
-    "word_type": "noun"
-  },
-  {
     "word": "bush",
     "word_type": "noun"
   },
@@ -374,10 +370,6 @@
   {
     "word": "cast",
     "word_type": "verb"
-  },
-  {
-    "word": "catch",
-    "word_type": "noun"
   },
   {
     "word": "cell",
@@ -656,10 +648,6 @@
     "word_type": "noun"
   },
   {
-    "word": "credit",
-    "word_type": "verb"
-  },
-  {
     "word": "crew",
     "word_type": "noun"
   },
@@ -694,10 +682,6 @@
   {
     "word": "crucial",
     "word_type": "adjective"
-  },
-  {
-    "word": "cry",
-    "word_type": "noun"
   },
   {
     "word": "cure",
@@ -844,10 +828,6 @@
     "word_type": "noun"
   },
   {
-    "word": "desert",
-    "word_type": "verb"
-  },
-  {
     "word": "deserve",
     "word_type": "verb"
   },
@@ -926,10 +906,6 @@
   {
     "word": "division",
     "word_type": "noun"
-  },
-  {
-    "word": "document",
-    "word_type": "verb"
   },
   {
     "word": "domestic",
@@ -1144,10 +1120,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "extreme",
-    "word_type": "noun"
-  },
-  {
     "word": "facility",
     "word_type": "noun"
   },
@@ -1176,20 +1148,12 @@
     "word_type": "noun"
   },
   {
-    "word": "feed",
-    "word_type": "noun"
-  },
-  {
     "word": "feedback",
     "word_type": "noun"
   },
   {
     "word": "fellow",
     "word_type": "adjective"
-  },
-  {
-    "word": "figure",
-    "word_type": "verb"
   },
   {
     "word": "file",
@@ -1209,10 +1173,6 @@
   },
   {
     "word": "firm",
-    "word_type": "noun"
-  },
-  {
-    "word": "fix",
     "word_type": "noun"
   },
   {
@@ -1244,10 +1204,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "following",
-    "word_type": "preposition"
-  },
-  {
     "word": "forgive",
     "word_type": "verb"
   },
@@ -1258,10 +1214,6 @@
   {
     "word": "fortune",
     "word_type": "noun"
-  },
-  {
-    "word": "forward",
-    "word_type": "adjective"
   },
   {
     "word": "found",
@@ -1408,10 +1360,6 @@
     "word_type": "noun"
   },
   {
-    "word": "hold",
-    "word_type": "noun"
-  },
-  {
     "word": "hollow",
     "word_type": "adjective"
   },
@@ -1453,14 +1401,6 @@
   },
   {
     "word": "hunting",
-    "word_type": "noun"
-  },
-  {
-    "word": "hurt",
-    "word_type": "noun"
-  },
-  {
-    "word": "ideal",
     "word_type": "noun"
   },
   {
@@ -1664,10 +1604,6 @@
     "word_type": "verb"
   },
   {
-    "word": "level",
-    "word_type": "verb"
-  },
-  {
     "word": "licence",
     "word_type": "noun"
   },
@@ -1712,10 +1648,6 @@
     "word_type": "noun"
   },
   {
-    "word": "low",
-    "word_type": "noun"
-  },
-  {
     "word": "lower",
     "word_type": "verb"
   },
@@ -1753,10 +1685,6 @@
   },
   {
     "word": "matching",
-    "word_type": "adjective"
-  },
-  {
-    "word": "material",
     "word_type": "adjective"
   },
   {
@@ -1866,14 +1794,6 @@
   {
     "word": "mysterious",
     "word_type": "adjective"
-  },
-  {
-    "word": "narrow",
-    "word_type": "verb"
-  },
-  {
-    "word": "national",
-    "word_type": "noun"
   },
   {
     "word": "neat",
@@ -2044,10 +1964,6 @@
     "word_type": "noun"
   },
   {
-    "word": "patient",
-    "word_type": "adjective"
-  },
-  {
     "word": "pension",
     "word_type": "noun"
   },
@@ -2077,10 +1993,6 @@
   },
   {
     "word": "philosophy",
-    "word_type": "noun"
-  },
-  {
-    "word": "pick",
     "word_type": "noun"
   },
   {
@@ -2128,10 +2040,6 @@
     "word_type": "verb"
   },
   {
-    "word": "position",
-    "word_type": "verb"
-  },
-  {
     "word": "possess",
     "word_type": "verb"
   },
@@ -2142,10 +2050,6 @@
   {
     "word": "potential",
     "word_type": "noun"
-  },
-  {
-    "word": "power",
-    "word_type": "verb"
   },
   {
     "word": "praise",
@@ -2180,10 +2084,6 @@
     "word_type": "noun"
   },
   {
-    "word": "print",
-    "word_type": "noun"
-  },
-  {
     "word": "priority",
     "word_type": "noun"
   },
@@ -2194,22 +2094,6 @@
   {
     "word": "procedure",
     "word_type": "noun"
-  },
-  {
-    "word": "process",
-    "word_type": "verb"
-  },
-  {
-    "word": "produce",
-    "word_type": "noun"
-  },
-  {
-    "word": "professional",
-    "word_type": "noun"
-  },
-  {
-    "word": "progress",
-    "word_type": "verb"
   },
   {
     "word": "proof",
@@ -2284,16 +2168,8 @@
     "word_type": "adverb"
   },
   {
-    "word": "rate",
-    "word_type": "verb"
-  },
-  {
     "word": "raw",
     "word_type": "adjective"
-  },
-  {
-    "word": "reach",
-    "word_type": "noun"
   },
   {
     "word": "realistic",
@@ -2456,10 +2332,6 @@
     "word_type": "noun"
   },
   {
-    "word": "round",
-    "word_type": "noun"
-  },
-  {
     "word": "rub",
     "word_type": "verb"
   },
@@ -2508,10 +2380,6 @@
     "word_type": "noun"
   },
   {
-    "word": "schedule",
-    "word_type": "verb"
-  },
-  {
     "word": "scheme",
     "word_type": "noun"
   },
@@ -2521,14 +2389,6 @@
   },
   {
     "word": "scream",
-    "word_type": "verb"
-  },
-  {
-    "word": "screen",
-    "word_type": "verb"
-  },
-  {
-    "word": "seat",
     "word_type": "verb"
   },
   {
@@ -2562,10 +2422,6 @@
   {
     "word": "senior",
     "word_type": "adjective"
-  },
-  {
-    "word": "sense",
-    "word_type": "verb"
   },
   {
     "word": "sensitive",
@@ -2604,10 +2460,6 @@
     "word_type": "noun"
   },
   {
-    "word": "shape",
-    "word_type": "verb"
-  },
-  {
     "word": "shelter",
     "word_type": "noun"
   },
@@ -2617,10 +2469,6 @@
   },
   {
     "word": "shift",
-    "word_type": "verb"
-  },
-  {
-    "word": "ship",
     "word_type": "verb"
   },
   {
@@ -2716,10 +2564,6 @@
     "word_type": "noun"
   },
   {
-    "word": "speed",
-    "word_type": "verb"
-  },
-  {
     "word": "spiritual",
     "word_type": "adjective"
   },
@@ -2752,10 +2596,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "stage",
-    "word_type": "verb"
-  },
-  {
     "word": "stare",
     "word_type": "verb"
   },
@@ -2774,10 +2614,6 @@
   {
     "word": "steep",
     "word_type": "adjective"
-  },
-  {
-    "word": "step",
-    "word_type": "verb"
   },
   {
     "word": "sticky",
@@ -2813,10 +2649,6 @@
   },
   {
     "word": "strike",
-    "word_type": "verb"
-  },
-  {
-    "word": "structure",
     "word_type": "verb"
   },
   {
@@ -2856,10 +2688,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "survey",
-    "word_type": "verb"
-  },
-  {
     "word": "suspect",
     "word_type": "noun"
   },
@@ -2892,10 +2720,6 @@
     "word_type": "noun"
   },
   {
-    "word": "target",
-    "word_type": "verb"
-  },
-  {
     "word": "tear",
     "word_type": "noun"
   },
@@ -2906,10 +2730,6 @@
   {
     "word": "temporary",
     "word_type": "adjective"
-  },
-  {
-    "word": "term",
-    "word_type": "verb"
   },
   {
     "word": "therapy",
@@ -2936,10 +2756,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "track",
-    "word_type": "verb"
-  },
-  {
     "word": "transfer",
     "word_type": "noun"
   },
@@ -2962,10 +2778,6 @@
   {
     "word": "tropical",
     "word_type": "adjective"
-  },
-  {
-    "word": "trouble",
-    "word_type": "verb"
   },
   {
     "word": "truly",
@@ -3128,10 +2940,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "wind",
-    "word_type": "verb"
-  },
-  {
     "word": "wire",
     "word_type": "noun"
   },
@@ -3148,14 +2956,6 @@
     "word_type": "verb"
   },
   {
-    "word": "worse",
-    "word_type": "noun"
-  },
-  {
-    "word": "worst",
-    "word_type": "noun"
-  },
-  {
     "word": "worth",
     "word_type": "noun"
   },
@@ -3170,10 +2970,6 @@
   {
     "word": "wrap",
     "word_type": "verb"
-  },
-  {
-    "word": "yet",
-    "word_type": "conjunction"
   },
   {
     "word": "zone",
