@@ -40,10 +40,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "adult",
-    "word_type": "adjective"
-  },
-  {
     "word": "advantage",
     "word_type": "noun"
   },
@@ -68,14 +64,6 @@
     "word_type": "verb"
   },
   {
-    "word": "after",
-    "word_type": "adverb"
-  },
-  {
-    "word": "after",
-    "word_type": "conjunction"
-  },
-  {
     "word": "against",
     "word_type": "preposition"
   },
@@ -90,22 +78,6 @@
   {
     "word": "alive",
     "word_type": "adjective"
-  },
-  {
-    "word": "all",
-    "word_type": "adverb"
-  },
-  {
-    "word": "all",
-    "word_type": "right adjective"
-  },
-  {
-    "word": "all",
-    "word_type": "right adverb"
-  },
-  {
-    "word": "all",
-    "word_type": "right exclamation"
   },
   {
     "word": "allow",
@@ -158,14 +130,6 @@
   {
     "word": "ankle",
     "word_type": "noun"
-  },
-  {
-    "word": "any",
-    "word_type": "adverb"
-  },
-  {
-    "word": "any",
-    "word_type": "more adverb"
   },
   {
     "word": "anybody",
@@ -226,14 +190,6 @@
   {
     "word": "arrangement",
     "word_type": "noun"
-  },
-  {
-    "word": "as",
-    "word_type": "adverb"
-  },
-  {
-    "word": "as",
-    "word_type": "conjunction"
   },
   {
     "word": "asleep",
@@ -308,14 +264,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "back",
-    "word_type": "adjective"
-  },
-  {
-    "word": "background",
-    "word_type": "noun"
-  },
-  {
     "word": "badly",
     "word_type": "adverb"
   },
@@ -352,14 +300,6 @@
     "word_type": "noun"
   },
   {
-    "word": "before",
-    "word_type": "adverb"
-  },
-  {
-    "word": "before",
-    "word_type": "conjunction"
-  },
-  {
     "word": "behave",
     "word_type": "verb"
   },
@@ -378,22 +318,6 @@
   {
     "word": "benefit",
     "word_type": "noun"
-  },
-  {
-    "word": "best",
-    "word_type": "adverb"
-  },
-  {
-    "word": "best",
-    "word_type": "noun"
-  },
-  {
-    "word": "better",
-    "word_type": "adverb"
-  },
-  {
-    "word": "between",
-    "word_type": "adverb"
   },
   {
     "word": "billion",
@@ -446,10 +370,6 @@
   {
     "word": "bone",
     "word_type": "noun"
-  },
-  {
-    "word": "book",
-    "word_type": "verb"
   },
   {
     "word": "borrow",
@@ -521,10 +441,6 @@
   },
   {
     "word": "camping",
-    "word_type": "noun"
-  },
-  {
-    "word": "can",
     "word_type": "noun"
   },
   {
@@ -612,10 +528,6 @@
     "word_type": "verb"
   },
   {
-    "word": "check",
-    "word_type": "noun"
-  },
-  {
     "word": "chef",
     "word_type": "noun"
   },
@@ -666,10 +578,6 @@
   {
     "word": "climate",
     "word_type": "noun"
-  },
-  {
-    "word": "close",
-    "word_type": "adjective"
   },
   {
     "word": "closed",
@@ -788,14 +696,6 @@
     "word_type": "verb"
   },
   {
-    "word": "cook",
-    "word_type": "noun"
-  },
-  {
-    "word": "cooker",
-    "word_type": "noun"
-  },
-  {
     "word": "copy",
     "word_type": "noun"
   },
@@ -888,10 +788,6 @@
     "word_type": "noun"
   },
   {
-    "word": "dark",
-    "word_type": "noun"
-  },
-  {
     "word": "data",
     "word_type": "noun"
   },
@@ -902,10 +798,6 @@
   {
     "word": "deal",
     "word_type": "verb"
-  },
-  {
-    "word": "dear",
-    "word_type": "exclamation"
   },
   {
     "word": "death",
@@ -1052,10 +944,6 @@
     "word_type": "verb"
   },
   {
-    "word": "downstairs",
-    "word_type": "adjective"
-  },
-  {
     "word": "drama",
     "word_type": "noun"
   },
@@ -1070,10 +958,6 @@
   {
     "word": "dream",
     "word_type": "verb"
-  },
-  {
-    "word": "drive",
-    "word_type": "noun"
   },
   {
     "word": "driving",
@@ -1292,16 +1176,8 @@
     "word_type": "adjective"
   },
   {
-    "word": "fall",
-    "word_type": "noun"
-  },
-  {
     "word": "fan",
     "word_type": "noun"
-  },
-  {
-    "word": "farm",
-    "word_type": "verb"
   },
   {
     "word": "farming",
@@ -1309,10 +1185,6 @@
   },
   {
     "word": "fashion",
-    "word_type": "noun"
-  },
-  {
-    "word": "fat",
     "word_type": "noun"
   },
   {
@@ -1356,14 +1228,6 @@
     "word_type": "noun"
   },
   {
-    "word": "film",
-    "word_type": "verb"
-  },
-  {
-    "word": "final",
-    "word_type": "noun"
-  },
-  {
     "word": "finally",
     "word_type": "adverb"
   },
@@ -1372,20 +1236,8 @@
     "word_type": "noun"
   },
   {
-    "word": "finish",
-    "word_type": "noun"
-  },
-  {
-    "word": "first",
-    "word_type": "noun"
-  },
-  {
     "word": "firstly",
     "word_type": "adverb"
-  },
-  {
-    "word": "fish",
-    "word_type": "verb"
   },
   {
     "word": "fishing",
@@ -1404,15 +1256,7 @@
     "word_type": "verb"
   },
   {
-    "word": "flat",
-    "word_type": "adjective"
-  },
-  {
     "word": "flu",
-    "word_type": "noun"
-  },
-  {
-    "word": "fly",
     "word_type": "noun"
   },
   {
@@ -1460,10 +1304,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "free",
-    "word_type": "adverb"
-  },
-  {
     "word": "fresh",
     "word_type": "adjective"
   },
@@ -1476,19 +1316,11 @@
     "word_type": "noun"
   },
   {
-    "word": "fun",
-    "word_type": "adjective"
-  },
-  {
     "word": "furniture",
     "word_type": "noun"
   },
   {
     "word": "further",
-    "word_type": "adjective"
-  },
-  {
-    "word": "future",
     "word_type": "adjective"
   },
   {
@@ -1536,10 +1368,6 @@
     "word_type": "noun"
   },
   {
-    "word": "good",
-    "word_type": "noun"
-  },
-  {
     "word": "government",
     "word_type": "noun"
   },
@@ -1580,20 +1408,12 @@
     "word_type": "noun"
   },
   {
-    "word": "half",
-    "word_type": "adverb"
-  },
-  {
     "word": "hall",
     "word_type": "noun"
   },
   {
     "word": "happily",
     "word_type": "adverb"
-  },
-  {
-    "word": "have",
-    "word_type": "auxiliary verb"
   },
   {
     "word": "headache",
@@ -1640,19 +1460,11 @@
     "word_type": "verb"
   },
   {
-    "word": "high",
-    "word_type": "adverb"
-  },
-  {
     "word": "hill",
     "word_type": "noun"
   },
   {
     "word": "himself",
-    "word_type": "pronoun"
-  },
-  {
-    "word": "his",
     "word_type": "pronoun"
   },
   {
@@ -1673,14 +1485,6 @@
   },
   {
     "word": "hole",
-    "word_type": "noun"
-  },
-  {
-    "word": "home",
-    "word_type": "adjective"
-  },
-  {
-    "word": "hope",
     "word_type": "noun"
   },
   {
@@ -1928,28 +1732,16 @@
     "word_type": "noun"
   },
   {
-    "word": "land",
-    "word_type": "verb"
-  },
-  {
     "word": "laptop",
     "word_type": "noun"
   },
   {
     "word": "last",
-    "word_type": "adverb"
-  },
-  {
-    "word": "last",
     "word_type": "noun"
   },
   {
     "word": "last",
     "word_type": "verb"
-  },
-  {
-    "word": "later",
-    "word_type": "adjective"
   },
   {
     "word": "laughter",
@@ -2036,10 +1828,6 @@
     "word_type": "verb"
   },
   {
-    "word": "light",
-    "word_type": "verb"
-  },
-  {
     "word": "likely",
     "word_type": "adjective"
   },
@@ -2056,20 +1844,12 @@
     "word_type": "noun"
   },
   {
-    "word": "little",
-    "word_type": "adverb"
-  },
-  {
     "word": "lock",
     "word_type": "noun"
   },
   {
     "word": "lock",
     "word_type": "verb"
-  },
-  {
-    "word": "look",
-    "word_type": "noun"
   },
   {
     "word": "lorry",
@@ -2304,10 +2084,6 @@
     "word_type": "noun"
   },
   {
-    "word": "need",
-    "word_type": "noun"
-  },
-  {
     "word": "neither",
     "word_type": "determiner"
   },
@@ -2358,10 +2134,6 @@
   {
     "word": "nowhere",
     "word_type": "adverb"
-  },
-  {
-    "word": "number",
-    "word_type": "verb"
   },
   {
     "word": "nut",
@@ -2420,24 +2192,8 @@
     "word_type": "pronoun"
   },
   {
-    "word": "outside",
-    "word_type": "adjective"
-  },
-  {
-    "word": "outside",
-    "word_type": "noun"
-  },
-  {
-    "word": "outside",
-    "word_type": "preposition"
-  },
-  {
     "word": "oven",
     "word_type": "noun"
-  },
-  {
-    "word": "own",
-    "word_type": "verb"
   },
   {
     "word": "owner",
@@ -2480,19 +2236,11 @@
     "word_type": "noun"
   },
   {
-    "word": "past",
-    "word_type": "adverb"
-  },
-  {
     "word": "patient",
     "word_type": "noun"
   },
   {
     "word": "pattern",
-    "word_type": "noun"
-  },
-  {
-    "word": "pay",
     "word_type": "noun"
   },
   {
@@ -2544,10 +2292,6 @@
     "word_type": "noun"
   },
   {
-    "word": "photograph",
-    "word_type": "verb"
-  },
-  {
     "word": "physical",
     "word_type": "adjective"
   },
@@ -2568,10 +2312,6 @@
     "word_type": "noun"
   },
   {
-    "word": "plant",
-    "word_type": "verb"
-  },
-  {
     "word": "plastic",
     "word_type": "adjective"
   },
@@ -2586,10 +2326,6 @@
   {
     "word": "platform",
     "word_type": "noun"
-  },
-  {
-    "word": "please",
-    "word_type": "verb"
   },
   {
     "word": "pleased",
@@ -2641,10 +2377,6 @@
   },
   {
     "word": "predict",
-    "word_type": "verb"
-  },
-  {
-    "word": "present",
     "word_type": "verb"
   },
   {
@@ -2758,10 +2490,6 @@
   {
     "word": "queen",
     "word_type": "noun"
-  },
-  {
-    "word": "question",
-    "word_type": "verb"
   },
   {
     "word": "quietly",
@@ -2892,10 +2620,6 @@
     "word_type": "verb"
   },
   {
-    "word": "report",
-    "word_type": "verb"
-  },
-  {
     "word": "reporter",
     "word_type": "noun"
   },
@@ -2938,10 +2662,6 @@
   {
     "word": "review",
     "word_type": "verb"
-  },
-  {
-    "word": "ride",
-    "word_type": "noun"
   },
   {
     "word": "ring",
@@ -2990,10 +2710,6 @@
   {
     "word": "rude",
     "word_type": "adjective"
-  },
-  {
-    "word": "run",
-    "word_type": "noun"
   },
   {
     "word": "runner",
@@ -3078,10 +2794,6 @@
   {
     "word": "seat",
     "word_type": "noun"
-  },
-  {
-    "word": "second",
-    "word_type": "adverb"
   },
   {
     "word": "secondly",
@@ -3256,10 +2968,6 @@
     "word_type": "noun"
   },
   {
-    "word": "sleep",
-    "word_type": "noun"
-  },
-  {
     "word": "slowly",
     "word_type": "adverb"
   },
@@ -3392,19 +3100,7 @@
     "word_type": "noun"
   },
   {
-    "word": "star",
-    "word_type": "verb"
-  },
-  {
-    "word": "start",
-    "word_type": "noun"
-  },
-  {
     "word": "state",
-    "word_type": "noun"
-  },
-  {
-    "word": "stay",
     "word_type": "noun"
   },
   {
@@ -3508,10 +3204,6 @@
     "word_type": "verb"
   },
   {
-    "word": "sure",
-    "word_type": "adverb"
-  },
-  {
     "word": "surprise",
     "word_type": "noun"
   },
@@ -3552,10 +3244,6 @@
     "word_type": "noun"
   },
   {
-    "word": "talk",
-    "word_type": "noun"
-  },
-  {
     "word": "target",
     "word_type": "noun"
   },
@@ -3592,10 +3280,6 @@
     "word_type": "noun"
   },
   {
-    "word": "text",
-    "word_type": "verb"
-  },
-  {
     "word": "themselves",
     "word_type": "pronoun"
   },
@@ -3613,10 +3297,6 @@
   },
   {
     "word": "thinking",
-    "word_type": "noun"
-  },
-  {
-    "word": "third",
     "word_type": "noun"
   },
   {
@@ -3704,10 +3384,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "train",
-    "word_type": "verb"
-  },
-  {
     "word": "trainer",
     "word_type": "noun"
   },
@@ -3780,14 +3456,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "upstairs",
-    "word_type": "adjective"
-  },
-  {
-    "word": "use",
-    "word_type": "noun"
-  },
-  {
     "word": "used",
     "word_type": "to modal verb"
   },
@@ -3828,15 +3496,7 @@
     "word_type": "noun"
   },
   {
-    "word": "wait",
-    "word_type": "noun"
-  },
-  {
     "word": "war",
-    "word_type": "noun"
-  },
-  {
-    "word": "wash",
     "word_type": "noun"
   },
   {
@@ -3861,10 +3521,6 @@
   },
   {
     "word": "weight",
-    "word_type": "noun"
-  },
-  {
-    "word": "welcome",
     "word_type": "noun"
   },
   {
