@@ -112,10 +112,6 @@
     "word_type": "verb"
   },
   {
-    "word": "amount",
-    "word_type": "verb"
-  },
-  {
     "word": "anger",
     "word_type": "noun"
   },
@@ -236,10 +232,6 @@
     "word_type": "noun"
   },
   {
-    "word": "bar",
-    "word_type": "verb"
-  },
-  {
     "word": "barrier",
     "word_type": "noun"
   },
@@ -250,14 +242,6 @@
   {
     "word": "battle",
     "word_type": "verb"
-  },
-  {
-    "word": "bear",
-    "word_type": "verb"
-  },
-  {
-    "word": "beat",
-    "word_type": "noun"
   },
   {
     "word": "beg",
