@@ -5,27 +5,15 @@
   },
   {
     "word": "about",
-    "word_type": "adverb"
-  },
-  {
-    "word": "about",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "above",
-    "word_type": "adverb"
-  },
-  {
-    "word": "above",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "across",
-    "word_type": "adverb"
-  },
-  {
-    "word": "across",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "action",
@@ -97,11 +85,7 @@
   },
   {
     "word": "all",
-    "word_type": "determiner"
-  },
-  {
-    "word": "all",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "also",
@@ -129,27 +113,15 @@
   },
   {
     "word": "another",
-    "word_type": "determiner"
-  },
-  {
-    "word": "another",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "answer",
-    "word_type": "noun"
-  },
-  {
-    "word": "answer",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "any",
-    "word_type": "determiner"
-  },
-  {
-    "word": "any",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "anyone",
@@ -181,11 +153,7 @@
   },
   {
     "word": "around",
-    "word_type": "adverb"
-  },
-  {
-    "word": "around",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "arrive",
@@ -237,11 +205,7 @@
   },
   {
     "word": "back",
-    "word_type": "adverb"
-  },
-  {
-    "word": "back",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "bad",
@@ -277,11 +241,7 @@
   },
   {
     "word": "be",
-    "word_type": "verb"
-  },
-  {
-    "word": "be",
-    "word_type": "auxiliary verb"
+    "word_type": "verb, auxiliary verb"
   },
   {
     "word": "beach",
@@ -325,11 +285,7 @@
   },
   {
     "word": "behind",
-    "word_type": "adverb"
-  },
-  {
-    "word": "behind",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "believe",
@@ -337,11 +293,7 @@
   },
   {
     "word": "below",
-    "word_type": "adverb"
-  },
-  {
-    "word": "below",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "best",
@@ -381,11 +333,7 @@
   },
   {
     "word": "black",
-    "word_type": "adjective"
-  },
-  {
-    "word": "black",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "blog",
@@ -397,11 +345,7 @@
   },
   {
     "word": "blue",
-    "word_type": "adjective"
-  },
-  {
-    "word": "blue",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "boat",
@@ -433,11 +377,7 @@
   },
   {
     "word": "both",
-    "word_type": "determiner"
-  },
-  {
-    "word": "both",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "bottle",
@@ -461,11 +401,7 @@
   },
   {
     "word": "break",
-    "word_type": "noun"
-  },
-  {
-    "word": "break",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "breakfast",
@@ -481,19 +417,11 @@
   },
   {
     "word": "brown",
-    "word_type": "adjective"
-  },
-  {
-    "word": "brown",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "build",
     "word_type": "verb"
-  },
-  {
-    "word": "building",
-    "word_type": "noun"
   },
   {
     "word": "bus",
@@ -537,11 +465,7 @@
   },
   {
     "word": "call",
-    "word_type": "noun"
-  },
-  {
-    "word": "call",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "camera",
@@ -557,11 +481,7 @@
   },
   {
     "word": "capital",
-    "word_type": "adjective"
-  },
-  {
-    "word": "capital",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "car",
@@ -588,10 +508,6 @@
     "word_type": "noun"
   },
   {
-    "word": "CD",
-    "word_type": "noun"
-  },
-  {
     "word": "cent",
     "word_type": "noun"
   },
@@ -609,11 +525,7 @@
   },
   {
     "word": "change",
-    "word_type": "noun"
-  },
-  {
-    "word": "change",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "chart",
@@ -665,11 +577,7 @@
   },
   {
     "word": "clean",
-    "word_type": "adjective"
-  },
-  {
-    "word": "clean",
-    "word_type": "verb"
+    "word_type": "adjective, verb"
   },
   {
     "word": "climb",
@@ -701,11 +609,7 @@
   },
   {
     "word": "cold",
-    "word_type": "adjective"
-  },
-  {
-    "word": "cold",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "college",
@@ -733,11 +637,7 @@
   },
   {
     "word": "complete",
-    "word_type": "adjective"
-  },
-  {
-    "word": "complete",
-    "word_type": "verb"
+    "word_type": "adjective, verb"
   },
   {
     "word": "computer",
@@ -756,28 +656,16 @@
     "word_type": "verb"
   },
   {
-    "word": "cooking",
-    "word_type": "noun"
-  },
-  {
     "word": "cool",
     "word_type": "adjective"
   },
   {
     "word": "correct",
-    "word_type": "adjective"
-  },
-  {
-    "word": "correct",
-    "word_type": "verb"
+    "word_type": "adjective, verb"
   },
   {
     "word": "cost",
-    "word_type": "noun"
-  },
-  {
-    "word": "cost",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "could",
@@ -829,19 +717,7 @@
   },
   {
     "word": "dance",
-    "word_type": "noun"
-  },
-  {
-    "word": "dance",
-    "word_type": "verb"
-  },
-  {
-    "word": "dancer",
-    "word_type": "noun"
-  },
-  {
-    "word": "dancing",
-    "word_type": "noun"
+    "word_type": "noun, verb"
   },
   {
     "word": "dangerous",
@@ -889,11 +765,7 @@
   },
   {
     "word": "design",
-    "word_type": "noun"
-  },
-  {
-    "word": "design",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "desk",
@@ -949,11 +821,7 @@
   },
   {
     "word": "do",
-    "word_type": "verb"
-  },
-  {
-    "word": "do",
-    "word_type": "auxiliary verb"
+    "word_type": "verb, auxiliary verb"
   },
   {
     "word": "doctor",
@@ -973,11 +841,7 @@
   },
   {
     "word": "down",
-    "word_type": "adverb"
-  },
-  {
-    "word": "down",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "downstairs",
@@ -989,19 +853,11 @@
   },
   {
     "word": "dress",
-    "word_type": "noun"
-  },
-  {
-    "word": "dress",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "drink",
-    "word_type": "noun"
-  },
-  {
-    "word": "drink",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "drive",
@@ -1021,15 +877,7 @@
   },
   {
     "word": "each",
-    "word_type": "adverb"
-  },
-  {
-    "word": "each",
-    "word_type": "determiner"
-  },
-  {
-    "word": "each",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "ear",
@@ -1037,23 +885,11 @@
   },
   {
     "word": "early",
-    "word_type": "adjective"
-  },
-  {
-    "word": "early",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "east",
-    "word_type": "adjective"
-  },
-  {
-    "word": "east",
-    "word_type": "adverb"
-  },
-  {
-    "word": "east",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "easy",
@@ -1093,19 +929,11 @@
   },
   {
     "word": "email",
-    "word_type": "noun"
-  },
-  {
-    "word": "email",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "end",
-    "word_type": "noun"
-  },
-  {
-    "word": "end",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "enjoy",
@@ -1113,15 +941,7 @@
   },
   {
     "word": "enough",
-    "word_type": "adverb"
-  },
-  {
-    "word": "enough",
-    "word_type": "determiner"
-  },
-  {
-    "word": "enough",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "euro",
@@ -1177,11 +997,7 @@
   },
   {
     "word": "exercise",
-    "word_type": "noun"
-  },
-  {
-    "word": "exercise",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "expensive",
@@ -1217,11 +1033,7 @@
   },
   {
     "word": "family",
-    "word_type": "adjective"
-  },
-  {
-    "word": "family",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "famous",
@@ -1245,11 +1057,7 @@
   },
   {
     "word": "fast",
-    "word_type": "adjective"
-  },
-  {
-    "word": "fast",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "fat",
@@ -1261,11 +1069,7 @@
   },
   {
     "word": "favourite",
-    "word_type": "adjective"
-  },
-  {
-    "word": "favourite",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "February",
@@ -1285,15 +1089,7 @@
   },
   {
     "word": "few",
-    "word_type": "adjective"
-  },
-  {
-    "word": "few",
-    "word_type": "determiner"
-  },
-  {
-    "word": "few",
-    "word_type": "pronoun"
+    "word_type": "adjective, determiner, pronoun"
   },
   {
     "word": "fifteen",
@@ -1337,15 +1133,7 @@
   },
   {
     "word": "first",
-    "word_type": "adverb"
-  },
-  {
-    "word": "first",
-    "word_type": "determiner"
-  },
-  {
-    "word": "first",
-    "word_type": "ordinal number"
+    "word_type": "adverb, determiner, ordinal number"
   },
   {
     "word": "fish",
@@ -1401,11 +1189,7 @@
   },
   {
     "word": "form",
-    "word_type": "noun"
-  },
-  {
-    "word": "form",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "forty",
@@ -1445,11 +1229,7 @@
   },
   {
     "word": "front",
-    "word_type": "adjective"
-  },
-  {
-    "word": "front",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "fruit",
@@ -1513,11 +1293,7 @@
   },
   {
     "word": "goodbye",
-    "word_type": "exclamation"
-  },
-  {
-    "word": "goodbye",
-    "word_type": "noun"
+    "word_type": "exclamation, noun"
   },
   {
     "word": "grandfather",
@@ -1537,19 +1313,11 @@
   },
   {
     "word": "green",
-    "word_type": "adjective"
-  },
-  {
-    "word": "green",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "grey",
-    "word_type": "adjective"
-  },
-  {
-    "word": "grey",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "group",
@@ -1561,11 +1329,7 @@
   },
   {
     "word": "guess",
-    "word_type": "noun"
-  },
-  {
-    "word": "guess",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "guitar",
@@ -1581,15 +1345,7 @@
   },
   {
     "word": "half",
-    "word_type": "determiner"
-  },
-  {
-    "word": "half",
-    "word_type": "noun"
-  },
-  {
-    "word": "half",
-    "word_type": "pronoun"
+    "word_type": "determiner, noun, pronoun"
   },
   {
     "word": "hand",
@@ -1605,11 +1361,7 @@
   },
   {
     "word": "hard",
-    "word_type": "adjective"
-  },
-  {
-    "word": "hard",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "hat",
@@ -1621,11 +1373,7 @@
   },
   {
     "word": "have",
-    "word_type": "verb"
-  },
-  {
-    "word": "have",
-    "word_type": "to modal verb"
+    "word_type": "verb, modal verb"
   },
   {
     "word": "he",
@@ -1649,27 +1397,15 @@
   },
   {
     "word": "hello",
-    "word_type": "exclamation"
-  },
-  {
-    "word": "hello",
-    "word_type": "noun"
+    "word_type": "exclamation, noun"
   },
   {
     "word": "help",
-    "word_type": "noun"
-  },
-  {
-    "word": "help",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "her",
-    "word_type": "determiner"
-  },
-  {
-    "word": "her",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "here",
@@ -1709,11 +1445,7 @@
   },
   {
     "word": "home",
-    "word_type": "adverb"
-  },
-  {
-    "word": "home",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "homework",
@@ -1773,11 +1505,7 @@
   },
   {
     "word": "ice",
-    "word_type": "noun"
-  },
-  {
-    "word": "ice",
-    "word_type": "cream noun"
+    "word_type": "noun, noun"
   },
   {
     "word": "idea",
@@ -1801,11 +1529,7 @@
   },
   {
     "word": "in",
-    "word_type": "adverb"
-  },
-  {
-    "word": "in",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "include",
@@ -1817,11 +1541,7 @@
   },
   {
     "word": "interest",
-    "word_type": "noun"
-  },
-  {
-    "word": "interest",
-    "word_type": "verb"
+    "word_type": "noun, verb" 
   },
   {
     "word": "interested",
@@ -1837,11 +1557,7 @@
   },
   {
     "word": "interview",
-    "word_type": "noun"
-  },
-  {
-    "word": "interview",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "into",
@@ -1909,11 +1625,7 @@
   },
   {
     "word": "key",
-    "word_type": "adjective"
-  },
-  {
-    "word": "key",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "kilometre",
@@ -1949,11 +1661,7 @@
   },
   {
     "word": "late",
-    "word_type": "adjective"
-  },
-  {
-    "word": "late",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "later",
@@ -1961,11 +1669,7 @@
   },
   {
     "word": "laugh",
-    "word_type": "noun"
-  },
-  {
-    "word": "laugh",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "learn",
@@ -1977,15 +1681,7 @@
   },
   {
     "word": "left",
-    "word_type": "adjective"
-  },
-  {
-    "word": "left",
-    "word_type": "adverb"
-  },
-  {
-    "word": "left",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "leg",
@@ -2017,19 +1713,11 @@
   },
   {
     "word": "light",
-    "word_type": "adjective"
-  },
-  {
-    "word": "light",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "like",
-    "word_type": "preposition"
-  },
-  {
-    "word": "like",
-    "word_type": "verb"
+    "word_type": "preposition, verb"
   },
   {
     "word": "line",
@@ -2041,11 +1729,7 @@
   },
   {
     "word": "list",
-    "word_type": "noun"
-  },
-  {
-    "word": "list",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "listen",
@@ -2053,15 +1737,7 @@
   },
   {
     "word": "little",
-    "word_type": "adjective"
-  },
-  {
-    "word": "little",
-    "word_type": "determiner"
-  },
-  {
-    "word": "little",
-    "word_type": "pronoun"
+    "word_type": "adjective, determiner, pronoun"
   },
   {
     "word": "live",
@@ -2073,11 +1749,7 @@
   },
   {
     "word": "long",
-    "word_type": "adjective"
-  },
-  {
-    "word": "long",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "look",
@@ -2089,23 +1761,11 @@
   },
   {
     "word": "lot",
-    "word_type": "adverb"
-  },
-  {
-    "word": "lot",
-    "word_type": "determiner"
-  },
-  {
-    "word": "lot",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "love",
-    "word_type": "noun"
-  },
-  {
-    "word": "love",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "lunch",
@@ -2133,11 +1793,7 @@
   },
   {
     "word": "many",
-    "word_type": "determiner"
-  },
-  {
-    "word": "many",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "map",
@@ -2157,11 +1813,7 @@
   },
   {
     "word": "match",
-    "word_type": "noun"
-  },
-  {
-    "word": "match",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "May",
@@ -2269,15 +1921,7 @@
   },
   {
     "word": "more",
-    "word_type": "adverb"
-  },
-  {
-    "word": "more",
-    "word_type": "determiner"
-  },
-  {
-    "word": "more",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "morning",
@@ -2285,15 +1929,7 @@
   },
   {
     "word": "most",
-    "word_type": "adverb"
-  },
-  {
-    "word": "most",
-    "word_type": "determiner"
-  },
-  {
-    "word": "most",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "mother",
@@ -2321,15 +1957,7 @@
   },
   {
     "word": "much",
-    "word_type": "adverb"
-  },
-  {
-    "word": "much",
-    "word_type": "determiner"
-  },
-  {
-    "word": "much",
-    "word_type": "pronoun"
+    "word_type": "adverb, determiner, pronoun"
   },
   {
     "word": "mum",
@@ -2353,11 +1981,7 @@
   },
   {
     "word": "name",
-    "word_type": "noun"
-  },
-  {
-    "word": "name",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "natural",
@@ -2365,15 +1989,7 @@
   },
   {
     "word": "near",
-    "word_type": "adjective"
-  },
-  {
-    "word": "near",
-    "word_type": "adverb"
-  },
-  {
-    "word": "near",
-    "word_type": "preposition"
+    "word_type": "adjective, adverb, preposition"
   },
   {
     "word": "need",
@@ -2405,15 +2021,7 @@
   },
   {
     "word": "next",
-    "word_type": "adjective"
-  },
-  {
-    "word": "next",
-    "word_type": "adverb"
-  },
-  {
-    "word": "next",
-    "word_type": "to preposition"
+    "word_type": "adjective, adverb, preposition"
   },
   {
     "word": "nice",
@@ -2437,15 +2045,7 @@
   },
   {
     "word": "no",
-    "word_type": "determiner"
-  },
-  {
-    "word": "no",
-    "word_type": "exclamation"
-  },
-  {
-    "word": "no",
-    "word_type": "one pronoun"
+    "word_type": "determiner, exclamation, one pronoun"
   },
   {
     "word": "nobody",
@@ -2453,15 +2053,7 @@
   },
   {
     "word": "north",
-    "word_type": "adjective"
-  },
-  {
-    "word": "north",
-    "word_type": "adverb"
-  },
-  {
-    "word": "north",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "nose",
@@ -2513,11 +2105,7 @@
   },
   {
     "word": "off",
-    "word_type": "adverb"
-  },
-  {
-    "word": "off",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "office",
@@ -2533,15 +2121,7 @@
   },
   {
     "word": "OK",
-    "word_type": "adjective"
-  },
-  {
-    "word": "OK",
-    "word_type": "adverb"
-  },
-  {
-    "word": "OK",
-    "word_type": "exclamation"
+    "word_type": "adjective, adverb, exclamation"
   },
   {
     "word": "old",
@@ -2549,11 +2129,7 @@
   },
   {
     "word": "on",
-    "word_type": "adverb"
-  },
-  {
-    "word": "on",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "once",
@@ -2561,15 +2137,7 @@
   },
   {
     "word": "one",
-    "word_type": "determiner"
-  },
-  {
-    "word": "one",
-    "word_type": "number"
-  },
-  {
-    "word": "one",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun, number"
   },
   {
     "word": "onion",
@@ -2577,27 +2145,15 @@
   },
   {
     "word": "online",
-    "word_type": "adjective"
-  },
-  {
-    "word": "online",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "only",
-    "word_type": "adjective"
-  },
-  {
-    "word": "only",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "open",
-    "word_type": "adjective"
-  },
-  {
-    "word": "open",
-    "word_type": "verb"
+    "word_type": "adjective, verb"
   },
   {
     "word": "opinion",
@@ -2605,19 +2161,7 @@
   },
   {
     "word": "opposite",
-    "word_type": "adjective"
-  },
-  {
-    "word": "opposite",
-    "word_type": "adverb"
-  },
-  {
-    "word": "opposite",
-    "word_type": "noun"
-  },
-  {
-    "word": "opposite",
-    "word_type": "preposition"
+    "word_type": "adjective, adverb, noun, preposition"
   },
   {
     "word": "or",
@@ -2625,27 +2169,15 @@
   },
   {
     "word": "orange",
-    "word_type": "adjective"
-  },
-  {
-    "word": "orange",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "order",
-    "word_type": "noun"
-  },
-  {
-    "word": "order",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "other",
-    "word_type": "adjective"
-  },
-  {
-    "word": "other",
-    "word_type": "pronoun"
+    "word_type": "adjective, pronoun"
   },
   {
     "word": "our",
@@ -2653,11 +2185,7 @@
   },
   {
     "word": "out",
-    "word_type": "adverb"
-  },
-  {
-    "word": "out",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "outside",
@@ -2665,19 +2193,11 @@
   },
   {
     "word": "over",
-    "word_type": "adverb"
-  },
-  {
-    "word": "over",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "own",
-    "word_type": "adjective"
-  },
-  {
-    "word": "own",
-    "word_type": "pronoun"
+    "word_type": "adjective, pronoun"
   },
   {
     "word": "page",
@@ -2685,11 +2205,7 @@
   },
   {
     "word": "paint",
-    "word_type": "noun"
-  },
-  {
-    "word": "paint",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "painting",
@@ -2713,11 +2229,7 @@
   },
   {
     "word": "park",
-    "word_type": "noun"
-  },
-  {
-    "word": "park",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "part",
@@ -2737,15 +2249,7 @@
   },
   {
     "word": "past",
-    "word_type": "adjective"
-  },
-  {
-    "word": "past",
-    "word_type": "noun"
-  },
-  {
-    "word": "past",
-    "word_type": "preposition"
+    "word_type": "adjective, noun, preposition"
   },
   {
     "word": "pay",
@@ -2785,11 +2289,7 @@
   },
   {
     "word": "phone",
-    "word_type": "noun"
-  },
-  {
-    "word": "phone",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "photo",
@@ -2821,11 +2321,7 @@
   },
   {
     "word": "pink",
-    "word_type": "adjective"
-  },
-  {
-    "word": "pink",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "place",
@@ -2833,11 +2329,7 @@
   },
   {
     "word": "plan",
-    "word_type": "noun"
-  },
-  {
-    "word": "plan",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "plane",
@@ -2849,11 +2341,7 @@
   },
   {
     "word": "play",
-    "word_type": "noun"
-  },
-  {
-    "word": "play",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "player",
@@ -2897,11 +2385,7 @@
   },
   {
     "word": "post",
-    "word_type": "noun"
-  },
-  {
-    "word": "post",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "potato",
@@ -2929,19 +2413,11 @@
   },
   {
     "word": "present",
-    "word_type": "adjective"
-  },
-  {
-    "word": "present",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "pretty",
-    "word_type": "adjective"
-  },
-  {
-    "word": "pretty",
-    "word_type": "adverb"
+    "word_type": "adjective, adverb"
   },
   {
     "word": "price",
@@ -2969,11 +2445,7 @@
   },
   {
     "word": "purple",
-    "word_type": "adjective"
-  },
-  {
-    "word": "purple",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "put",
@@ -3009,11 +2481,7 @@
   },
   {
     "word": "rain",
-    "word_type": "noun"
-  },
-  {
-    "word": "rain",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "read",
@@ -3045,11 +2513,7 @@
   },
   {
     "word": "red",
-    "word_type": "adjective"
-  },
-  {
-    "word": "red",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "relax",
@@ -3077,11 +2541,7 @@
   },
   {
     "word": "return",
-    "word_type": "noun"
-  },
-  {
-    "word": "return",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "rice",
@@ -3097,15 +2557,7 @@
   },
   {
     "word": "right",
-    "word_type": "adjective"
-  },
-  {
-    "word": "right",
-    "word_type": "adverb"
-  },
-  {
-    "word": "right",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "river",
@@ -3145,15 +2597,7 @@
   },
   {
     "word": "same",
-    "word_type": "adjective"
-  },
-  {
-    "word": "same",
-    "word_type": "adverb"
-  },
-  {
-    "word": "same",
-    "word_type": "pronoun"
+    "word_type": "adjective, adverb, pronoun"
   },
   {
     "word": "sandwich",
@@ -3185,15 +2629,7 @@
   },
   {
     "word": "second",
-    "word_type": "determiner"
-  },
-  {
-    "word": "second",
-    "word_type": "noun"
-  },
-  {
-    "word": "second",
-    "word_type": "ordinal number"
+    "word_type": "determiner, noun, ordinal number"
   },
   {
     "word": "section",
@@ -3253,11 +2689,7 @@
   },
   {
     "word": "shop",
-    "word_type": "noun"
-  },
-  {
-    "word": "shop",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "shopping",
@@ -3273,11 +2705,7 @@
   },
   {
     "word": "show",
-    "word_type": "noun"
-  },
-  {
-    "word": "show",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "shower",
@@ -3349,27 +2777,15 @@
   },
   {
     "word": "snow",
-    "word_type": "noun"
-  },
-  {
-    "word": "snow",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "so",
-    "word_type": "adverb"
-  },
-  {
-    "word": "so",
-    "word_type": "conjunction"
+    "word_type": "adverb, conjunction"
   },
   {
     "word": "some",
-    "word_type": "determiner"
-  },
-  {
-    "word": "some",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "somebody",
@@ -3401,19 +2817,11 @@
   },
   {
     "word": "sorry",
-    "word_type": "adjective"
-  },
-  {
-    "word": "sorry",
-    "word_type": "exclamation"
+    "word_type": "adjective, exclamation"
   },
   {
     "word": "sound",
-    "word_type": "noun"
-  },
-  {
-    "word": "sound",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "soup",
@@ -3421,15 +2829,7 @@
   },
   {
     "word": "south",
-    "word_type": "adjective"
-  },
-  {
-    "word": "south",
-    "word_type": "adverb"
-  },
-  {
-    "word": "south",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "space",
@@ -3493,11 +2893,7 @@
   },
   {
     "word": "stop",
-    "word_type": "noun"
-  },
-  {
-    "word": "stop",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "story",
@@ -3517,11 +2913,7 @@
   },
   {
     "word": "study",
-    "word_type": "noun"
-  },
-  {
-    "word": "study",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "style",
@@ -3617,11 +3009,7 @@
   },
   {
     "word": "telephone",
-    "word_type": "noun"
-  },
-  {
-    "word": "telephone",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "television",
@@ -3645,11 +3033,7 @@
   },
   {
     "word": "test",
-    "word_type": "noun"
-  },
-  {
-    "word": "test",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "text",
@@ -3657,11 +3041,7 @@
   },
   {
     "word": "than",
-    "word_type": "conjunction"
-  },
-  {
-    "word": "than",
-    "word_type": "preposition"
+    "word_type": "conjunction, preposition"
   },
   {
     "word": "thank",
@@ -3669,23 +3049,11 @@
   },
   {
     "word": "thanks",
-    "word_type": "exclamation"
-  },
-  {
-    "word": "thanks",
-    "word_type": "noun"
+    "word_type": "exclamation, noun"
   },
   {
     "word": "that",
-    "word_type": "conjunction"
-  },
-  {
-    "word": "that",
-    "word_type": "determiner"
-  },
-  {
-    "word": "that",
-    "word_type": "pronoun"
+    "word_type": "conjunction, determiner, pronoun"
   },
   {
     "word": "the",
@@ -3741,11 +3109,7 @@
   },
   {
     "word": "this",
-    "word_type": "determiner"
-  },
-  {
-    "word": "this",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "thousand",
@@ -3757,11 +3121,7 @@
   },
   {
     "word": "through",
-    "word_type": "adverb"
-  },
-  {
-    "word": "through",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "Thursday",
@@ -3785,19 +3145,11 @@
   },
   {
     "word": "to",
-    "word_type": "infinitive marker"
-  },
-  {
-    "word": "to",
-    "word_type": "preposition"
+    "word_type": "infinitive marker, preposition"
   },
   {
     "word": "today",
-    "word_type": "adverb"
-  },
-  {
-    "word": "today",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "together",
@@ -3813,19 +3165,11 @@
   },
   {
     "word": "tomorrow",
-    "word_type": "adverb"
-  },
-  {
-    "word": "tomorrow",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "tonight",
-    "word_type": "adverb"
-  },
-  {
-    "word": "tonight",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "too",
@@ -3857,11 +3201,7 @@
   },
   {
     "word": "travel",
-    "word_type": "noun"
-  },
-  {
-    "word": "travel",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "tree",
@@ -3889,11 +3229,7 @@
   },
   {
     "word": "turn",
-    "word_type": "noun"
-  },
-  {
-    "word": "turn",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "TV",
@@ -3929,11 +3265,7 @@
   },
   {
     "word": "under",
-    "word_type": "adverb"
-  },
-  {
-    "word": "under",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "understand",
@@ -3945,19 +3277,11 @@
   },
   {
     "word": "until",
-    "word_type": "conjunction"
-  },
-  {
-    "word": "until",
-    "word_type": "preposition"
+    "word_type": "conjunction, preposition"
   },
   {
     "word": "up",
-    "word_type": "adverb"
-  },
-  {
-    "word": "up",
-    "word_type": "preposition"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "upstairs",
@@ -4001,11 +3325,7 @@
   },
   {
     "word": "visit",
-    "word_type": "noun"
-  },
-  {
-    "word": "visit",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "visitor",
@@ -4025,11 +3345,7 @@
   },
   {
     "word": "walk",
-    "word_type": "noun"
-  },
-  {
-    "word": "walk",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "wall",
@@ -4049,11 +3365,7 @@
   },
   {
     "word": "watch",
-    "word_type": "noun"
-  },
-  {
-    "word": "watch",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "water",
@@ -4093,79 +3405,31 @@
   },
   {
     "word": "welcome",
-    "word_type": "adjective"
-  },
-  {
-    "word": "welcome",
-    "word_type": "exclamation"
-  },
-  {
-    "word": "welcome",
-    "word_type": "verb"
+    "word_type": "adjective, noun, exclamation"
   },
   {
     "word": "well",
-    "word_type": "adjective"
-  },
-  {
-    "word": "well",
-    "word_type": "adverb"
-  },
-  {
-    "word": "well",
-    "word_type": "exclamation"
+    "word_type": "adjective, adverb, exclamation"
   },
   {
     "word": "west",
-    "word_type": "adjective"
-  },
-  {
-    "word": "west",
-    "word_type": "adverb"
-  },
-  {
-    "word": "west",
-    "word_type": "noun"
+    "word_type": "adjective, adverb, noun"
   },
   {
     "word": "what",
-    "word_type": "determiner"
-  },
-  {
-    "word": "what",
-    "word_type": "pronoun"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "when",
-    "word_type": "adverb"
-  },
-  {
-    "word": "when",
-    "word_type": "conjunction"
-  },
-  {
-    "word": "when",
-    "word_type": "pronoun"
+    "word_type": "adverb, conjunction, pronoun"
   },
   {
     "word": "where",
-    "word_type": "adverb"
-  },
-  {
-    "word": "where",
-    "word_type": "conjunction"
+    "word_type": "adverb, preposition"
   },
   {
     "word": "which",
-    "word_type": "determiner"
-  },
-  {
-    "word": "which",
-    "word_type": "pronoun"
-  },
-  {
-    "word": "white",
-    "word_type": "adjective"
+    "word_type": "determiner, pronoun"
   },
   {
     "word": "white",
@@ -4225,11 +3489,7 @@
   },
   {
     "word": "work",
-    "word_type": "noun"
-  },
-  {
-    "word": "work",
-    "word_type": "verb"
+    "word_type": "noun, verb"
   },
   {
     "word": "worker",
@@ -4269,11 +3529,7 @@
   },
   {
     "word": "yellow",
-    "word_type": "adjective"
-  },
-  {
-    "word": "yellow",
-    "word_type": "noun"
+    "word_type": "adjective, noun"
   },
   {
     "word": "yes",
@@ -4281,11 +3537,7 @@
   },
   {
     "word": "yesterday",
-    "word_type": "adverb"
-  },
-  {
-    "word": "yesterday",
-    "word_type": "noun"
+    "word_type": "adverb, noun"
   },
   {
     "word": "you",
