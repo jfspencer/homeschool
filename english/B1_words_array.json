@@ -28,10 +28,6 @@
     "word_type": "noun"
   },
   {
-    "word": "act",
-    "word_type": "noun"
-  },
-  {
     "word": "ad",
     "word_type": "noun"
   },
@@ -97,10 +93,6 @@
   },
   {
     "word": "alcoholic",
-    "word_type": "adjective"
-  },
-  {
-    "word": "alternative",
     "word_type": "adjective"
   },
   {
@@ -212,14 +204,6 @@
     "word_type": "noun"
   },
   {
-    "word": "average",
-    "word_type": "verb"
-  },
-  {
-    "word": "award",
-    "word_type": "verb"
-  },
-  {
     "word": "aware",
     "word_type": "adjective"
   },
@@ -296,10 +280,6 @@
     "word_type": "verb"
   },
   {
-    "word": "benefit",
-    "word_type": "verb"
-  },
-  {
     "word": "bite",
     "word_type": "noun"
   },
@@ -313,10 +293,6 @@
   },
   {
     "word": "block",
-    "word_type": "verb"
-  },
-  {
-    "word": "board",
     "word_type": "verb"
   },
   {
@@ -504,10 +480,6 @@
     "word_type": "noun"
   },
   {
-    "word": "clear",
-    "word_type": "verb"
-  },
-  {
     "word": "click",
     "word_type": "noun"
   },
@@ -528,10 +500,6 @@
     "word_type": "noun"
   },
   {
-    "word": "coach",
-    "word_type": "verb"
-  },
-  {
     "word": "coal",
     "word_type": "noun"
   },
@@ -549,10 +517,6 @@
   },
   {
     "word": "combine",
-    "word_type": "verb"
-  },
-  {
-    "word": "comment",
     "word_type": "verb"
   },
   {
@@ -688,10 +652,6 @@
     "word_type": "noun"
   },
   {
-    "word": "count",
-    "word_type": "noun"
-  },
-  {
     "word": "countryside",
     "word_type": "noun"
   },
@@ -700,15 +660,7 @@
     "word_type": "noun"
   },
   {
-    "word": "cover",
-    "word_type": "noun"
-  },
-  {
     "word": "covered",
-    "word_type": "adjective"
-  },
-  {
-    "word": "criminal",
     "word_type": "adjective"
   },
   {
@@ -740,20 +692,12 @@
     "word_type": "noun"
   },
   {
-    "word": "daily",
-    "word_type": "adverb"
-  },
-  {
     "word": "damage",
     "word_type": "noun"
   },
   {
     "word": "damage",
     "word_type": "verb"
-  },
-  {
-    "word": "deal",
-    "word_type": "noun"
   },
   {
     "word": "decade",
@@ -762,10 +706,6 @@
   {
     "word": "decorate",
     "word_type": "verb"
-  },
-  {
-    "word": "deep",
-    "word_type": "adverb"
   },
   {
     "word": "define",
@@ -820,14 +760,6 @@
     "word_type": "noun"
   },
   {
-    "word": "direct",
-    "word_type": "adverb"
-  },
-  {
-    "word": "direct",
-    "word_type": "verb"
-  },
-  {
     "word": "directly",
     "word_type": "adverb"
   },
@@ -872,10 +804,6 @@
     "word_type": "verb"
   },
   {
-    "word": "double",
-    "word_type": "adverb"
-  },
-  {
     "word": "doubt",
     "word_type": "noun"
   },
@@ -886,10 +814,6 @@
   {
     "word": "dressed",
     "word_type": "adjective"
-  },
-  {
-    "word": "drop",
-    "word_type": "noun"
   },
   {
     "word": "drum",
@@ -988,10 +912,6 @@
     "word_type": "noun"
   },
   {
-    "word": "empty",
-    "word_type": "verb"
-  },
-  {
     "word": "encourage",
     "word_type": "verb"
   },
@@ -1064,10 +984,6 @@
     "word_type": "verb"
   },
   {
-    "word": "except",
-    "word_type": "conjunction"
-  },
-  {
     "word": "exchange",
     "word_type": "noun"
   },
@@ -1096,16 +1012,8 @@
     "word_type": "noun"
   },
   {
-    "word": "experience",
-    "word_type": "verb"
-  },
-  {
     "word": "experienced",
     "word_type": "adjective"
-  },
-  {
-    "word": "experiment",
-    "word_type": "verb"
   },
   {
     "word": "explode",
@@ -1158,14 +1066,6 @@
   {
     "word": "favour",
     "word_type": "noun"
-  },
-  {
-    "word": "fear",
-    "word_type": "verb"
-  },
-  {
-    "word": "feature",
-    "word_type": "verb"
   },
   {
     "word": "fence",
@@ -1225,10 +1125,6 @@
   },
   {
     "word": "folk",
-    "word_type": "noun"
-  },
-  {
-    "word": "following",
     "word_type": "noun"
   },
   {
@@ -1294,10 +1190,6 @@
   {
     "word": "fur",
     "word_type": "noun"
-  },
-  {
-    "word": "further",
-    "word_type": "adverb"
   },
   {
     "word": "garage",
@@ -1660,10 +1552,6 @@
     "word_type": "verb"
   },
   {
-    "word": "knock",
-    "word_type": "noun"
-  },
-  {
     "word": "label",
     "word_type": "noun"
   },
@@ -1696,10 +1584,6 @@
     "word_type": "noun"
   },
   {
-    "word": "lead",
-    "word_type": "noun"
-  },
-  {
     "word": "leading",
     "word_type": "adjective"
   },
@@ -1722,10 +1606,6 @@
   {
     "word": "length",
     "word_type": "noun"
-  },
-  {
-    "word": "level",
-    "word_type": "adjective"
   },
   {
     "word": "limit",
@@ -1840,20 +1720,12 @@
     "word_type": "adjective"
   },
   {
-    "word": "mention",
-    "word_type": "noun"
-  },
-  {
     "word": "mess",
     "word_type": "noun"
   },
   {
     "word": "mild",
     "word_type": "adjective"
-  },
-  {
-    "word": "mine",
-    "word_type": "noun"
   },
   {
     "word": "mix",
@@ -1885,10 +1757,6 @@
   },
   {
     "word": "muscle",
-    "word_type": "noun"
-  },
-  {
-    "word": "musical",
     "word_type": "noun"
   },
   {
@@ -1936,10 +1804,6 @@
     "word_type": "noun"
   },
   {
-    "word": "neither",
-    "word_type": "adverb"
-  },
-  {
     "word": "net",
     "word_type": "noun"
   },
@@ -1950,10 +1814,6 @@
   {
     "word": "nor",
     "word_type": "conjunction"
-  },
-  {
-    "word": "normal",
-    "word_type": "noun"
   },
   {
     "word": "northern",
@@ -2004,10 +1864,6 @@
     "word_type": "noun"
   },
   {
-    "word": "original",
-    "word_type": "noun"
-  },
-  {
     "word": "originally",
     "word_type": "adverb"
   },
@@ -2026,10 +1882,6 @@
   {
     "word": "outdoors",
     "word_type": "adverb"
-  },
-  {
-    "word": "pack",
-    "word_type": "noun"
   },
   {
     "word": "package",
@@ -2054,10 +1906,6 @@
   {
     "word": "particularly",
     "word_type": "adverb"
-  },
-  {
-    "word": "pass",
-    "word_type": "noun"
   },
   {
     "word": "passion",
@@ -2304,10 +2152,6 @@
     "word_type": "noun"
   },
   {
-    "word": "program",
-    "word_type": "verb"
-  },
-  {
     "word": "promote",
     "word_type": "verb"
   },
@@ -2340,19 +2184,11 @@
     "word_type": "verb"
   },
   {
-    "word": "pull",
-    "word_type": "noun"
-  },
-  {
     "word": "punish",
     "word_type": "verb"
   },
   {
     "word": "punishment",
-    "word_type": "noun"
-  },
-  {
-    "word": "push",
     "word_type": "noun"
   },
   {
@@ -2508,19 +2344,11 @@
     "word_type": "verb"
   },
   {
-    "word": "repair",
-    "word_type": "noun"
-  },
-  {
     "word": "repeated",
     "word_type": "adjective"
   },
   {
     "word": "represent",
-    "word_type": "verb"
-  },
-  {
-    "word": "request",
     "word_type": "verb"
   },
   {
@@ -2562,10 +2390,6 @@
   {
     "word": "revise",
     "word_type": "verb"
-  },
-  {
-    "word": "rise",
-    "word_type": "noun"
   },
   {
     "word": "risk",
@@ -2616,10 +2440,6 @@
     "word_type": "noun"
   },
   {
-    "word": "sail",
-    "word_type": "noun"
-  },
-  {
     "word": "sailor",
     "word_type": "noun"
   },
@@ -2664,10 +2484,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "separate",
-    "word_type": "verb"
-  },
-  {
     "word": "seriously",
     "word_type": "adverb"
   },
@@ -2694,10 +2510,6 @@
   {
     "word": "sexual",
     "word_type": "adjective"
-  },
-  {
-    "word": "shake",
-    "word_type": "noun"
   },
   {
     "word": "sharp",
@@ -2764,10 +2576,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "since",
-    "word_type": "adverb"
-  },
-  {
     "word": "sink",
     "word_type": "verb"
   },
@@ -2806,10 +2614,6 @@
   {
     "word": "solid",
     "word_type": "noun"
-  },
-  {
-    "word": "sort",
-    "word_type": "verb"
   },
   {
     "word": "southern",
@@ -2860,14 +2664,6 @@
     "word_type": "noun"
   },
   {
-    "word": "state",
-    "word_type": "adjective"
-  },
-  {
-    "word": "state",
-    "word_type": "verb"
-  },
-  {
     "word": "statistic",
     "word_type": "noun"
   },
@@ -2881,10 +2677,6 @@
   },
   {
     "word": "stick",
-    "word_type": "verb"
-  },
-  {
-    "word": "store",
     "word_type": "verb"
   },
   {
@@ -2925,10 +2717,6 @@
   },
   {
     "word": "suffer",
-    "word_type": "verb"
-  },
-  {
-    "word": "suit",
     "word_type": "verb"
   },
   {
@@ -3076,10 +2864,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "tip",
-    "word_type": "verb"
-  },
-  {
     "word": "toe",
     "word_type": "noun"
   },
@@ -3100,14 +2884,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "touch",
-    "word_type": "noun"
-  },
-  {
-    "word": "tour",
-    "word_type": "verb"
-  },
-  {
     "word": "trade",
     "word_type": "noun"
   },
@@ -3122,10 +2898,6 @@
   {
     "word": "translation",
     "word_type": "noun"
-  },
-  {
-    "word": "transport",
-    "word_type": "verb"
   },
   {
     "word": "treat",
@@ -3240,10 +3012,6 @@
     "word_type": "verb"
   },
   {
-    "word": "used",
-    "word_type": "adjective"
-  },
-  {
     "word": "valuable",
     "word_type": "adjective"
   },
@@ -3262,10 +3030,6 @@
   {
     "word": "victim",
     "word_type": "noun"
-  },
-  {
-    "word": "view",
-    "word_type": "verb"
   },
   {
     "word": "viewer",
@@ -3320,10 +3084,6 @@
     "word_type": "verb"
   },
   {
-    "word": "wave",
-    "word_type": "verb"
-  },
-  {
     "word": "weapon",
     "word_type": "noun"
   },
@@ -3350,14 +3110,6 @@
   {
     "word": "whether",
     "word_type": "conjunction"
-  },
-  {
-    "word": "while",
-    "word_type": "noun"
-  },
-  {
-    "word": "whole",
-    "word_type": "noun"
   },
   {
     "word": "will",
@@ -3393,18 +3145,6 @@
   },
   {
     "word": "worldwide",
-    "word_type": "adverb"
-  },
-  {
-    "word": "worry",
-    "word_type": "noun"
-  },
-  {
-    "word": "worse",
-    "word_type": "adverb"
-  },
-  {
-    "word": "worst",
     "word_type": "adverb"
   },
   {

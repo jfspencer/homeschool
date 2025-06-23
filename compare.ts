@@ -5,7 +5,7 @@ interface WordEntry {
   word_type: string;
 }
 
-const file1 = { path: 'english/A1_words_array.json', name: 'A1' };
+const file1 = { path: 'english/A2_words_array.json', name: 'A2' };
 const file2 = { path: 'english/B2_words_array.json', name: 'B2' };
 
 async function findDuplicates() {
@@ -33,7 +33,7 @@ async function findDuplicates() {
     // Sort duplicates alphabetically
     duplicates.sort();
 
-    console.log(`\nFound ${duplicates.length} duplicate words between A1 and A2:`);
+    console.log(`\nFound ${duplicates.length} duplicate words between ${file1.name} and ${file2.name}:`);
     console.log('='.repeat(50));
 
     // Display duplicates with their word types from both lists
