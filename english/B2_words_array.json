@@ -8,19 +8,11 @@
     "word_type": "adjective"
   },
   {
-    "word": "academic",
-    "word_type": "noun"
-  },
-  {
     "word": "acceptable",
     "word_type": "adjective"
   },
   {
     "word": "accompany",
-    "word_type": "verb"
-  },
-  {
-    "word": "account",
     "word_type": "verb"
   },
   {
@@ -102,10 +94,6 @@
   {
     "word": "aircraft",
     "word_type": "noun"
-  },
-  {
-    "word": "alarm",
-    "word_type": "verb"
   },
   {
     "word": "alter",
@@ -240,10 +228,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "battle",
-    "word_type": "verb"
-  },
-  {
     "word": "beg",
     "word_type": "verb"
   },
@@ -290,10 +274,6 @@
   {
     "word": "bond",
     "word_type": "noun"
-  },
-  {
-    "word": "border",
-    "word_type": "verb"
   },
   {
     "word": "breast",
@@ -376,16 +356,8 @@
     "word_type": "noun"
   },
   {
-    "word": "chain",
-    "word_type": "verb"
-  },
-  {
     "word": "chairman",
     "word_type": "noun"
-  },
-  {
-    "word": "challenge",
-    "word_type": "verb"
   },
   {
     "word": "characteristic",
@@ -478,10 +450,6 @@
   {
     "word": "commonly",
     "word_type": "adverb"
-  },
-  {
-    "word": "complex",
-    "word_type": "noun"
   },
   {
     "word": "complicated",
@@ -692,10 +660,6 @@
     "word_type": "verb"
   },
   {
-    "word": "current",
-    "word_type": "noun"
-  },
-  {
     "word": "curve",
     "word_type": "noun"
   },
@@ -864,10 +828,6 @@
     "word_type": "noun"
   },
   {
-    "word": "discount",
-    "word_type": "verb"
-  },
-  {
     "word": "dishonest",
     "word_type": "adjective"
   },
@@ -897,10 +857,6 @@
   },
   {
     "word": "district",
-    "word_type": "noun"
-  },
-  {
-    "word": "divide",
     "word_type": "noun"
   },
   {
@@ -1028,10 +984,6 @@
     "word_type": "adverb"
   },
   {
-    "word": "equal",
-    "word_type": "noun"
-  },
-  {
     "word": "establish",
     "word_type": "verb"
   },
@@ -1136,10 +1088,6 @@
     "word_type": "noun"
   },
   {
-    "word": "favour",
-    "word_type": "verb"
-  },
-  {
     "word": "feather",
     "word_type": "noun"
   },
@@ -1154,10 +1102,6 @@
   {
     "word": "fellow",
     "word_type": "adjective"
-  },
-  {
-    "word": "file",
-    "word_type": "verb"
   },
   {
     "word": "finance",
@@ -1196,10 +1140,6 @@
     "word_type": "verb"
   },
   {
-    "word": "fold",
-    "word_type": "noun"
-  },
-  {
     "word": "folding",
     "word_type": "adjective"
   },
@@ -1228,16 +1168,8 @@
     "word_type": "noun"
   },
   {
-    "word": "fuel",
-    "word_type": "verb"
-  },
-  {
     "word": "fully",
     "word_type": "adverb"
-  },
-  {
-    "word": "function",
-    "word_type": "verb"
   },
   {
     "word": "fund",
@@ -1285,10 +1217,6 @@
   },
   {
     "word": "grab",
-    "word_type": "verb"
-  },
-  {
-    "word": "grade",
     "word_type": "verb"
   },
   {
@@ -1356,10 +1284,6 @@
     "word_type": "verb"
   },
   {
-    "word": "hire",
-    "word_type": "noun"
-  },
-  {
     "word": "hollow",
     "word_type": "adjective"
   },
@@ -1376,10 +1300,6 @@
     "word_type": "verb"
   },
   {
-    "word": "host",
-    "word_type": "verb"
-  },
-  {
     "word": "household",
     "word_type": "noun"
   },
@@ -1393,10 +1313,6 @@
   },
   {
     "word": "humour",
-    "word_type": "noun"
-  },
-  {
-    "word": "hunt",
     "word_type": "noun"
   },
   {
@@ -1544,10 +1460,6 @@
     "word_type": "noun"
   },
   {
-    "word": "issue",
-    "word_type": "verb"
-  },
-  {
     "word": "joy",
     "word_type": "noun"
   },
@@ -1578,10 +1490,6 @@
   {
     "word": "largely",
     "word_type": "adverb"
-  },
-  {
-    "word": "latest",
-    "word_type": "noun"
   },
   {
     "word": "launch",
@@ -1701,10 +1609,6 @@
   },
   {
     "word": "measurement",
-    "word_type": "noun"
-  },
-  {
-    "word": "medium",
     "word_type": "noun"
   },
   {
@@ -1864,10 +1768,6 @@
     "word_type": "adjective"
   },
   {
-    "word": "official",
-    "word_type": "noun"
-  },
-  {
     "word": "opening",
     "word_type": "noun"
   },
@@ -1940,10 +1840,6 @@
     "word_type": "verb"
   },
   {
-    "word": "package",
-    "word_type": "verb"
-  },
-  {
     "word": "panel",
     "word_type": "noun"
   },
@@ -2010,22 +1906,6 @@
   {
     "word": "plain",
     "word_type": "adjective"
-  },
-  {
-    "word": "plot",
-    "word_type": "verb"
-  },
-  {
-    "word": "plus",
-    "word_type": "adjective"
-  },
-  {
-    "word": "plus",
-    "word_type": "conjunction"
-  },
-  {
-    "word": "plus",
-    "word_type": "noun"
   },
   {
     "word": "pointed",
@@ -2145,10 +2025,6 @@
   },
   {
     "word": "pursue",
-    "word_type": "verb"
-  },
-  {
-    "word": "range",
     "word_type": "verb"
   },
   {
@@ -2356,10 +2232,6 @@
     "word_type": "verb"
   },
   {
-    "word": "sample",
-    "word_type": "verb"
-  },
-  {
     "word": "satellite",
     "word_type": "noun"
   },
@@ -2465,10 +2337,6 @@
   },
   {
     "word": "shelter",
-    "word_type": "verb"
-  },
-  {
-    "word": "shift",
     "word_type": "verb"
   },
   {
@@ -2584,14 +2452,6 @@
     "word_type": "verb"
   },
   {
-    "word": "spot",
-    "word_type": "verb"
-  },
-  {
-    "word": "spread",
-    "word_type": "noun"
-  },
-  {
     "word": "stable",
     "word_type": "adjective"
   },
@@ -2660,10 +2520,6 @@
     "word_type": "verb"
   },
   {
-    "word": "stuff",
-    "word_type": "verb"
-  },
-  {
     "word": "submit",
     "word_type": "verb"
   },
@@ -2702,10 +2558,6 @@
   {
     "word": "sweep",
     "word_type": "verb"
-  },
-  {
-    "word": "switch",
-    "word_type": "noun"
   },
   {
     "word": "sympathy",
@@ -2840,10 +2692,6 @@
     "word_type": "verb"
   },
   {
-    "word": "value",
-    "word_type": "verb"
-  },
-  {
     "word": "vary",
     "word_type": "verb"
   },
@@ -2954,10 +2802,6 @@
   {
     "word": "witness",
     "word_type": "verb"
-  },
-  {
-    "word": "worth",
-    "word_type": "noun"
   },
   {
     "word": "wound",

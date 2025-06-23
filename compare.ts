@@ -5,7 +5,7 @@ interface WordEntry {
   word_type: string;
 }
 
-const file1 = { path: 'english/A2_words_array.json', name: 'A2' };
+const file1 = { path: 'english/B2_words_array.json', name: 'B2' };
 const file2 = { path: 'english/C1_words_array.json', name: 'C1' };
 
 async function findDuplicates() {
